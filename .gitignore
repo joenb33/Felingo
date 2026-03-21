@@ -47,4 +47,6 @@ coverage/
 credentials.json
 secrets.json
 /.playwright-mcp
-*.png
+
+# Root-level screenshots / exports (optional noise on public repos)
+/*.png

@@ -1,37 +1,41 @@
-# Felingo 🇸🇪🎤
+# Felingo
 
-**Built for the stage. Built for right now.**
+**Practice English for real situations — and help others do the same.**
 
-A personal English training app for Sweden's Eurovision Song Contest representative — designed as a fast, beautiful, mobile-first web experience with a Netflix/Spotify-inspired dark UI.
+Felingo is an open source, mobile-first web app for practicing English phrases, dialogues, and interview-style answers. It is useful for performers and teams, or anyone who wants calmer, more natural English when it matters.
+
+The scenarios lean toward live events (fans, press, backstage), but **content and code are for everyone**. Bugfixes, copy, translations, a11y, and small features are all welcome.
+
+**Live site:** [felingo.se](https://felingo.se)
 
 ## What is this?
 
-**Felingo** helps an artist practice English phrases, dialogues, and interview responses they'll encounter at Eurovision — from fan interactions to press conferences to backstage communication.
+**Felingo** walks you through themed sessions: phrases, multiple-choice interview practice, backstage vocabulary, and a full-screen “panic” mode for quick phrases.
 
 **Core concept:** _Pick → Play → Speak_
 
 ## Features
 
 - **Talk to Fans** — Common phrases and responses for fan interactions
-- **Interview Mode** — Practice press conference Q&A with multiple-choice responses
-- **Backstage English** — Technical and logistical vocabulary for behind the scenes
-- **Panic Mode** — Full-screen emergency phrases for when you need help _right now_
-- **Text-to-Speech** — Hear correct pronunciation via the Web Speech API
+- **Interview Mode** — Press-style Q&A with multiple-choice responses
+- **Backstage English** — Technical and logistical vocabulary behind the scenes
+- **Panic Mode** — Full-screen emergency phrases when you need help _right now_
+- **Audio & pronunciation** — **Pre-generated MP3** where deployed (optional [ElevenLabs](https://elevenlabs.io/) pipeline in `scripts/`), plus **Web Speech API** fallback in supported browsers
 - **Favorites** — Save phrases for quick review
-- **Offline Support** — Works without internet (PWA)
-- **Zero Friction** — No login, no accounts, instant start
+- **Offline support** — Installable PWA; works without a network after first load
+- **No accounts** — Open the site and start
 
-## Tech Stack
+## Tech stack
 
 - **React 19** + **TypeScript**
-- **Vite 8** — fast builds
-- **Tailwind CSS 4** — utility-first styling
-- **Zustand** — lightweight state management
-- **Framer Motion** — smooth animations
-- **Vitest** + **React Testing Library** — testing
-- **PWA** — installable, works offline
+- **Vite 8**
+- **Tailwind CSS 4**
+- **Zustand**
+- **Framer Motion**
+- **Vitest** + **React Testing Library**
+- **PWA** (service worker + manifest)
 
-## Getting Started
+## Getting started
 
 ```bash
 # Install dependencies
@@ -43,19 +47,23 @@ npm run dev
 # Build for production
 npm run build
 
-# ElevenLabs TTS (optional, for pre-generated MP3s in `public/audio/`)
-# cp .env.example .env  # then add keys; run: npm run generate:tts
-# MP3 files are gitignored — copy them to the server when you deploy.
+# Optional: pre-generate MP3s in public/audio/ (needs .env — see .env.example)
+# npm run generate:tts
+# MP3s are gitignored; copy them to your host when you deploy.
 
-# Run tests
+# Tests
 npm test
 
 # Lint & type-check
 npm run lint
 npm run typecheck
+
+# Format (CI runs format:check — run this before pushing)
+npm run format
+npm run format:check
 ```
 
-## Project Structure
+## Project structure
 
 ```
 src/
@@ -73,13 +81,12 @@ src/
 
 ## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request.
+This repo is **public on purpose**: we want issues, pull requests, and discussion.
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+1. **Fork** the repository and create a branch (`feature/…` or `fix/…`).
+2. **Keep CI green:** `npm run lint`, `npm run typecheck`, `npm test`, and `npm run format:check` (Prettier is enforced in GitHub Actions).
+3. **Open a pull request** with a short description of the change. For larger work, an issue first helps align direction.
+4. Be **constructive and respectful** — thank you for helping improve Felingo.
 
 ## License
 

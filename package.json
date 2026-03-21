@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "description": "Felingo — English practice for Eurovision stage, press, and fans (personal training app)",
+  "description": "Felingo — open-source English practice PWA (phrases, dialogues, interview prep). https://felingo.se",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",

@@ -2,19 +2,19 @@ Här är en **uppdaterad, genomförbar plan + systemdesign** för
 
 ## **Felingo**
 
-– optimerad för: *snabb start, noll-friktion, Netflix/Spotify-känsla, låg kostnad, och ändå “proffsig demo”*.
+– optimerad för: _snabb start, noll-friktion, Netflix/Spotify-känsla, låg kostnad, och ändå “proffsig demo”_.
 
 ---
 
-# 🎯 Produktpositionering (vad detta *är*)
+# 🎯 Produktpositionering (vad detta _är_)
 
 **Felingo** är en **one-off, personlig träningsupplevelse** för en artist inför Eurovision – byggd som en snabb, snygg, mobil-first webbapp.
 
 **Kärna:**
 
-* *Pick → Play → Speak*
-* Inga konton krävs
-* Allt känns som “korta sessioner backstage”
+- _Pick → Play → Speak_
+- Inga konton krävs
+- Allt känns som “korta sessioner backstage”
 
 ---
 
@@ -26,8 +26,8 @@ Här är en **uppdaterad, genomförbar plan + systemdesign** för
 
 **Hur vi sparar progress:**
 
-* `localStorage` (primärt)
-* fallback: inget sparande (funkar ändå)
+- `localStorage` (primärt)
+- fallback: inget sparande (funkar ändå)
 
 **Vad som sparas:**
 
@@ -42,8 +42,8 @@ Här är en **uppdaterad, genomförbar plan + systemdesign** för
 
 👉 Detta räcker för:
 
-* “continue where you left off”
-* undvika upprepning (till viss grad)
+- “continue where you left off”
+- undvika upprepning (till viss grad)
 
 ---
 
@@ -53,12 +53,12 @@ Du föreslog två alternativ – här är optimal hybrid:
 
 ### ❌ strikt progression
 
-* känns som skola
-* dålig UX
+- känns som skola
+- dålig UX
 
 ### ❌ helt random
 
-* tappar struktur
+- tappar struktur
 
 ### ✅ Lösning:
 
@@ -66,10 +66,10 @@ Du föreslog två alternativ – här är optimal hybrid:
 
 Ex:
 
-* “Talk to fans”
-* “Interview mode”
-* “Backstage”
-* “Panic mode”
+- “Talk to fans”
+- “Interview mode”
+- “Backstage”
+- “Panic mode”
 
 När man går in:
 👉 systemet visar **3–5 kort slumpade från poolen**
@@ -77,9 +77,9 @@ När man går in:
 
 **Resultat:**
 
-* känns dynamiskt
-* låg risk för repetition
-* ingen tung progress-logik
+- känns dynamiskt
+- låg risk för repetition
+- ingen tung progress-logik
 
 ---
 
@@ -87,30 +87,30 @@ När man går in:
 
 ## 🎬 Känsla
 
-* Netflix: tydliga “rows”
-* Spotify: mörk UI + accentfärg
-* Backstage/artist: spotlight, gradients
+- Netflix: tydliga “rows”
+- Spotify: mörk UI + accentfärg
+- Backstage/artist: spotlight, gradients
 
 ---
 
 ## 🎨 Färgpalett (förslag)
 
-* Bakgrund: `#0B0B0F` (nästan svart)
-* Cards: `#1A1A22`
-* Accent:
+- Bakgrund: `#0B0B0F` (nästan svart)
+- Cards: `#1A1A22`
+- Accent:
+  - 🇸🇪 blå: `#0057FF`
+  - gul: `#FFD500`
 
-  * 🇸🇪 blå: `#0057FF`
-  * gul: `#FFD500`
-* Secondary: neon-lila `#7B5CFF`
+- Secondary: neon-lila `#7B5CFF`
 
 ---
 
 ## ✨ UI-känsla
 
-* soft glow
-* subtle gradients
-* rounded cards
-* stora touch targets
+- soft glow
+- subtle gradients
+- rounded cards
+- stora touch targets
 
 ---
 
@@ -118,9 +118,9 @@ När man går in:
 
 Små inslag:
 
-* “Sweden is definitely winning, right? 😉”
-* “Careful… this answer might start a fan debate”
-* “You just handled a chaotic interview. Nice.”
+- “Sweden is definitely winning, right? 😉”
+- “Careful… this answer might start a fan debate”
+- “You just handled a chaotic interview. Nice.”
 
 👉 aldrig överdrivet, alltid kort
 
@@ -132,23 +132,21 @@ Små inslag:
 
 ### Innehåll:
 
-* Hero:
+- Hero:
 
   > “Felingo”
   > “Built for the stage. Built for right now.”
 
-* CTA:
+- CTA:
+  - ▶ Start session
+  - ⚡ Quick phrases
+  - 🆘 Panic mode
 
-  * ▶ Start session
-  * ⚡ Quick phrases
-  * 🆘 Panic mode
-
-* Sections (scroll):
-
-  * Talk to fans
-  * Interview mode
-  * Backstage English
-  * Sweden hype 🇸🇪
+- Sections (scroll):
+  - Talk to fans
+  - Interview mode
+  - Backstage English
+  - Sweden hype 🇸🇪
 
 ---
 
@@ -166,19 +164,19 @@ Små inslag:
 
 ### A. Phrase Card
 
-* text (stor)
-* svensk hint (liten)
-* 🔊 play
-* ⭐ save
-* ➡ next
+- text (stor)
+- svensk hint (liten)
+- 🔊 play
+- ⭐ save
+- ➡ next
 
 ---
 
 ### B. Dialogue Card
 
-* scenario
-* rad för rad
-* user väljer svar
+- scenario
+- rad för rad
+- user väljer svar
 
 ---
 
@@ -188,8 +186,8 @@ Små inslag:
 
 Val:
 
-* “I’m really excited…”
-* “I don’t know”
+- “I’m really excited…”
+- “I don’t know”
 
 → feedback
 
@@ -197,8 +195,8 @@ Val:
 
 ### D. Fun Card (branding)
 
-* “Sweden will win because…”
-* svarsmallar 😄
+- “Sweden will win because…”
+- svarsmallar 😄
 
 ---
 
@@ -206,9 +204,9 @@ Val:
 
 Fullskärm, stora knappar:
 
-* “Can you repeat that?”
-* “Please speak slower”
-* “I understand a little”
+- “Can you repeat that?”
+- “Please speak slower”
+- “I understand a little”
 
 👉 detta ska vara **snabbaste vägen i appen**
 
@@ -223,7 +221,7 @@ Home visar:
 baserat på:
 
 ```js
-lastSection
+lastSection;
 ```
 
 ---
@@ -246,17 +244,17 @@ lastSection
 
 ### Frontend
 
-* React (eller Vue)
-* Vite
-* Tailwind (snabb styling)
+- React (eller Vue)
+- Vite
+- Tailwind (snabb styling)
 
 ### State
 
-* enkel global state (Context / Pinia / Zustand)
+- enkel global state (Context / Pinia / Zustand)
 
 ### Storage
 
-* localStorage wrapper
+- localStorage wrapper
 
 ---
 
@@ -264,8 +262,8 @@ lastSection
 
 ### 1. Content Loader
 
-* laddar JSON
-* filtrerar per sektion
+- laddar JSON
+- filtrerar per sektion
 
 ---
 
@@ -284,21 +282,21 @@ getSession(section) {
 ### 3. Seen Tracker
 
 ```js
-markSeen(id)
+markSeen(id);
 ```
 
 ---
 
 ### 4. Speech
 
-* wrapper runt `speechSynthesis`
+- wrapper runt `speechSynthesis`
 
 ---
 
 ### 5. Favorites
 
-* add/remove
-* lista
+- add/remove
+- lista
 
 ---
 
@@ -331,9 +329,9 @@ markSeen(id)
 
 ## Mängd (MVP)
 
-* 80–120 fraser
-* 30 dialoger
-* 30 choice scenarios
+- 80–120 fraser
+- 30 dialoger
+- 30 choice scenarios
 
 👉 detta räcker för att undvika repetition
 
@@ -373,15 +371,15 @@ markSeen(id)
 
 Förbered men implementera inte nu:
 
-* `/private` route
-* feature flag
+- `/private` route
+- feature flag
 
 ---
 
 # 🚀 Deployment
 
-* Vercel / Netlify
-* statisk build
+- Vercel / Netlify
+- statisk build
 
 ---
 
@@ -395,10 +393,10 @@ Det du föreslog:
 
 Varför:
 
-* detta är inte en “kurs”
-* det är ett **mentalt stödverktyg**
-* repetition är OK
-* variation är viktigare än progression
+- detta är inte en “kurs”
+- det är ett **mentalt stödverktyg**
+- repetition är OK
+- variation är viktigare än progression
 
 ---
 
@@ -406,13 +404,12 @@ Varför:
 
 Appen är klar när:
 
-* [ ] öppnar direkt utan login
-* [ ] session startar på 1 klick
-* [ ] cards fungerar
-* [ ] TTS fungerar
-* [ ] shuffle fungerar
-* [ ] känns snabb och snygg på mobil
-* [ ] har tydlig vibe
+- [ ] öppnar direkt utan login
+- [ ] session startar på 1 klick
+- [ ] cards fungerar
+- [ ] TTS fungerar
+- [ ] shuffle fungerar
+- [ ] känns snabb och snygg på mobil
+- [ ] har tydlig vibe
 
 ---
- 

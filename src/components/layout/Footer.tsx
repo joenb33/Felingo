@@ -9,7 +9,9 @@ export function Footer() {
       <div className="layout-narrow px-[max(1.25rem,env(safe-area-inset-left))] pr-[max(1.25rem,env(safe-area-inset-right))]">
         <div className="flex flex-col items-center gap-3 text-center sm:flex-row sm:justify-between sm:text-left">
           <p className="text-[12px] leading-relaxed text-[rgba(235,235,245,0.42)]">
-            <span className="font-semibold text-[rgba(235,235,245,0.55)]">Felingo</span>
+            <span className="font-semibold text-[rgba(235,235,245,0.55)]">
+              Felingo
+            </span>
             {" · "}
             {ui.footer.attribution(year)}
           </p>

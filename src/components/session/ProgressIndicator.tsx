@@ -15,9 +15,7 @@ export function ProgressIndicator({
   return (
     <div className="space-y-3.5">
       <div className="flex items-center justify-between text-xs font-medium tracking-wide text-text-muted sm:text-[13px]">
-        <span>
-          {ui.progress.cardOf(Math.min(current + 1, total), total)}
-        </span>
+        <span>{ui.progress.cardOf(Math.min(current + 1, total), total)}</span>
         <span className="tabular-nums text-text-secondary">
           {Math.round(progress * 100)}%
         </span>

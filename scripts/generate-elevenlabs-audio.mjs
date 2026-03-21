@@ -188,7 +188,9 @@ async function main() {
   } else {
     console.log(`Unique strings in project: ${totalUnique}`);
     if (limit !== null) {
-      console.log(`Processing first ${sorted.length} of ${totalUnique} (--limit ${limit})`);
+      console.log(
+        `Processing first ${sorted.length} of ${totalUnique} (--limit ${limit})`,
+      );
     }
   }
 
@@ -232,7 +234,9 @@ async function main() {
     const buf = Buffer.from(await res.arrayBuffer());
     fs.writeFileSync(filePath, buf);
     created++;
-    console.log(`[${i + 1}/${sorted.length}] ${hash}.mp3  ← ${text.slice(0, 72)}${text.length > 72 ? "…" : ""}`);
+    console.log(
+      `[${i + 1}/${sorted.length}] ${hash}.mp3  ← ${text.slice(0, 72)}${text.length > 72 ? "…" : ""}`,
+    );
 
     await new Promise((r) => setTimeout(r, 120));
   }

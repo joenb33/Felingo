@@ -49,9 +49,11 @@ export function ChoiceCard({ card }: ChoiceCardProps) {
           const isSelected = selected === i;
           const showResult = selected !== null;
 
-          let bg = "bg-[rgba(255,255,255,0.05)] hover:bg-[rgba(255,255,255,0.09)] border-[rgba(255,255,255,0.09)] hover:border-[rgba(255,255,255,0.16)] cursor-pointer";
+          let bg =
+            "bg-[rgba(255,255,255,0.05)] hover:bg-[rgba(255,255,255,0.09)] border-[rgba(255,255,255,0.09)] hover:border-[rgba(255,255,255,0.16)] cursor-pointer";
           let textColor = "text-white";
-          let labelBg = "bg-[rgba(255,255,255,0.09)] text-[rgba(235,235,245,0.55)]";
+          let labelBg =
+            "bg-[rgba(255,255,255,0.09)] text-[rgba(235,235,245,0.55)]";
 
           if (showResult) {
             if (option.correct) {
@@ -63,7 +65,8 @@ export function ChoiceCard({ card }: ChoiceCardProps) {
               textColor = "text-[#FF453A]";
               labelBg = "bg-[rgba(255,69,58,0.18)] text-[#FF453A]";
             } else {
-              bg = "bg-[rgba(255,255,255,0.02)] border-[rgba(255,255,255,0.05)] opacity-35";
+              bg =
+                "bg-[rgba(255,255,255,0.02)] border-[rgba(255,255,255,0.05)] opacity-35";
             }
           }
 
@@ -79,17 +82,44 @@ export function ChoiceCard({ card }: ChoiceCardProps) {
               `}
             >
               <div className="flex items-start gap-3.5">
-                <span className={`mt-0.5 flex h-8 w-8 shrink-0 items-center justify-center rounded-full text-[12px] font-bold ${labelBg}`}>
+                <span
+                  className={`mt-0.5 flex h-8 w-8 shrink-0 items-center justify-center rounded-full text-[12px] font-bold ${labelBg}`}
+                >
                   {showResult && option.correct ? (
-                    <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round"><polyline points="20 6 9 17 4 12" /></svg>
+                    <svg
+                      width="11"
+                      height="11"
+                      viewBox="0 0 24 24"
+                      fill="none"
+                      stroke="currentColor"
+                      strokeWidth="3"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                    >
+                      <polyline points="20 6 9 17 4 12" />
+                    </svg>
                   ) : showResult && isSelected ? (
-                    <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round"><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg>
+                    <svg
+                      width="11"
+                      height="11"
+                      viewBox="0 0 24 24"
+                      fill="none"
+                      stroke="currentColor"
+                      strokeWidth="3"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                    >
+                      <line x1="18" y1="6" x2="6" y2="18" />
+                      <line x1="6" y1="6" x2="18" y2="18" />
+                    </svg>
                   ) : (
                     String.fromCharCode(65 + i)
                   )}
                 </span>
                 <div className="min-w-0 flex-1 py-0.5">
-                  <span className={`text-[15px] leading-relaxed text-pretty break-words ${textColor}`}>
+                  <span
+                    className={`text-[15px] leading-relaxed text-pretty break-words ${textColor}`}
+                  >
                     {option.text}
                   </span>
                   <AnimatePresence>

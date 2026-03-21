@@ -9,10 +9,13 @@ interface BadgeProps {
 }
 
 const variantStyles: Record<BadgeVariant, string> = {
-  default: "bg-[rgba(255,255,255,0.08)] text-[rgba(235,235,245,0.55)] border-[rgba(255,255,255,0.08)]",
+  default:
+    "bg-[rgba(255,255,255,0.08)] text-[rgba(235,235,245,0.55)] border-[rgba(255,255,255,0.08)]",
   blue: "bg-[rgba(10,132,255,0.12)] text-[#409CFF] border-[rgba(10,132,255,0.2)]",
-  yellow: "bg-[rgba(255,214,10,0.10)] text-[#FFD60A] border-[rgba(255,214,10,0.18)]",
-  purple: "bg-[rgba(191,90,242,0.12)] text-[#BF5AF2] border-[rgba(191,90,242,0.22)]",
+  yellow:
+    "bg-[rgba(255,214,10,0.10)] text-[#FFD60A] border-[rgba(255,214,10,0.18)]",
+  purple:
+    "bg-[rgba(191,90,242,0.12)] text-[#BF5AF2] border-[rgba(191,90,242,0.22)]",
   red: "bg-[rgba(255,55,95,0.10)] text-[#FF375F] border-[rgba(255,55,95,0.18)]",
 };
 

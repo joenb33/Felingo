@@ -8,14 +8,14 @@ A personal English training app for Sweden's Eurovision Song Contest representat
 
 **Felingo** helps an artist practice English phrases, dialogues, and interview responses they'll encounter at Eurovision — from fan interactions to press conferences to backstage communication.
 
-**Core concept:** *Pick → Play → Speak*
+**Core concept:** _Pick → Play → Speak_
 
 ## Features
 
 - **Talk to Fans** — Common phrases and responses for fan interactions
 - **Interview Mode** — Practice press conference Q&A with multiple-choice responses
 - **Backstage English** — Technical and logistical vocabulary for behind the scenes
-- **Panic Mode** — Full-screen emergency phrases for when you need help *right now*
+- **Panic Mode** — Full-screen emergency phrases for when you need help _right now_
 - **Text-to-Speech** — Hear correct pronunciation via the Web Speech API
 - **Favorites** — Save phrases for quick review
 - **Offline Support** — Works without internet (PWA)

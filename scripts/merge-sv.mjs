@@ -12,7 +12,10 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.join(__dirname, "..");
 
 const choiceSv = JSON.parse(
-  fs.readFileSync(path.join(__dirname, "sv", "choice-feedback-sv.json"), "utf8"),
+  fs.readFileSync(
+    path.join(__dirname, "sv", "choice-feedback-sv.json"),
+    "utf8",
+  ),
 );
 const dialogueSv = JSON.parse(
   fs.readFileSync(path.join(__dirname, "sv", "dialogue-lines-sv.json"), "utf8"),

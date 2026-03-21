@@ -6,7 +6,12 @@ import { Button } from "@/components/ui/Button";
 import { SECTION_META, type Section } from "@/data/schema";
 import { ui } from "@/i18n/ui";
 
-const VALID_SECTIONS: Section[] = ["fan-talk", "interview", "backstage", "panic"];
+const VALID_SECTIONS: Section[] = [
+  "fan-talk",
+  "interview",
+  "backstage",
+  "panic",
+];
 
 const sectionAccentColor: Record<Section, string> = {
   "fan-talk": "#0A84FF",
@@ -23,8 +28,16 @@ export function SessionPage() {
     ? (section as Section)
     : "fan-talk";
 
-  const { cards, currentIndex, currentCard, isComplete, progress, next, previous, restart } =
-    useSession(validSection);
+  const {
+    cards,
+    currentIndex,
+    currentCard,
+    isComplete,
+    progress,
+    next,
+    previous,
+    restart,
+  } = useSession(validSection);
 
   const meta = SECTION_META[validSection];
   const accent = sectionAccentColor[validSection];
@@ -74,7 +87,17 @@ export function SessionPage() {
             className="flex h-10 w-10 shrink-0 cursor-pointer items-center justify-center rounded-full bg-[rgba(255,255,255,0.09)] text-[rgba(235,235,245,0.7)] transition-all hover:bg-[rgba(255,255,255,0.15)] hover:text-white active:scale-[0.94]"
             aria-label={ui.session.backAria}
           >
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+            <svg
+              width="18"
+              height="18"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2.2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              aria-hidden
+            >
               <path d="M15 18l-6-6 6-6" />
             </svg>
           </button>
@@ -133,14 +156,34 @@ export function SessionPage() {
             disabled={currentIndex === 0}
             className="flex-1 min-w-0"
           >
-            <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+            <svg
+              width="17"
+              height="17"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2.2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              aria-hidden
+            >
               <path d="M15 18l-6-6 6-6" />
             </svg>
             {ui.session.back}
           </Button>
           <Button size="lg" onClick={next} className="flex-1 min-w-0">
             {ui.session.next}
-            <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+            <svg
+              width="17"
+              height="17"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2.2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              aria-hidden
+            >
               <path d="M9 18l6-6-6-6" />
             </svg>
           </Button>

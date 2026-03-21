@@ -6,7 +6,10 @@ interface FavoriteButtonProps {
   className?: string;
 }
 
-export function FavoriteButton({ cardId, className = "" }: FavoriteButtonProps) {
+export function FavoriteButton({
+  cardId,
+  className = "",
+}: FavoriteButtonProps) {
   const toggleFavorite = useAppStore((s) => s.toggleFavorite);
   const isFavorite = useAppStore((s) => s.favorites.includes(cardId));
 
@@ -15,9 +18,10 @@ export function FavoriteButton({ cardId, className = "" }: FavoriteButtonProps) 
       onClick={() => toggleFavorite(cardId)}
       className={`
         flex h-10 w-10 shrink-0 cursor-pointer items-center justify-center rounded-full border transition-all duration-200
-        ${isFavorite
-          ? "border-[rgba(255,214,10,0.35)] bg-[rgba(255,214,10,0.15)] text-[#FFD60A]"
-          : "border-[rgba(255,255,255,0.1)] bg-[rgba(255,255,255,0.07)] text-[rgba(235,235,245,0.5)] hover:border-[rgba(255,255,255,0.18)] hover:bg-[rgba(255,255,255,0.12)] hover:text-white"
+        ${
+          isFavorite
+            ? "border-[rgba(255,214,10,0.35)] bg-[rgba(255,214,10,0.15)] text-[#FFD60A]"
+            : "border-[rgba(255,255,255,0.1)] bg-[rgba(255,255,255,0.07)] text-[rgba(235,235,245,0.5)] hover:border-[rgba(255,255,255,0.18)] hover:bg-[rgba(255,255,255,0.12)] hover:text-white"
         }
         ${className}
       `}

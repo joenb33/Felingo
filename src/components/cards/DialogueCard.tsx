@@ -51,9 +51,10 @@ export function DialogueCard({ card }: DialogueCardProps) {
             <div
               className={`
                   shrink-0 w-9 h-9 rounded-full flex items-center justify-center text-[12px] font-bold
-                  ${line.speaker === "you"
-                    ? "bg-gradient-to-br from-[#BF5AF2] to-[#FF375F] text-white"
-                    : "bg-[rgba(255,255,255,0.1)] text-[rgba(235,235,245,0.7)]"
+                  ${
+                    line.speaker === "you"
+                      ? "bg-gradient-to-br from-[#BF5AF2] to-[#FF375F] text-white"
+                      : "bg-[rgba(255,255,255,0.1)] text-[rgba(235,235,245,0.7)]"
                   }
                 `}
             >
@@ -63,9 +64,10 @@ export function DialogueCard({ card }: DialogueCardProps) {
             <div
               className={`
                   min-w-0 max-w-[82%] rounded-[18px] px-5 py-4
-                  ${line.speaker === "you"
-                    ? "bg-[rgba(191,90,242,0.16)] border border-[rgba(191,90,242,0.22)] rounded-br-[6px]"
-                    : "bg-[rgba(255,255,255,0.07)] border border-[rgba(255,255,255,0.09)] rounded-bl-[6px]"
+                  ${
+                    line.speaker === "you"
+                      ? "bg-[rgba(191,90,242,0.16)] border border-[rgba(191,90,242,0.22)] rounded-br-[6px]"
+                      : "bg-[rgba(255,255,255,0.07)] border border-[rgba(255,255,255,0.09)] rounded-bl-[6px]"
                   }
                 `}
             >
@@ -90,7 +92,11 @@ export function DialogueCard({ card }: DialogueCardProps) {
       {/* Reveal / Complete */}
       {!allRevealed && (
         <div className="mt-8 text-center">
-          <Button variant="secondary" size="md" onClick={() => setVisibleLines((v) => v + 1)}>
+          <Button
+            variant="secondary"
+            size="md"
+            onClick={() => setVisibleLines((v) => v + 1)}
+          >
             {ui.dialogue.revealNext}
           </Button>
         </div>
@@ -103,7 +109,17 @@ export function DialogueCard({ card }: DialogueCardProps) {
           className="mt-8 flex justify-center"
         >
           <div className="inline-flex items-center gap-2.5 rounded-full bg-[rgba(48,209,88,0.12)] border border-[rgba(48,209,88,0.22)] px-5 py-3 text-[14px] font-medium text-[#30D158]">
-            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+            <svg
+              width="13"
+              height="13"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2.5"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              aria-hidden
+            >
               <polyline points="20 6 9 17 4 12" />
             </svg>
             {ui.dialogue.complete}

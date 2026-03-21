@@ -5,10 +5,7 @@
     "en": "Hi! Thanks so much for coming — it means a lot.",
     "sv": "Hej! Tack så mycket för att ni kom — det betyder mycket.",
     "section": "fan-talk",
-    "tags": [
-      "greeting",
-      "thanking"
-    ]
+    "tags": ["greeting", "thanking"]
   },
   {
     "id": "fan_phrase_2",
@@ -16,9 +13,7 @@
     "en": "It's so nice to meet you!",
     "sv": "Så roligt att träffa dig!",
     "section": "fan-talk",
-    "tags": [
-      "greeting"
-    ]
+    "tags": ["greeting"]
   },
   {
     "id": "fan_phrase_3",
@@ -26,10 +21,7 @@
     "en": "Hey! How are you? Are you enjoying the week so far?",
     "sv": "Hej! Hur är läget? Gillar du veckan hittills?",
     "section": "fan-talk",
-    "tags": [
-      "greeting",
-      "small-talk"
-    ]
+    "tags": ["greeting", "small-talk"]
   },
   {
     "id": "fan_phrase_4",
@@ -37,10 +29,7 @@
     "en": "Hello everyone! I can't believe you're all here!",
     "sv": "Hej allihop! Jag kan inte tro att ni alla är här!",
     "section": "fan-talk",
-    "tags": [
-      "greeting",
-      "crowd"
-    ]
+    "tags": ["greeting", "crowd"]
   },
   {
     "id": "fan_phrase_5",
@@ -48,10 +37,7 @@
     "en": "Welcome! Where are you from?",
     "sv": "Välkommen! Var kommer du ifrån?",
     "section": "fan-talk",
-    "tags": [
-      "greeting",
-      "small-talk"
-    ]
+    "tags": ["greeting", "small-talk"]
   },
   {
     "id": "fan_phrase_6",
@@ -59,10 +45,7 @@
     "en": "Thank you, that really means the world to me.",
     "sv": "Tack, det betyder verkligen allt för mig.",
     "section": "fan-talk",
-    "tags": [
-      "thanking",
-      "emotional"
-    ]
+    "tags": ["thanking", "emotional"]
   },
   {
     "id": "fan_phrase_7",
@@ -70,10 +53,7 @@
     "en": "I honestly couldn't do this without fans like you.",
     "sv": "Ärligt talat, jag skulle inte klara det utan fans som er.",
     "section": "fan-talk",
-    "tags": [
-      "thanking",
-      "gratitude"
-    ]
+    "tags": ["thanking", "gratitude"]
   },
   {
     "id": "fan_phrase_8",
@@ -81,10 +61,7 @@
     "en": "Your support keeps me going, honestly.",
     "sv": "Ert stöd håller mig igång, ärligt talat.",
     "section": "fan-talk",
-    "tags": [
-      "thanking",
-      "gratitude"
-    ]
+    "tags": ["thanking", "gratitude"]
   },
   {
     "id": "fan_phrase_9",
@@ -92,10 +69,7 @@
     "en": "You guys are the best fans in the world!",
     "sv": "Ni är bästa fansen i hela världen!",
     "section": "fan-talk",
-    "tags": [
-      "thanking",
-      "compliment"
-    ]
+    "tags": ["thanking", "compliment"]
   },
   {
     "id": "fan_phrase_10",
@@ -103,10 +77,7 @@
     "en": "I'm so grateful for all the love you've shown me.",
     "sv": "Jag är så tacksam för all kärlek ni visat mig.",
     "section": "fan-talk",
-    "tags": [
-      "thanking",
-      "emotional"
-    ]
+    "tags": ["thanking", "emotional"]
   },
   {
     "id": "fan_phrase_11",
@@ -114,9 +85,7 @@
     "en": "I was so nervous on stage, but the energy from the crowd was incredible!",
     "sv": "Jag var så nervös på scenen, men energin från publiken var otrolig!",
     "section": "fan-talk",
-    "tags": [
-      "performance"
-    ]
+    "tags": ["performance"]
   },
   {
     "id": "fan_phrase_12",
@@ -124,9 +93,7 @@
     "en": "The rehearsals went really well — I felt so ready tonight.",
     "sv": "Repetitionerna gick jättebra — jag kände mig så redo ikväll.",
     "section": "fan-talk",
-    "tags": [
-      "performance"
-    ]
+    "tags": ["performance"]
   },
   {
     "id": "fan_phrase_13",
@@ -134,10 +101,7 @@
     "en": "Performing in front of that audience was a dream come true.",
     "sv": "Att uppträda inför den publiken var en dröm som gick i uppfyllelse.",
     "section": "fan-talk",
-    "tags": [
-      "performance",
-      "emotional"
-    ]
+    "tags": ["performance", "emotional"]
   },
   {
     "id": "fan_phrase_14",
@@ -145,9 +109,7 @@
     "en": "I put my whole heart into that performance.",
     "sv": "Jag lade hela mitt hjärta i det framträdandet.",
     "section": "fan-talk",
-    "tags": [
-      "performance"
-    ]
+    "tags": ["performance"]
   },
   {
     "id": "fan_phrase_15",
@@ -155,9 +117,7 @@
     "en": "Feel free to follow me on socials — I'll share some behind-the-scenes bits.",
     "sv": "Följ gärna mina sociala kanaler — jag delar lite bakom kulisserna.",
     "section": "fan-talk",
-    "tags": [
-      "social-media"
-    ]
+    "tags": ["social-media"]
   },
   {
     "id": "fan_phrase_16",
@@ -165,10 +125,7 @@
     "en": "I saw your post — that fan art was absolutely amazing!",
     "sv": "Jag såg ditt inlägg — den fan-konsten var helt fantastisk!",
     "section": "fan-talk",
-    "tags": [
-      "social-media",
-      "compliment"
-    ]
+    "tags": ["social-media", "compliment"]
   },
   {
     "id": "fan_phrase_17",
@@ -176,9 +133,7 @@
     "en": "Tag me if you post any photos from tonight!",
     "sv": "Tagga mig om ni lägger upp bilder från ikväll!",
     "section": "fan-talk",
-    "tags": [
-      "social-media"
-    ]
+    "tags": ["social-media"]
   },
   {
     "id": "fan_phrase_18",
@@ -186,10 +141,7 @@
     "en": "I love reading all your comments — they make my day!",
     "sv": "Jag älskar att läsa era kommentarer — de gör min dag!",
     "section": "fan-talk",
-    "tags": [
-      "social-media",
-      "gratitude"
-    ]
+    "tags": ["social-media", "gratitude"]
   },
   {
     "id": "fan_phrase_19",
@@ -197,9 +149,7 @@
     "en": "Of course! Let's take a selfie. Come closer!",
     "sv": "Självklart! Vi tar en selfie. Kom närmare!",
     "section": "fan-talk",
-    "tags": [
-      "selfie"
-    ]
+    "tags": ["selfie"]
   },
   {
     "id": "fan_phrase_20",
@@ -207,10 +157,7 @@
     "en": "Want me to take it, or should you? I've got long arms!",
     "sv": "Vill du att jag tar den, eller ska du? Jag har långa armar!",
     "section": "fan-talk",
-    "tags": [
-      "selfie",
-      "witty"
-    ]
+    "tags": ["selfie", "witty"]
   },
   {
     "id": "fan_phrase_21",
@@ -218,9 +165,7 @@
     "en": "Sure, I'd love to sign that! Do you have a pen?",
     "sv": "Visst, jag signerar gärna! Har du en penna?",
     "section": "fan-talk",
-    "tags": [
-      "autograph"
-    ]
+    "tags": ["autograph"]
   },
   {
     "id": "fan_phrase_22",
@@ -228,9 +173,7 @@
     "en": "Who should I make it out to?",
     "sv": "Till vem ska jag skriva det?",
     "section": "fan-talk",
-    "tags": [
-      "autograph"
-    ]
+    "tags": ["autograph"]
   },
   {
     "id": "fan_phrase_23",
@@ -238,9 +181,7 @@
     "en": "There you go! I hope you treasure it.",
     "sv": "Varsågod! Jag hoppas du tar vara på den.",
     "section": "fan-talk",
-    "tags": [
-      "autograph"
-    ]
+    "tags": ["autograph"]
   },
   {
     "id": "fan_phrase_24",
@@ -248,9 +189,7 @@
     "en": "I love your outfit — you look amazing!",
     "sv": "Jag älskar din outfit — du ser fantastisk ut!",
     "section": "fan-talk",
-    "tags": [
-      "compliment"
-    ]
+    "tags": ["compliment"]
   },
   {
     "id": "fan_phrase_25",
@@ -258,10 +197,7 @@
     "en": "Is that a flag from your country? I love it!",
     "sv": "Är det en flagga från ditt land? Jag älskar det!",
     "section": "fan-talk",
-    "tags": [
-      "compliment",
-      "small-talk"
-    ]
+    "tags": ["compliment", "small-talk"]
   },
   {
     "id": "fan_phrase_26",
@@ -269,10 +205,7 @@
     "en": "You've been so supportive — I really appreciate it.",
     "sv": "Du har varit så stöttande — jag uppskattar det verkligen.",
     "section": "fan-talk",
-    "tags": [
-      "compliment",
-      "gratitude"
-    ]
+    "tags": ["compliment", "gratitude"]
   },
   {
     "id": "fan_phrase_27",
@@ -280,10 +213,7 @@
     "en": "Thank you so much for voting for me — every vote counts!",
     "sv": "Tack så mycket för att ni röstade på mig — varje röst räknas!",
     "section": "fan-talk",
-    "tags": [
-      "voting",
-      "gratitude"
-    ]
+    "tags": ["voting", "gratitude"]
   },
   {
     "id": "fan_phrase_28",
@@ -291,10 +221,7 @@
     "en": "I can't believe how many votes we got — I'm speechless!",
     "sv": "Jag kan inte tro hur många röster vi fick — jag är mållös!",
     "section": "fan-talk",
-    "tags": [
-      "voting",
-      "emotional"
-    ]
+    "tags": ["voting", "emotional"]
   },
   {
     "id": "fan_phrase_29",
@@ -302,10 +229,7 @@
     "en": "Even if we don't win, your votes mean everything to me.",
     "sv": "Även om vi inte vinner, betyder era röster allt för mig.",
     "section": "fan-talk",
-    "tags": [
-      "voting",
-      "gratitude"
-    ]
+    "tags": ["voting", "gratitude"]
   },
   {
     "id": "fan_phrase_30",
@@ -313,9 +237,7 @@
     "en": "Thank you! I'll do my best — keep your fingers crossed!",
     "sv": "Tack! Jag ska göra mitt bästa — håll tummarna!",
     "section": "fan-talk",
-    "tags": [
-      "good-luck-response"
-    ]
+    "tags": ["good-luck-response"]
   },
   {
     "id": "fan_phrase_31",
@@ -323,10 +245,7 @@
     "en": "That's so sweet of you to say — I really needed to hear that!",
     "sv": "Så gulligt av dig att säga — jag behövde verkligen höra det!",
     "section": "fan-talk",
-    "tags": [
-      "good-luck-response",
-      "emotional"
-    ]
+    "tags": ["good-luck-response", "emotional"]
   },
   {
     "id": "fan_phrase_32",
@@ -334,9 +253,7 @@
     "en": "I appreciate it! It's going to be a wild night!",
     "sv": "Jag uppskattar det! Det blir en vild kväll!",
     "section": "fan-talk",
-    "tags": [
-      "good-luck-response"
-    ]
+    "tags": ["good-luck-response"]
   },
   {
     "id": "fan_phrase_33",
@@ -344,9 +261,7 @@
     "en": "Have you seen any other acts you liked?",
     "sv": "Har du sett några andra akter du gillade?",
     "section": "fan-talk",
-    "tags": [
-      "small-talk"
-    ]
+    "tags": ["small-talk"]
   },
   {
     "id": "fan_phrase_34",
@@ -354,9 +269,7 @@
     "en": "This is my first Eurovision — I still can't believe I'm here!",
     "sv": "Det här är mitt första Eurovision — jag kan fortfarande inte tro att jag är här!",
     "section": "fan-talk",
-    "tags": [
-      "small-talk"
-    ]
+    "tags": ["small-talk"]
   },
   {
     "id": "fan_phrase_35",
@@ -364,9 +277,7 @@
     "en": "How long have you been following Eurovision?",
     "sv": "Hur länge har du följt Eurovision?",
     "section": "fan-talk",
-    "tags": [
-      "small-talk"
-    ]
+    "tags": ["small-talk"]
   },
   {
     "id": "fan_phrase_36",
@@ -374,10 +285,7 @@
     "en": "I'll never forget this moment — thank you for being part of it.",
     "sv": "Jag kommer aldrig glömma den här stunden — tack för att du är en del av den.",
     "section": "fan-talk",
-    "tags": [
-      "emotional",
-      "gratitude"
-    ]
+    "tags": ["emotional", "gratitude"]
   },
   {
     "id": "fan_phrase_37",
@@ -385,10 +293,7 @@
     "en": "I'm so happy to be here — Sweden always brings great energy to Eurovision.",
     "sv": "Jag är så glad att vara här — Sverige brukar alltid bjuda på grym energi i Eurovision.",
     "section": "fan-talk",
-    "tags": [
-      "sweden",
-      "eurovision"
-    ]
+    "tags": ["sweden", "eurovision"]
   },
   {
     "id": "fan_phrase_38",
@@ -396,10 +301,7 @@
     "en": "People keep joking that Sweden's going to win — please don't jinx us!",
     "sv": "Folk skämtar om att Sverige ska vinna — snälla, förskräck oss inte!",
     "section": "fan-talk",
-    "tags": [
-      "humour",
-      "sweden"
-    ]
+    "tags": ["humour", "sweden"]
   },
   {
     "id": "fan_phrase_39",
@@ -407,10 +309,7 @@
     "en": "Sweden and Eurovision — it's a long love story, and I'm here for it.",
     "sv": "Sverige och Eurovision — en lång kärlekshistoria, och jag är här för den.",
     "section": "fan-talk",
-    "tags": [
-      "sweden",
-      "eurovision"
-    ]
+    "tags": ["sweden", "eurovision"]
   },
   {
     "id": "fan_phrase_40",
@@ -418,10 +317,7 @@
     "en": "I'm here to sing, connect with people, and maybe stress a tiny bit — in a good way.",
     "sv": "Jag är här för att sjunga, möta människor och stressa lite lagom — på ett bra sätt.",
     "section": "fan-talk",
-    "tags": [
-      "honest",
-      "relatable"
-    ]
+    "tags": ["honest", "relatable"]
   },
   {
     "id": "fan_phrase_41",
@@ -429,10 +325,7 @@
     "en": "Could you take a photo of us with the crowd in the background?",
     "sv": "Kan du ta en bild på oss med publiken i bakgrunden?",
     "section": "fan-talk",
-    "tags": [
-      "photo",
-      "practical"
-    ]
+    "tags": ["photo", "practical"]
   },
   {
     "id": "fan_phrase_42",
@@ -440,10 +333,7 @@
     "en": "I'm so jet-lagged — what day is it? This week blurs together.",
     "sv": "Jag är så jetlaggad — vilken dag är det? Veckan flyter ihop.",
     "section": "fan-talk",
-    "tags": [
-      "small-talk",
-      "relatable"
-    ]
+    "tags": ["small-talk", "relatable"]
   },
   {
     "id": "fan_phrase_43",
@@ -451,10 +341,7 @@
     "en": "Thank you for chanting — that energy means everything.",
     "sv": "Tack för att ni skanderar — den energin betyder allt.",
     "section": "fan-talk",
-    "tags": [
-      "thanking",
-      "crowd"
-    ]
+    "tags": ["thanking", "crowd"]
   },
   {
     "id": "fan_phrase_44",
@@ -462,10 +349,7 @@
     "en": "I'll be around for a bit — come say hi if you spot me!",
     "sv": "Jag är kvar en stund — kom fram och säg hej om du ser mig!",
     "section": "fan-talk",
-    "tags": [
-      "greeting",
-      "open"
-    ]
+    "tags": ["greeting", "open"]
   },
   {
     "id": "fan_phrase_45",
@@ -473,10 +357,7 @@
     "en": "Let's keep it kind — we're all here for the music.",
     "sv": "Vi håller det schyst — vi är här för musiken, allihop.",
     "section": "fan-talk",
-    "tags": [
-      "tone",
-      "friendly"
-    ]
+    "tags": ["tone", "friendly"]
   },
   {
     "id": "fan_phrase_46",
@@ -484,10 +365,7 @@
     "en": "I might need a minute — big crowds can feel intense, in a good way.",
     "sv": "Jag kan behöva en minut — stora folkmassor kan kännas intensiva, på ett bra sätt.",
     "section": "fan-talk",
-    "tags": [
-      "honest",
-      "boundaries"
-    ]
+    "tags": ["honest", "boundaries"]
   },
   {
     "id": "fan_dialogue_1",

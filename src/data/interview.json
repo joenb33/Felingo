@@ -5,10 +5,7 @@
     "en": "Thanks for having me — I'm really glad to be here.",
     "sv": "Tack för att jag får vara här — jag är jätteglad över det.",
     "section": "interview",
-    "tags": [
-      "greeting",
-      "polite"
-    ]
+    "tags": ["greeting", "polite"]
   },
   {
     "id": "int_phrase_2",
@@ -16,10 +13,7 @@
     "en": "This entry means a lot to me — it comes from a really personal place.",
     "sv": "Det här bidraget betyder mycket för mig — det kommer från en väldigt personlig plats.",
     "section": "interview",
-    "tags": [
-      "song",
-      "emotion"
-    ]
+    "tags": ["song", "emotion"]
   },
   {
     "id": "int_phrase_3",
@@ -27,10 +21,7 @@
     "en": "I wrote it during a rough patch — music was what pulled me through.",
     "sv": "Jag skrev den under en tuff period — musiken var det som bar mig igenom.",
     "section": "interview",
-    "tags": [
-      "inspiration",
-      "personal"
-    ]
+    "tags": ["inspiration", "personal"]
   },
   {
     "id": "int_phrase_4",
@@ -38,10 +29,7 @@
     "en": "Representing Sweden at Eurovision is a huge honour — one of the biggest moments of my career.",
     "sv": "Att representera Sverige i Eurovision är en enorm ära — ett av de största ögonblicken i min karriär.",
     "section": "interview",
-    "tags": [
-      "pride",
-      "sweden"
-    ]
+    "tags": ["pride", "sweden"]
   },
   {
     "id": "int_phrase_5",
@@ -49,10 +37,7 @@
     "en": "I'm not here to compete against anyone — I'm here to share my music with the world.",
     "sv": "Jag är inte här för att tävla mot någon — jag är här för att dela min musik med världen.",
     "section": "interview",
-    "tags": [
-      "diplomacy",
-      "competition"
-    ]
+    "tags": ["diplomacy", "competition"]
   },
   {
     "id": "int_phrase_6",
@@ -60,10 +45,7 @@
     "en": "The atmosphere backstage is incredible — everyone supports each other.",
     "sv": "Stämningen bakom scenen är otrolig — alla stöttar varandra.",
     "section": "interview",
-    "tags": [
-      "backstage",
-      "atmosphere"
-    ]
+    "tags": ["backstage", "atmosphere"]
   },
   {
     "id": "int_phrase_7",
@@ -71,10 +53,7 @@
     "en": "We've been rehearsing for a long time — I want the performance to feel as strong as it can.",
     "sv": "Vi har repeterat länge — jag vill att framträdandet ska kännas så starkt det bara kan.",
     "section": "interview",
-    "tags": [
-      "preparation",
-      "rehearsal"
-    ]
+    "tags": ["preparation", "rehearsal"]
   },
   {
     "id": "int_phrase_8",
@@ -82,10 +61,7 @@
     "en": "The staging is there to support the emotion — we wanted every beat to land.",
     "sv": "Scenen finns där för att bära känslan — vi ville att varje ögonblick ska sitta.",
     "section": "interview",
-    "tags": [
-      "stage",
-      "performance"
-    ]
+    "tags": ["stage", "performance"]
   },
   {
     "id": "int_phrase_9",
@@ -93,10 +69,7 @@
     "en": "I feel incredibly grateful for all the support from the Swedish fans.",
     "sv": "Jag känner mig otroligt tacksam för allt stöd från de svenska fansen.",
     "section": "interview",
-    "tags": [
-      "gratitude",
-      "fans"
-    ]
+    "tags": ["gratitude", "fans"]
   },
   {
     "id": "int_phrase_10",
@@ -104,10 +77,7 @@
     "en": "That's a really great question — let me think about that for a moment.",
     "sv": "Det är en riktigt bra fråga — låt mig fundera på det en stund.",
     "section": "interview",
-    "tags": [
-      "stalling",
-      "diplomatic"
-    ]
+    "tags": ["stalling", "diplomatic"]
   },
   {
     "id": "int_phrase_11",
@@ -115,10 +85,7 @@
     "en": "I'd rather focus on the music than on the rankings.",
     "sv": "Jag fokuserar hellre på musiken än på placeringarna.",
     "section": "interview",
-    "tags": [
-      "diplomacy",
-      "deflection"
-    ]
+    "tags": ["diplomacy", "deflection"]
   },
   {
     "id": "int_phrase_12",
@@ -126,10 +93,7 @@
     "en": "The message of the song is about love, hope, and never giving up.",
     "sv": "Låtens budskap handlar om kärlek, hopp och att aldrig ge upp.",
     "section": "interview",
-    "tags": [
-      "song",
-      "message"
-    ]
+    "tags": ["song", "message"]
   },
   {
     "id": "int_phrase_13",
@@ -137,10 +101,7 @@
     "en": "I've listened to so many incredible entries this year — the level is very high.",
     "sv": "Jag har lyssnat på så många otroliga bidrag i år — nivån är väldigt hög.",
     "section": "interview",
-    "tags": [
-      "competition",
-      "compliment"
-    ]
+    "tags": ["competition", "compliment"]
   },
   {
     "id": "int_phrase_14",
@@ -148,10 +109,7 @@
     "en": "I just want to go out there and give the best performance I can.",
     "sv": "Jag vill bara gå ut där och ge det bästa framträdandet jag kan.",
     "section": "interview",
-    "tags": [
-      "motivation",
-      "performance"
-    ]
+    "tags": ["motivation", "performance"]
   },
   {
     "id": "int_phrase_15",
@@ -159,10 +117,7 @@
     "en": "Win or lose, this experience has already changed my life.",
     "sv": "Vinna eller förlora, den här upplevelsen har redan förändrat mitt liv.",
     "section": "interview",
-    "tags": [
-      "reflection",
-      "gratitude"
-    ]
+    "tags": ["reflection", "gratitude"]
   },
   {
     "id": "int_phrase_16",
@@ -170,10 +125,7 @@
     "en": "I grew up on Swedish pop — big melodies, big feelings.",
     "sv": "Jag växte upp med svensk pop — stora melodier, stora känslor.",
     "section": "interview",
-    "tags": [
-      "inspiration",
-      "sweden"
-    ]
+    "tags": ["inspiration", "sweden"]
   },
   {
     "id": "int_phrase_17",
@@ -181,10 +133,7 @@
     "en": "I'm so proud to carry on Sweden's tradition at Eurovision.",
     "sv": "Jag är så stolt att föra vidare Sveriges tradition i Eurovision.",
     "section": "interview",
-    "tags": [
-      "pride",
-      "sweden"
-    ]
+    "tags": ["pride", "sweden"]
   },
   {
     "id": "int_phrase_18",
@@ -192,10 +141,7 @@
     "en": "The energy from the audience was absolutely unreal tonight.",
     "sv": "Energin från publiken var helt overklig ikväll.",
     "section": "interview",
-    "tags": [
-      "audience",
-      "emotion"
-    ]
+    "tags": ["audience", "emotion"]
   },
   {
     "id": "int_phrase_19",
@@ -203,10 +149,7 @@
     "en": "I wouldn't change a single thing about my performance.",
     "sv": "Jag skulle inte ändra en enda sak med mitt framträdande.",
     "section": "interview",
-    "tags": [
-      "confidence",
-      "reflection"
-    ]
+    "tags": ["confidence", "reflection"]
   },
   {
     "id": "int_phrase_20",
@@ -214,10 +157,7 @@
     "en": "I think Eurovision brings people together, and that's what makes it special.",
     "sv": "Jag tycker att Eurovision för samman människor, och det är det som gör det speciellt.",
     "section": "interview",
-    "tags": [
-      "diplomacy",
-      "values"
-    ]
+    "tags": ["diplomacy", "values"]
   },
   {
     "id": "int_phrase_21",
@@ -225,10 +165,7 @@
     "en": "I'd love to collaborate with other Eurovision artists in the future.",
     "sv": "Jag skulle gärna samarbeta med andra Eurovision-artister i framtiden.",
     "section": "interview",
-    "tags": [
-      "future",
-      "collaboration"
-    ]
+    "tags": ["future", "collaboration"]
   },
   {
     "id": "int_phrase_22",
@@ -236,10 +173,7 @@
     "en": "My vocal coach helped me find the right tone for this song.",
     "sv": "Min sånglärare hjälpte mig att hitta rätt ton för den här låten.",
     "section": "interview",
-    "tags": [
-      "preparation",
-      "team"
-    ]
+    "tags": ["preparation", "team"]
   },
   {
     "id": "int_phrase_23",
@@ -247,10 +181,7 @@
     "en": "I don't see the other artists as rivals — we're all part of the same celebration.",
     "sv": "Jag ser inte de andra artisterna som rivaler — vi är alla en del av samma fest.",
     "section": "interview",
-    "tags": [
-      "diplomacy",
-      "competition"
-    ]
+    "tags": ["diplomacy", "competition"]
   },
   {
     "id": "int_phrase_24",
@@ -258,10 +189,7 @@
     "en": "There were moments on stage when I almost couldn't hold back my tears.",
     "sv": "Det var stunder på scenen då jag nästan inte kunde hålla tillbaka tårarna.",
     "section": "interview",
-    "tags": [
-      "emotion",
-      "performance"
-    ]
+    "tags": ["emotion", "performance"]
   },
   {
     "id": "int_phrase_25",
@@ -269,10 +197,7 @@
     "en": "I'd like to dedicate this performance to everyone who believed in me.",
     "sv": "Jag vill dedikera det här framträdandet till alla som trodde på mig.",
     "section": "interview",
-    "tags": [
-      "gratitude",
-      "dedication"
-    ]
+    "tags": ["gratitude", "dedication"]
   },
   {
     "id": "int_phrase_26",
@@ -280,10 +205,7 @@
     "en": "Sweden has such a strong songwriting tradition, and I'm honoured to be part of it.",
     "sv": "Sverige har en så stark låtskrivartradition, och jag är hedrad att vara en del av den.",
     "section": "interview",
-    "tags": [
-      "sweden",
-      "pride"
-    ]
+    "tags": ["sweden", "pride"]
   },
   {
     "id": "int_phrase_27",
@@ -291,10 +213,7 @@
     "en": "I think the key to a good interview is being honest and being yourself.",
     "sv": "Jag tror att nyckeln till en bra intervju är att vara ärlig och vara sig själv.",
     "section": "interview",
-    "tags": [
-      "advice",
-      "authenticity"
-    ]
+    "tags": ["advice", "authenticity"]
   },
   {
     "id": "int_phrase_28",
@@ -302,10 +221,7 @@
     "en": "Every country brings something unique to the contest, and that's the beauty of it.",
     "sv": "Varje land bidrar med något unikt till tävlingen, och det är det fina med det.",
     "section": "interview",
-    "tags": [
-      "diplomacy",
-      "competition"
-    ]
+    "tags": ["diplomacy", "competition"]
   },
   {
     "id": "int_phrase_29",
@@ -313,10 +229,7 @@
     "en": "I can't reveal too much about the staging yet — you'll have to wait and see!",
     "sv": "Jag kan inte avslöja för mycket om scenografin än — ni får vänta och se!",
     "section": "interview",
-    "tags": [
-      "teasing",
-      "stage"
-    ]
+    "tags": ["teasing", "stage"]
   },
   {
     "id": "int_phrase_30",
@@ -324,10 +237,7 @@
     "en": "If I had to sum it up in three words: honest, emotional, and high-energy.",
     "sv": "Om jag skulle sammanfatta med tre ord: ärlig, känslosam och hög energi.",
     "section": "interview",
-    "tags": [
-      "song",
-      "description"
-    ]
+    "tags": ["song", "description"]
   },
   {
     "id": "int_phrase_31",
@@ -335,10 +245,7 @@
     "en": "I want people to feel something when they hear it — that's what matters most to me.",
     "sv": "Jag vill att folk ska känna något när de hör det — det är det som räknas mest för mig.",
     "section": "interview",
-    "tags": [
-      "song",
-      "emotion"
-    ]
+    "tags": ["song", "emotion"]
   },
   {
     "id": "int_phrase_32",
@@ -346,10 +253,7 @@
     "en": "The whole delegation has been amazing — I couldn't have done this without them.",
     "sv": "Hela delegationen har varit fantastisk — jag hade inte kunnat göra detta utan dem.",
     "section": "interview",
-    "tags": [
-      "gratitude",
-      "team"
-    ]
+    "tags": ["gratitude", "team"]
   },
   {
     "id": "int_phrase_33",
@@ -357,10 +261,7 @@
     "en": "I'm taking it one day at a time — there's a lot going on, but it's exciting.",
     "sv": "Jag tar en dag i taget — det händer mycket, men det är spännande.",
     "section": "interview",
-    "tags": [
-      "grounded",
-      "pace"
-    ]
+    "tags": ["grounded", "pace"]
   },
   {
     "id": "int_phrase_34",
@@ -368,10 +269,7 @@
     "en": "Sweden takes Eurovision seriously — in a fun way. We want to do our best.",
     "sv": "Sverige tar Eurovision på allvar — på ett roligt sätt. Vi vill göra vårt bästa.",
     "section": "interview",
-    "tags": [
-      "sweden",
-      "tone"
-    ]
+    "tags": ["sweden", "tone"]
   },
   {
     "id": "int_phrase_35",
@@ -379,10 +277,7 @@
     "en": "If I win, great. If not, I still got to share my music with millions of people.",
     "sv": "Vinner jag är det toppen. Gör jag inte det har jag ändå fått dela min musik med miljoner.",
     "section": "interview",
-    "tags": [
-      "balanced",
-      "results"
-    ]
+    "tags": ["balanced", "results"]
   },
   {
     "id": "int_phrase_36",
@@ -390,10 +285,7 @@
     "en": "I'm trying to stay present — interviews, rehearsals, fans… it's a lot, but I'm grateful.",
     "sv": "Jag försöker vara närvarande — intervjuer, repetitioner, fans… det är mycket, men jag är tacksam.",
     "section": "interview",
-    "tags": [
-      "honest",
-      "pace"
-    ]
+    "tags": ["honest", "pace"]
   },
   {
     "id": "int_phrase_37",
@@ -401,10 +293,7 @@
     "en": "People joke that Sweden's going to run away with it — I just laugh and say we'll see!",
     "sv": "Folk skämtar om att Sverige ska rusa iväg med segern — jag skrattar och säger att vi får se!",
     "section": "interview",
-    "tags": [
-      "humour",
-      "sweden"
-    ]
+    "tags": ["humour", "sweden"]
   },
   {
     "id": "int_phrase_38",
@@ -412,10 +301,7 @@
     "en": "English isn't my first language, so if I miss a word, please bear with me.",
     "sv": "Engelska är inte mitt modersmål, så om jag tappar ett ord — ha tålamod med mig.",
     "section": "interview",
-    "tags": [
-      "honest",
-      "language"
-    ]
+    "tags": ["honest", "language"]
   },
   {
     "id": "int_dialogue_1",

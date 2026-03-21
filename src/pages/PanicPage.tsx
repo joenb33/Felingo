@@ -4,7 +4,10 @@ import { motion } from "framer-motion";
 import { ui } from "@/i18n/ui";
 import panicQuickPhrases from "@/data/panic-quick-phrases.json";
 import { textForTtsPlayback } from "@/lib/ttsHash";
-import { SPEAK_ICON_ACTIVE_CLASS, SPEAK_ICON_IDLE_CLASS } from "@/components/ui/speakButtonStyles";
+import {
+  SPEAK_ICON_ACTIVE_CLASS,
+  SPEAK_ICON_IDLE_CLASS,
+} from "@/components/ui/speakButtonStyles";
 
 const PANIC_PHRASES = panicQuickPhrases as { en: string; sv: string }[];
 
@@ -15,19 +18,27 @@ const container = {
 
 const item = {
   hidden: { opacity: 0, y: 10 },
-  visible: { opacity: 1, y: 0, transition: { duration: 0.3, ease: [0.22, 1, 0.36, 1] as const } },
+  visible: {
+    opacity: 1,
+    y: 0,
+    transition: { duration: 0.3, ease: [0.22, 1, 0.36, 1] as const },
+  },
 };
 
 export function PanicPage() {
   const { speak, stop, isSpeaking, speakingText, isSupported } = useSpeech();
 
   return (
-    <main className="relative flex min-h-0 flex-1 flex-col" style={{ background: "#0C0B10" }}>
+    <main
+      className="relative flex min-h-0 flex-1 flex-col"
+      style={{ background: "#0C0B10" }}
+    >
       {/* Background glow */}
       <div
         className="pointer-events-none absolute inset-0"
         style={{
-          background: "radial-gradient(ellipse 80% 40% at 50% -5%, rgba(255,55,95,0.2), transparent 50%)",
+          background:
+            "radial-gradient(ellipse 80% 40% at 50% -5%, rgba(255,55,95,0.2), transparent 50%)",
         }}
       />
 
@@ -40,7 +51,17 @@ export function PanicPage() {
               className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-[rgba(255,255,255,0.08)] text-[rgba(235,235,245,0.7)] transition-all hover:bg-[rgba(255,255,255,0.13)] hover:text-white active:scale-[0.95]"
               aria-label={ui.panic.backAria}
             >
-              <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+              <svg
+                width="17"
+                height="17"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2.2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                aria-hidden
+              >
                 <path d="M15 18l-6-6 6-6" />
               </svg>
             </Link>
@@ -81,18 +102,24 @@ export function PanicPage() {
                   }}
                   className="group w-full cursor-pointer rounded-[16px] text-left transition-all duration-200 active:scale-[0.97]"
                   style={{
-                    background: "linear-gradient(135deg, rgba(255,255,255,0.09) 0%, rgba(255,255,255,0.05) 100%)",
+                    background:
+                      "linear-gradient(135deg, rgba(255,255,255,0.09) 0%, rgba(255,255,255,0.05) 100%)",
                     border: "1px solid rgba(255,255,255,0.11)",
-                    boxShadow: "0 2px 16px rgba(0,0,0,0.45), inset 0 1px 0 rgba(255,255,255,0.08)",
+                    boxShadow:
+                      "0 2px 16px rgba(0,0,0,0.45), inset 0 1px 0 rgba(255,255,255,0.08)",
                     padding: "18px 20px",
                   }}
                   onMouseEnter={(e) => {
-                    (e.currentTarget as HTMLButtonElement).style.background = "linear-gradient(135deg, rgba(255,55,95,0.18) 0%, rgba(255,55,95,0.08) 100%)";
-                    (e.currentTarget as HTMLButtonElement).style.borderColor = "rgba(255,55,95,0.3)";
+                    (e.currentTarget as HTMLButtonElement).style.background =
+                      "linear-gradient(135deg, rgba(255,55,95,0.18) 0%, rgba(255,55,95,0.08) 100%)";
+                    (e.currentTarget as HTMLButtonElement).style.borderColor =
+                      "rgba(255,55,95,0.3)";
                   }}
                   onMouseLeave={(e) => {
-                    (e.currentTarget as HTMLButtonElement).style.background = "linear-gradient(135deg, rgba(255,255,255,0.09) 0%, rgba(255,255,255,0.05) 100%)";
-                    (e.currentTarget as HTMLButtonElement).style.borderColor = "rgba(255,255,255,0.11)";
+                    (e.currentTarget as HTMLButtonElement).style.background =
+                      "linear-gradient(135deg, rgba(255,255,255,0.09) 0%, rgba(255,255,255,0.05) 100%)";
+                    (e.currentTarget as HTMLButtonElement).style.borderColor =
+                      "rgba(255,255,255,0.11)";
                   }}
                   aria-label={isThisPhrase ? ui.aria.stop : ui.aria.listen}
                 >
@@ -104,12 +131,28 @@ export function PanicPage() {
                       `}
                     >
                       {isThisPhrase ? (
-                        <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden>
+                        <svg
+                          width="14"
+                          height="14"
+                          viewBox="0 0 24 24"
+                          fill="currentColor"
+                          aria-hidden
+                        >
                           <rect x="6" y="4" width="4" height="16" rx="1.5" />
                           <rect x="14" y="4" width="4" height="16" rx="1.5" />
                         </svg>
                       ) : (
-                        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+                        <svg
+                          width="15"
+                          height="15"
+                          viewBox="0 0 24 24"
+                          fill="none"
+                          stroke="currentColor"
+                          strokeWidth="1.75"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
+                          aria-hidden
+                        >
                           <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5" />
                           <path d="M15.54 8.46a5 5 0 0 1 0 7.07" />
                           <path d="M19.07 4.93a10 10 0 0 1 0 14.14" />

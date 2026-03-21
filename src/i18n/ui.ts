@@ -39,8 +39,7 @@ export const ui = {
       "Tryck på stjärnan på ett kort för att spara det här inför repetition.",
     startCta: "Börja öva",
     title: "Sparade fraser",
-    subtitle:
-      "Dina stjärnmarkerade rader — lyssna igen när du vill.",
+    subtitle: "Dina stjärnmarkerade rader — lyssna igen när du vill.",
     savedCount: "sparade",
     removeAria: "Ta bort från favoriter",
   },
@@ -79,7 +78,7 @@ export const ui = {
       "Felingo är en övningsapp för engelska i sammanhang kring scen, press och möten med publik. Webbplatsen har tagits fram nästan uteslutande eftersom den svenska Eurovision-bidrags­tagaren Felicia har uttryckt i sociala medier att hon vill ha hjälp med att jobba på sin engelska inför ESC. Projektet är ett personligt initiativ och utgör varken ett beställnings­verk eller ett officiellt samarbete med SVT, delegationen eller någon annan organisation.\n\nAppen ersätter inte professionell språkundervisning, tolkning eller coachning.",
     liabilityHeading: "Privat initiativ och ansvarsbegränsning",
     liabilityBody:
-      "Webbplatsen tillhandahålls av Joen Berg som privatperson, på fritiden och utan kommersiell avsikt — i huvudsak som ett informellt sidoprojekt \"på skoj\" och som ett praktiskt stöd utifrån ovanstående bakgrund. Tjänsten tillhandahålls i befintligt skick (\"som den är\") och utan utfästelser av något slag, vare sig uttryckliga eller underförstådda, om att innehållet är felfritt, fullständigt, aktuellt eller lämpligt för ett visst syfte.\n\nInnehållet är tänkt som inspiration och repetition — inte som juridisk, medicinsk, pedagogisk eller annan professionell rådgivning. Användning sker på egen risk. I den utsträckning svensk lag medger ansvarar inte Joen Berg för direkta eller indirekta skador, följdskador, förlust av data eller annan skada som kan uppstå vid användning av eller tillit till tjänsten.\n\nInnehåll kan innehålla förenklingar eller fel; användaren bör alltid själv verifiera kritiska formuleringar i viktiga sammanhang. Joen Berg tar gärna emot synpunkter om något framstår som felaktigt eller olämpligt, i syfte att förbättra materialet.",
+      'Webbplatsen tillhandahålls av Joen Berg som privatperson, på fritiden och utan kommersiell avsikt — i huvudsak som ett informellt sidoprojekt "på skoj" och som ett praktiskt stöd utifrån ovanstående bakgrund. Tjänsten tillhandahålls i befintligt skick ("som den är") och utan utfästelser av något slag, vare sig uttryckliga eller underförstådda, om att innehållet är felfritt, fullständigt, aktuellt eller lämpligt för ett visst syfte.\n\nInnehållet är tänkt som inspiration och repetition — inte som juridisk, medicinsk, pedagogisk eller annan professionell rådgivning. Användning sker på egen risk. I den utsträckning svensk lag medger ansvarar inte Joen Berg för direkta eller indirekta skador, följdskador, förlust av data eller annan skada som kan uppstå vid användning av eller tillit till tjänsten.\n\nInnehåll kan innehålla förenklingar eller fel; användaren bör alltid själv verifiera kritiska formuleringar i viktiga sammanhang. Joen Berg tar gärna emot synpunkter om något framstår som felaktigt eller olämpligt, i syfte att förbättra materialet.',
     copyrightHeading: "Upphovsrätt",
     copyrightBody: (year: number) =>
       `Webbappen Felingo och dess samlade utformning (gränssnitt, struktur och särskilt sammanställt innehåll) omfattas av upphovsrätt © ${year} Joen Berg om inte annat anges. Obehörig kopiering eller spridning kan vara förbjuden.`,

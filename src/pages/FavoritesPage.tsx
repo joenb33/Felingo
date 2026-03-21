@@ -88,7 +88,8 @@ export function FavoritesPage() {
                 exit={{ opacity: 0, x: -80, transition: { duration: 0.2 } }}
                 className="flex min-w-0 items-center gap-4 rounded-[18px] border border-[rgba(255,255,255,0.09)] bg-[rgba(255,255,255,0.05)] p-5 sm:gap-5 sm:p-6"
                 style={{
-                  boxShadow: "0 2px 16px rgba(0,0,0,0.35), inset 0 1px 0 rgba(255,255,255,0.05)",
+                  boxShadow:
+                    "0 2px 16px rgba(0,0,0,0.35), inset 0 1px 0 rgba(255,255,255,0.05)",
                 }}
               >
                 <div className="min-w-0 flex-1">
@@ -108,7 +109,16 @@ export function FavoritesPage() {
                     className="flex h-10 w-10 cursor-pointer items-center justify-center rounded-full border border-[rgba(255,255,255,0.1)] bg-[rgba(255,255,255,0.06)] text-[rgba(235,235,245,0.45)] transition-all hover:border-[rgba(255,69,58,0.3)] hover:bg-[rgba(255,69,58,0.1)] hover:text-[#FF453A] active:scale-[0.96]"
                     aria-label={ui.favorites.removeAria}
                   >
-                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round">
+                    <svg
+                      width="14"
+                      height="14"
+                      viewBox="0 0 24 24"
+                      fill="none"
+                      stroke="currentColor"
+                      strokeWidth="2.2"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                    >
                       <line x1="18" y1="6" x2="6" y2="18" />
                       <line x1="6" y1="6" x2="18" y2="18" />
                     </svg>

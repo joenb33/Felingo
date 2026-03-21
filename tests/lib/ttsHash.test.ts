@@ -25,7 +25,10 @@ describe("ttsHash", () => {
   it("matches the generate-elevenlabs-audio.mjs algorithm (same normalize + sha256 slice)", async () => {
     const sample = "  Can   you repeat that?  ";
     const normalized = normalizeTextForTts(sample);
-    const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(normalized));
+    const buf = await crypto.subtle.digest(
+      "SHA-256",
+      new TextEncoder().encode(normalized),
+    );
     const expected = Array.from(new Uint8Array(buf))
       .map((b) => b.toString(16).padStart(2, "0"))
       .join("")

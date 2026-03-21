@@ -43,7 +43,9 @@ export function Header() {
           className="group flex items-center gap-2.5 rounded-xl py-1 transition-opacity hover:opacity-80 active:opacity-60"
         >
           <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-[10px] bg-gradient-to-br from-[#BF5AF2] to-[#FF375F] shadow-[0_2px_8px_rgba(191,90,242,0.5)]">
-            <span className="text-[10px] font-bold tracking-wide text-white">Fe</span>
+            <span className="text-[10px] font-bold tracking-wide text-white">
+              Fe
+            </span>
           </div>
           <div className="leading-tight">
             <span className="block text-[15px] font-bold text-white tracking-[-0.3px]">
@@ -98,9 +100,10 @@ function NavLink({
       to={to}
       className={`
         inline-flex h-8 items-center justify-center gap-1.5 rounded-full px-3 text-[13px] font-medium transition-all duration-150 active:scale-[0.97]
-        ${isActive
-          ? "bg-white text-[#0C0B10] shadow-[0_1px_4px_rgba(0,0,0,0.3)]"
-          : "text-[rgba(235,235,245,0.6)] hover:text-white"
+        ${
+          isActive
+            ? "bg-white text-[#0C0B10] shadow-[0_1px_4px_rgba(0,0,0,0.3)]"
+            : "text-[rgba(235,235,245,0.6)] hover:text-white"
         }
       `}
     >

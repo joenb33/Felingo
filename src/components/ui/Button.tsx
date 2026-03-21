@@ -23,10 +23,10 @@ const variantStyles: Record<ButtonVariant, string> = {
 };
 
 const sizeStyles: Record<ButtonSize, string> = {
-  sm:  "min-h-10 px-5 py-2.5 text-[13px] rounded-[11px]",
-  md:  "min-h-12 px-6 py-3   text-[14px] rounded-[13px]",
-  lg:  "min-h-[3.5rem] px-8 py-4 text-[16px] rounded-[15px]",
-  xl:  "min-h-[3.75rem] px-10 py-4.5 text-[17px] rounded-[16px]",
+  sm: "min-h-10 px-5 py-2.5 text-[13px] rounded-[11px]",
+  md: "min-h-12 px-6 py-3   text-[14px] rounded-[13px]",
+  lg: "min-h-[3.5rem] px-8 py-4 text-[16px] rounded-[15px]",
+  xl: "min-h-[3.75rem] px-10 py-4.5 text-[17px] rounded-[16px]",
 };
 
 export const Button = forwardRef<HTMLButtonElement, ButtonProps>(

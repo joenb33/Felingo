@@ -39,9 +39,7 @@ export class ErrorBoundary extends Component<Props, State> {
             <h2 className="text-xl font-bold font-[family-name:var(--font-display)] mb-2">
               {ui.error.title}
             </h2>
-            <p className="text-text-secondary text-sm mb-6">
-              {ui.error.body}
-            </p>
+            <p className="text-text-secondary text-sm mb-6">{ui.error.body}</p>
             <Button
               onClick={() => {
                 this.setState({ hasError: false, error: undefined });

@@ -67,7 +67,7 @@ npm run format:check
 
 Typical flow: **build on GitHub, upload `dist/`** — no manual FTP on every release.
 
-1. **VPS / Linux with SSH** (recommended): [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml) runs `npm run build` and **rsync** over SSH to your web root. Add secrets under **Settings → Secrets and variables → Actions** (listed at the top of the workflow file). On the server: install `rsync`, point Nginx/Apache **document root** at `DEPLOY_PATH`.
+1. **VPS / Linux with SSH** (recommended): [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml) runs `npm run build` and **rsync** over SSH to your web root. Add secrets under **Settings → Secrets and variables → Actions** (listed in the workflow file). On the server: install `rsync`, point Nginx/Apache **document root** at `DEPLOY_PATH`. By default the workflow is **manual** (Actions → _Deploy_ → _Run workflow_); after secrets work, uncomment the `workflow_run` block in the YAML to deploy automatically whenever **CI** passes on `main`.
 
 2. **FTP/SFTP-only hosting:** use an action such as [FTP-Deploy-Action](https://github.com/SamKirkland/FTP-Deploy-Action) with the same build step, then upload `dist/`.
 

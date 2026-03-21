@@ -1,8 +1,11 @@
 # Deploy static site (Vite `dist/`) to your own server over SSH + rsync.
 #
-# Triggers:
-#   • After "CI" succeeds on branch `main` (push or merge)
-#   • Manually: Actions → Deploy → Run workflow
+# Default: manual only (Actions → Deploy → Run workflow) so the repo stays green
+# until you add the secrets below.
+#
+# Optional — auto-deploy after every green CI on `main`:
+#   1. Uncomment `workflow_run` under `on:`.
+#   2. Uncomment `if:` on the `deploy` job (skips failed CI and non-main branches).
 #
 # Secrets (Settings → Secrets and variables → Actions):
 #   SSH_PRIVATE_KEY   — PEM private key; add matching .pub to server ~/.ssh/authorized_keys
@@ -19,9 +22,10 @@ name: Deploy
 
 on:
   workflow_dispatch:
-  workflow_run:
-    workflows: [CI]
-    types: [completed]
+  # Uncomment after secrets are configured (deploys when CI succeeds on main):
+  # workflow_run:
+  #   workflows: [CI]
+  #   types: [completed]
 
 concurrency:
   group: deploy-production
@@ -31,10 +35,11 @@ jobs:
   deploy:
     name: Build and rsync to server
     runs-on: ubuntu-latest
-    if: |
-      github.event_name == 'workflow_dispatch' ||
-      (github.event.workflow_run.conclusion == 'success' &&
-       github.event.workflow_run.head_branch == 'main')
+    # Uncomment when `workflow_run` is enabled (required for correct filtering):
+    # if: |
+    #   github.event_name == 'workflow_dispatch' ||
+    #   (github.event.workflow_run.conclusion == 'success' &&
+    #    github.event.workflow_run.head_branch == 'main')
     steps:
       - uses: actions/checkout@v4
         with:

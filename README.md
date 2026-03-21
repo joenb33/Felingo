@@ -63,6 +63,18 @@ npm run format
 npm run format:check
 ```
 
+## Deploying to your server
+
+Typical flow: **build on GitHub, upload `dist/`** — no manual FTP on every release.
+
+1. **VPS / Linux with SSH** (recommended): [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml) runs `npm run build` and **rsync** over SSH to your web root. Add secrets under **Settings → Secrets and variables → Actions** (listed at the top of the workflow file). On the server: install `rsync`, point Nginx/Apache **document root** at `DEPLOY_PATH`.
+
+2. **FTP/SFTP-only hosting:** use an action such as [FTP-Deploy-Action](https://github.com/SamKirkland/FTP-Deploy-Action) with the same build step, then upload `dist/`.
+
+3. **Fully managed hosting:** [Netlify](https://www.netlify.com/), [Cloudflare Pages](https://pages.cloudflare.com/), or [Vercel](https://vercel.com/) connect to GitHub in a few clicks and build + host on every push — no server to maintain.
+
+**Audio:** `public/audio/*.mp3` is not in Git. Copy them once (`rsync`/`scp`) to the same paths on the server, or run `npm run generate:tts` there with API keys.
+
 ## Project structure
 
 ```

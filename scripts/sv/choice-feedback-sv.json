@@ -1,0 +1,167 @@
+{
+  "fan_choice_1": [
+    "Att bli defensiv ser aldrig bra ut. Var professionell.",
+    "Perfekt — värdigt, moget och du lämnar dörren öppen.",
+    "För avfärdande. Du kan bättre än så!"
+  ],
+  "fan_choice_2": [
+    "Lite rakt på sak. Du kan säga nej och ändå vara varm.",
+    "Bra balans — du respekterar schemat men får fanet att känna sig uppskattat.",
+    "Snäll tanke, men du missar repetitionen! Gränser är viktiga."
+  ],
+  "fan_choice_3": [
+    "Vänligt och tryggt — visar att du inte tar det personligt.",
+    "För defensivt. De är ärliga — möt dem med humor.",
+    "Lite dramatiskt. Håll det lätt!"
+  ],
+  "fan_choice_4": [
+    "Väl menat men kan kännas som att du inte tar deras känslor på allvar.",
+    "Varmt och jordande — de känner sig trygga men ändå mötta i verkligheten.",
+    "Lite awkward — försök erkänna känslorna mjukare."
+  ],
+  "fan_choice_5": [
+    "För hårt. Du kan sätta gränser utan att vara otrevlig.",
+    "Kvickt avledande — håller stämningen lätt utan att avslöja privat.",
+    "Halva svaret lockar bara fler frågor. Avleda tydligt!"
+  ],
+  "fan_choice_6": [
+    "Tekniskt sant, men inte särskilt varmt. Visa mer uppskattning!",
+    "Entusiastiskt och äkta — fanet känner att resan var värd det.",
+    "Inte dumt, men du flyttar fokus till dig själv. Börja med dem."
+  ],
+  "fan_choice_7": [
+    "Självsäkerhet är bra, men så här låter det arrogant.",
+    "Ödmjuk men ändå trygg — bra balans för någon i offentligheten.",
+    "För negativt! Visa lite tro på dig själv."
+  ],
+  "fan_choice_8": [
+    "För kallt. Erkänn deras gest även om du inte kan ta emot gåvan.",
+    "Värdigt och varmt — fanet känner sig ändå uppskattat.",
+    "Roligt, men dålig idé om säkerheten ser dig!"
+  ],
+  "fan_choice_9": [
+    "Ärligt, men du missar chansen att skapa kontakt!",
+    "Visar nyfikenhet och blir en rolig interaktion.",
+    "Att ignorera fans ser aldrig bra ut."
+  ],
+  "fan_choice_10": [
+    "Du skämmer ut fansen. Låt dem få sin stund.",
+    "Roligt, tryggt och får alla att må bra — även åskådarna!",
+    "Att ignorera fans som hejar på dig kan såra dem."
+  ],
+  "int_choice_1": [
+    "För högmodigt. Självförtroende är bra, men så här låter det som att du inte respekterar andra.",
+    "Perfekt — ödmjuk, diplomatisk och fortfarande trygg i din egen musik.",
+    "För självkritisk. Visa självförtroende, inte tvivel."
+  ],
+  "int_choice_2": [
+    "För rakt på sak. Att offentligt kritisera systemet kan skapa kontroverser.",
+    "Diplomatiskt och nyanserat — du tar frågan på allvar utan att skapa drama.",
+    "Låter avfärdande och som att du inte vill svara på frågan."
+  ],
+  "int_choice_3": [
+    "Att bli defensiv kan få dig att se skyldig ut. Håll dig lugn.",
+    "Bra svar — charmigt, lätt och tryggt utan att bli defensiv.",
+    "'Ingen kommentar' kan låta som att du har något att dölja."
+  ],
+  "int_choice_4": [
+    "Låter överdrivet självsäker och avfärdande. Lite sårbarhet är lätt att relatera till.",
+    "Ärligt och mänskligt — visar självinsikt och professionalitet.",
+    "För negativt. Det ger inte publiken förtroende."
+  ],
+  "int_choice_5": [
+    "Konfrontativt och oartigt. Det här kommer inte att tas väl internationellt.",
+    "Elegant svar — du erkänner kritiken och formulerar den till något positivt.",
+    "Underkänna svensk musik i onödan. Var stolt och konstruktiv."
+  ],
+  "int_choice_6": [
+    "Att skylla på andra offentligt ser oproffsigt ut.",
+    "Proffsigt och samlat — visar motståndskraft och lugn under press.",
+    "Om tittarna så problemet, låt det inte vara som om det inte hände."
+  ],
+  "int_choice_7": [
+    "Väldigt oartigt och ger negativa rubriker. Avfärda aldrig andra artister.",
+    "Diplomatiskt och positivt — du väljer inte favoriter men visar respekt.",
+    "Att välja en tydlig favorit kan såra andra delegationer och skapa drama."
+  ],
+  "int_choice_8": [
+    "Låter som att du bara bryr dig om pengar. Eurovision ska inte handla om det.",
+    "Lojal mot Sverige men öppen — ett klassigt svar.",
+    "Lite för hårt. Många älskade artister har representerat fler länder."
+  ],
+  "int_choice_9": [
+    "Dålig förlorare attityd. Det här ger negativ press.",
+    "Graciös och positiv — du framhåller prestationen i stället.",
+    "Låter avfärdande och oärligt. Publiken vet att du bryr dig."
+  ],
+  "int_choice_10": [
+    "Även om det är falskt kan ett hårt nej stänga dörren. Var lite lekfullare.",
+    "Perfekt teaser — bygger förväntningar utan att bekräfta eller förneka.",
+    "Om skivbolaget inte gått ut riskerar läckor i intervju att skapa problem."
+  ],
+  "back_choice_1": [
+    "Tydligt och konkret. Det hjälper teknikern att hitta felet snabbt.",
+    "För vagt. Var specifik — var det micken, mixen eller något annat?",
+    "För aggressivt. Var alltid artig mot crew — de finns där för att hjälpa dig."
+  ],
+  "back_choice_2": [
+    "Precis! Markeringar är ofta tejp (ofta ett X) på scengolvet.",
+    "I skolan, ja. Men på scen betyder 'mark' en markerad plats på golvet.",
+    "Kanten av scenen kallas ofta 'lip' eller 'downstage edge'."
+  ],
+  "back_choice_3": [
+    "Perfekt! 'Vocal channel' och 'in-ear mix' är rätt facktermer.",
+    "Det höjer ALLA kanaler, inte bara din röst. Säg vad du vill ändra.",
+    "Det låter som total blackout, inte en mixjustering. Beskriv vad som saknas."
+  ],
+  "back_choice_4": [
+    "Rätt! En run-through är ett genomspel från start till mål.",
+    "Nej — 'run-through' är en spelterm, inte fysisk träning.",
+    "Det vore en genomgång av listan. Run-through är att köra hela numret."
+  ],
+  "back_choice_5": [
+    "'Stand by' betyder var beredd och fokuserad — i position och redo.",
+    "'Stand by' betyder vänta — gå inte än! Invänta riktiga 'go'.",
+    "30 sekunder är inte tid att slappna av — du ska vara alert och på plats."
+  ],
+  "back_choice_6": [
+    "Säkerhet först! Tydligt och ger crew en konkret åtgärd.",
+    "Riskera inte skada. Rapportera alltid risker till teamet.",
+    "Att byta skor i sista sekund löser inte allt. Rapportera så de kan åtgärda."
+  ],
+  "back_choice_7": [
+    "Precis! 'Check one-two' är standardfras för att testa mikrofonnivån.",
+    "Det är inte inventering — det är en ljudtest.",
+    "Nej — 'check one-two' är en vanlig soundcheck-fras."
+  ],
+  "back_choice_8": [
+    "Rätt! 'Upstage' är bakåt mot scen. Scenhöger är DIN höger mot publiken.",
+    "Framåt är 'downstage'. 'Upstage' är bort från publiken.",
+    "'Upstage' betyder inte högre fysiskt — det är längre bort från publiken."
+  ],
+  "panic_choice_1": [
+    "Artigt och tydligt. De flesta saktar gärna ner om du ber snällt.",
+    "Låtsas inte förstå — du kan missa viktigt. Det är okej att fråga.",
+    "Låter otrevligt. Lägg till 'please' och 'could you'."
+  ],
+  "panic_choice_2": [
+    "Bra — du beskriver problemet och ber om hjälp. Hälsa går först.",
+    "Riskera inte hälsan. Säg alltid till om du mår dåligt.",
+    "För vagt och panik. Beskriv vad som är fel så kan de hjälpa dig."
+  ],
+  "panic_choice_3": [
+    "Naturligt och artigt. Alla gör fel — att rätta dig visar trygghet.",
+    "Det felaktiga står kvar. Förklara alltid vad du egentligen menade.",
+    "Att skylla på andra låter defensivt. Ta ansvar och rätta lugnt."
+  ],
+  "panic_choice_4": [
+    "Smart! Crew med radio kan nå folk i hela arenan snabbt.",
+    "Det slösar tid. Be någon med kommunikation om hjälp.",
+    "Var aktiv. Sök vakt eller crew och be om hjälp."
+  ],
+  "panic_choice_5": [
+    "Lugnt, tydligt och du visar legitimation. Löser de flesta situationer.",
+    "Konfrontation med vakter hjälper aldrig. Förklara vem du är.",
+    "Det stänger kommunikationen. Prova enkel engelska och visa brickan."
+  ]
+}

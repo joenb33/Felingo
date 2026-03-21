@@ -1,0 +1,58 @@
+{
+  "name": "felingo",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Felingo — English practice for Eurovision stage, press, and fans (personal training app)",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:coverage": "vitest run --coverage",
+    "generate:tts": "node --env-file=.env scripts/generate-elevenlabs-audio.mjs",
+    "generate:tts:sample": "node --env-file=.env scripts/generate-elevenlabs-audio.mjs --limit 3",
+    "merge:sv": "node scripts/merge-sv.mjs"
+  },
+  "keywords": [
+    "eurovision",
+    "english",
+    "learning",
+    "pwa"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "framer-motion": "^12.38.0",
+    "js-sha256": "^0.11.1",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "react-router-dom": "^7.13.1",
+    "zustand": "^5.0.12"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.4",
+    "@tailwindcss/vite": "^4.2.2",
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^16.3.2",
+    "@testing-library/user-event": "^14.6.1",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.1",
+    "eslint": "^9.39.4",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-react-refresh": "^0.5.2",
+    "jsdom": "^29.0.1",
+    "prettier": "^3.8.1",
+    "tailwindcss": "^4.2.2",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.57.1",
+    "vite": "^8.0.1",
+    "vitest": "^4.1.0"
+  }
+}

@@ -1,0 +1,50 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# ── Secrets & environment (never commit real keys) ─────────────────
+# GitHub will receive everything except ignored paths — keep API keys only in .env locally.
+.env
+.env.*
+!.env.example
+.env.local
+.env.*.local
+
+# ── Generated TTS (ElevenLabs) — run `npm run generate:tts` locally before deploy ──
+# Keeps the repo small; MP3s can be uploaded to the server separately.
+public/audio/*.mp3
+
+# ── Local AI tooling (may contain paths or preferences) ──────────
+.claude/
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+
+# Testing
+coverage/
+
+# Misc
+*.tsbuildinfo
+
+# Optional: common secret filenames (extra safety on public repos)
+*.pem
+*.p12
+credentials.json
+secrets.json
+/.playwright-mcp
+*.png

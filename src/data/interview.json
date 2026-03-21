@@ -1,0 +1,1165 @@
+[
+  {
+    "id": "int_phrase_1",
+    "type": "phrase",
+    "en": "Thanks for having me — I'm really glad to be here.",
+    "sv": "Tack för att jag får vara här — jag är jätteglad över det.",
+    "section": "interview",
+    "tags": [
+      "greeting",
+      "polite"
+    ]
+  },
+  {
+    "id": "int_phrase_2",
+    "type": "phrase",
+    "en": "This entry means a lot to me — it comes from a really personal place.",
+    "sv": "Det här bidraget betyder mycket för mig — det kommer från en väldigt personlig plats.",
+    "section": "interview",
+    "tags": [
+      "song",
+      "emotion"
+    ]
+  },
+  {
+    "id": "int_phrase_3",
+    "type": "phrase",
+    "en": "I wrote it during a rough patch — music was what pulled me through.",
+    "sv": "Jag skrev den under en tuff period — musiken var det som bar mig igenom.",
+    "section": "interview",
+    "tags": [
+      "inspiration",
+      "personal"
+    ]
+  },
+  {
+    "id": "int_phrase_4",
+    "type": "phrase",
+    "en": "Representing Sweden at Eurovision is a huge honour — one of the biggest moments of my career.",
+    "sv": "Att representera Sverige i Eurovision är en enorm ära — ett av de största ögonblicken i min karriär.",
+    "section": "interview",
+    "tags": [
+      "pride",
+      "sweden"
+    ]
+  },
+  {
+    "id": "int_phrase_5",
+    "type": "phrase",
+    "en": "I'm not here to compete against anyone — I'm here to share my music with the world.",
+    "sv": "Jag är inte här för att tävla mot någon — jag är här för att dela min musik med världen.",
+    "section": "interview",
+    "tags": [
+      "diplomacy",
+      "competition"
+    ]
+  },
+  {
+    "id": "int_phrase_6",
+    "type": "phrase",
+    "en": "The atmosphere backstage is incredible — everyone supports each other.",
+    "sv": "Stämningen bakom scenen är otrolig — alla stöttar varandra.",
+    "section": "interview",
+    "tags": [
+      "backstage",
+      "atmosphere"
+    ]
+  },
+  {
+    "id": "int_phrase_7",
+    "type": "phrase",
+    "en": "We've been rehearsing for a long time — I want the performance to feel as strong as it can.",
+    "sv": "Vi har repeterat länge — jag vill att framträdandet ska kännas så starkt det bara kan.",
+    "section": "interview",
+    "tags": [
+      "preparation",
+      "rehearsal"
+    ]
+  },
+  {
+    "id": "int_phrase_8",
+    "type": "phrase",
+    "en": "The staging is there to support the emotion — we wanted every beat to land.",
+    "sv": "Scenen finns där för att bära känslan — vi ville att varje ögonblick ska sitta.",
+    "section": "interview",
+    "tags": [
+      "stage",
+      "performance"
+    ]
+  },
+  {
+    "id": "int_phrase_9",
+    "type": "phrase",
+    "en": "I feel incredibly grateful for all the support from the Swedish fans.",
+    "sv": "Jag känner mig otroligt tacksam för allt stöd från de svenska fansen.",
+    "section": "interview",
+    "tags": [
+      "gratitude",
+      "fans"
+    ]
+  },
+  {
+    "id": "int_phrase_10",
+    "type": "phrase",
+    "en": "That's a really great question — let me think about that for a moment.",
+    "sv": "Det är en riktigt bra fråga — låt mig fundera på det en stund.",
+    "section": "interview",
+    "tags": [
+      "stalling",
+      "diplomatic"
+    ]
+  },
+  {
+    "id": "int_phrase_11",
+    "type": "phrase",
+    "en": "I'd rather focus on the music than on the rankings.",
+    "sv": "Jag fokuserar hellre på musiken än på placeringarna.",
+    "section": "interview",
+    "tags": [
+      "diplomacy",
+      "deflection"
+    ]
+  },
+  {
+    "id": "int_phrase_12",
+    "type": "phrase",
+    "en": "The message of the song is about love, hope, and never giving up.",
+    "sv": "Låtens budskap handlar om kärlek, hopp och att aldrig ge upp.",
+    "section": "interview",
+    "tags": [
+      "song",
+      "message"
+    ]
+  },
+  {
+    "id": "int_phrase_13",
+    "type": "phrase",
+    "en": "I've listened to so many incredible entries this year — the level is very high.",
+    "sv": "Jag har lyssnat på så många otroliga bidrag i år — nivån är väldigt hög.",
+    "section": "interview",
+    "tags": [
+      "competition",
+      "compliment"
+    ]
+  },
+  {
+    "id": "int_phrase_14",
+    "type": "phrase",
+    "en": "I just want to go out there and give the best performance I can.",
+    "sv": "Jag vill bara gå ut där och ge det bästa framträdandet jag kan.",
+    "section": "interview",
+    "tags": [
+      "motivation",
+      "performance"
+    ]
+  },
+  {
+    "id": "int_phrase_15",
+    "type": "phrase",
+    "en": "Win or lose, this experience has already changed my life.",
+    "sv": "Vinna eller förlora, den här upplevelsen har redan förändrat mitt liv.",
+    "section": "interview",
+    "tags": [
+      "reflection",
+      "gratitude"
+    ]
+  },
+  {
+    "id": "int_phrase_16",
+    "type": "phrase",
+    "en": "I grew up on Swedish pop — big melodies, big feelings.",
+    "sv": "Jag växte upp med svensk pop — stora melodier, stora känslor.",
+    "section": "interview",
+    "tags": [
+      "inspiration",
+      "sweden"
+    ]
+  },
+  {
+    "id": "int_phrase_17",
+    "type": "phrase",
+    "en": "I'm so proud to carry on Sweden's tradition at Eurovision.",
+    "sv": "Jag är så stolt att föra vidare Sveriges tradition i Eurovision.",
+    "section": "interview",
+    "tags": [
+      "pride",
+      "sweden"
+    ]
+  },
+  {
+    "id": "int_phrase_18",
+    "type": "phrase",
+    "en": "The energy from the audience was absolutely unreal tonight.",
+    "sv": "Energin från publiken var helt overklig ikväll.",
+    "section": "interview",
+    "tags": [
+      "audience",
+      "emotion"
+    ]
+  },
+  {
+    "id": "int_phrase_19",
+    "type": "phrase",
+    "en": "I wouldn't change a single thing about my performance.",
+    "sv": "Jag skulle inte ändra en enda sak med mitt framträdande.",
+    "section": "interview",
+    "tags": [
+      "confidence",
+      "reflection"
+    ]
+  },
+  {
+    "id": "int_phrase_20",
+    "type": "phrase",
+    "en": "I think Eurovision brings people together, and that's what makes it special.",
+    "sv": "Jag tycker att Eurovision för samman människor, och det är det som gör det speciellt.",
+    "section": "interview",
+    "tags": [
+      "diplomacy",
+      "values"
+    ]
+  },
+  {
+    "id": "int_phrase_21",
+    "type": "phrase",
+    "en": "I'd love to collaborate with other Eurovision artists in the future.",
+    "sv": "Jag skulle gärna samarbeta med andra Eurovision-artister i framtiden.",
+    "section": "interview",
+    "tags": [
+      "future",
+      "collaboration"
+    ]
+  },
+  {
+    "id": "int_phrase_22",
+    "type": "phrase",
+    "en": "My vocal coach helped me find the right tone for this song.",
+    "sv": "Min sånglärare hjälpte mig att hitta rätt ton för den här låten.",
+    "section": "interview",
+    "tags": [
+      "preparation",
+      "team"
+    ]
+  },
+  {
+    "id": "int_phrase_23",
+    "type": "phrase",
+    "en": "I don't see the other artists as rivals — we're all part of the same celebration.",
+    "sv": "Jag ser inte de andra artisterna som rivaler — vi är alla en del av samma fest.",
+    "section": "interview",
+    "tags": [
+      "diplomacy",
+      "competition"
+    ]
+  },
+  {
+    "id": "int_phrase_24",
+    "type": "phrase",
+    "en": "There were moments on stage when I almost couldn't hold back my tears.",
+    "sv": "Det var stunder på scenen då jag nästan inte kunde hålla tillbaka tårarna.",
+    "section": "interview",
+    "tags": [
+      "emotion",
+      "performance"
+    ]
+  },
+  {
+    "id": "int_phrase_25",
+    "type": "phrase",
+    "en": "I'd like to dedicate this performance to everyone who believed in me.",
+    "sv": "Jag vill dedikera det här framträdandet till alla som trodde på mig.",
+    "section": "interview",
+    "tags": [
+      "gratitude",
+      "dedication"
+    ]
+  },
+  {
+    "id": "int_phrase_26",
+    "type": "phrase",
+    "en": "Sweden has such a strong songwriting tradition, and I'm honoured to be part of it.",
+    "sv": "Sverige har en så stark låtskrivartradition, och jag är hedrad att vara en del av den.",
+    "section": "interview",
+    "tags": [
+      "sweden",
+      "pride"
+    ]
+  },
+  {
+    "id": "int_phrase_27",
+    "type": "phrase",
+    "en": "I think the key to a good interview is being honest and being yourself.",
+    "sv": "Jag tror att nyckeln till en bra intervju är att vara ärlig och vara sig själv.",
+    "section": "interview",
+    "tags": [
+      "advice",
+      "authenticity"
+    ]
+  },
+  {
+    "id": "int_phrase_28",
+    "type": "phrase",
+    "en": "Every country brings something unique to the contest, and that's the beauty of it.",
+    "sv": "Varje land bidrar med något unikt till tävlingen, och det är det fina med det.",
+    "section": "interview",
+    "tags": [
+      "diplomacy",
+      "competition"
+    ]
+  },
+  {
+    "id": "int_phrase_29",
+    "type": "phrase",
+    "en": "I can't reveal too much about the staging yet — you'll have to wait and see!",
+    "sv": "Jag kan inte avslöja för mycket om scenografin än — ni får vänta och se!",
+    "section": "interview",
+    "tags": [
+      "teasing",
+      "stage"
+    ]
+  },
+  {
+    "id": "int_phrase_30",
+    "type": "phrase",
+    "en": "If I had to sum it up in three words: honest, emotional, and high-energy.",
+    "sv": "Om jag skulle sammanfatta med tre ord: ärlig, känslosam och hög energi.",
+    "section": "interview",
+    "tags": [
+      "song",
+      "description"
+    ]
+  },
+  {
+    "id": "int_phrase_31",
+    "type": "phrase",
+    "en": "I want people to feel something when they hear it — that's what matters most to me.",
+    "sv": "Jag vill att folk ska känna något när de hör det — det är det som räknas mest för mig.",
+    "section": "interview",
+    "tags": [
+      "song",
+      "emotion"
+    ]
+  },
+  {
+    "id": "int_phrase_32",
+    "type": "phrase",
+    "en": "The whole delegation has been amazing — I couldn't have done this without them.",
+    "sv": "Hela delegationen har varit fantastisk — jag hade inte kunnat göra detta utan dem.",
+    "section": "interview",
+    "tags": [
+      "gratitude",
+      "team"
+    ]
+  },
+  {
+    "id": "int_phrase_33",
+    "type": "phrase",
+    "en": "I'm taking it one day at a time — there's a lot going on, but it's exciting.",
+    "sv": "Jag tar en dag i taget — det händer mycket, men det är spännande.",
+    "section": "interview",
+    "tags": [
+      "grounded",
+      "pace"
+    ]
+  },
+  {
+    "id": "int_phrase_34",
+    "type": "phrase",
+    "en": "Sweden takes Eurovision seriously — in a fun way. We want to do our best.",
+    "sv": "Sverige tar Eurovision på allvar — på ett roligt sätt. Vi vill göra vårt bästa.",
+    "section": "interview",
+    "tags": [
+      "sweden",
+      "tone"
+    ]
+  },
+  {
+    "id": "int_phrase_35",
+    "type": "phrase",
+    "en": "If I win, great. If not, I still got to share my music with millions of people.",
+    "sv": "Vinner jag är det toppen. Gör jag inte det har jag ändå fått dela min musik med miljoner.",
+    "section": "interview",
+    "tags": [
+      "balanced",
+      "results"
+    ]
+  },
+  {
+    "id": "int_phrase_36",
+    "type": "phrase",
+    "en": "I'm trying to stay present — interviews, rehearsals, fans… it's a lot, but I'm grateful.",
+    "sv": "Jag försöker vara närvarande — intervjuer, repetitioner, fans… det är mycket, men jag är tacksam.",
+    "section": "interview",
+    "tags": [
+      "honest",
+      "pace"
+    ]
+  },
+  {
+    "id": "int_phrase_37",
+    "type": "phrase",
+    "en": "People joke that Sweden's going to run away with it — I just laugh and say we'll see!",
+    "sv": "Folk skämtar om att Sverige ska rusa iväg med segern — jag skrattar och säger att vi får se!",
+    "section": "interview",
+    "tags": [
+      "humour",
+      "sweden"
+    ]
+  },
+  {
+    "id": "int_phrase_38",
+    "type": "phrase",
+    "en": "English isn't my first language, so if I miss a word, please bear with me.",
+    "sv": "Engelska är inte mitt modersmål, så om jag tappar ett ord — ha tålamod med mig.",
+    "section": "interview",
+    "tags": [
+      "honest",
+      "language"
+    ]
+  },
+  {
+    "id": "int_dialogue_1",
+    "type": "dialogue",
+    "scenario": "A TV host interviews you live after the semi-final.",
+    "scenarioSv": "En TV-värd intervjuar dig live efter semifinalen.",
+    "lines": [
+      {
+        "speaker": "other",
+        "text": "Congratulations on qualifying! How are you feeling right now?",
+        "textSv": "Grattis till att du gick vidare! Hur känns det just nu?"
+      },
+      {
+        "speaker": "you",
+        "text": "I'm on cloud nine! I can't believe we made it to the final.",
+        "textSv": "Jag är i sjunde himlen! Jag kan inte fatta att vi är i finalen!"
+      },
+      {
+        "speaker": "other",
+        "text": "The crowd seemed to love your performance. Did you feel that energy on stage?",
+        "textSv": "Publiken verkade älska ditt framträdande. Kände du den energin på scenen?"
+      },
+      {
+        "speaker": "you",
+        "text": "Absolutely — the audience was incredible. I could feel every cheer.",
+        "textSv": "Absolut — publiken var otrolig. Jag kunde känna varje jubel."
+      },
+      {
+        "speaker": "other",
+        "text": "What can we expect from you in the Grand Final?",
+        "textSv": "Vad kan vi vänta oss av dig i finalen?"
+      },
+      {
+        "speaker": "you",
+        "text": "We have a few surprises planned. I just want to give the performance of a lifetime.",
+        "textSv": "Vi har några överraskningar på lut. Jag vill bara ge mitt livs bästa framträdande."
+      }
+    ],
+    "section": "interview"
+  },
+  {
+    "id": "int_dialogue_2",
+    "type": "dialogue",
+    "scenario": "A radio host asks about the meaning behind your song.",
+    "scenarioSv": "En radiovärd frågar om betydelsen bakom din låt.",
+    "lines": [
+      {
+        "speaker": "other",
+        "text": "Your song has really touched a lot of people. Can you tell us about the inspiration?",
+        "textSv": "Din låt har verkligen berört många. Kan du berätta om inspirationen?"
+      },
+      {
+        "speaker": "you",
+        "text": "It was inspired by a period in my life when I felt lost, but music brought me back.",
+        "textSv": "Den föddes ur en period i mitt liv när jag kände mig vilse, men musiken bar mig tillbaka."
+      },
+      {
+        "speaker": "other",
+        "text": "So it's autobiographical?",
+        "textSv": "Så den är självbiografisk?"
+      },
+      {
+        "speaker": "you",
+        "text": "Partly. The emotions are real, but I've also woven in stories from people around me.",
+        "textSv": "Delvis. Känslorna är på riktigt, men jag har vävt in berättelser från människor omkring mig också."
+      },
+      {
+        "speaker": "other",
+        "text": "So the chorus is really about hope, right?",
+        "textSv": "Så refrängen handlar verkligen om hopp, eller hur?"
+      },
+      {
+        "speaker": "you",
+        "text": "Exactly. No matter how dark things get, there's always a way forward.",
+        "textSv": "Precis. Oavsett hur mörkt det blir finns det alltid en väg framåt."
+      }
+    ],
+    "section": "interview"
+  },
+  {
+    "id": "int_dialogue_3",
+    "type": "dialogue",
+    "scenario": "A journalist at a press conference asks about the competition.",
+    "scenarioSv": "En journalist på en presskonferens frågar om tävlingen.",
+    "lines": [
+      {
+        "speaker": "other",
+        "text": "Who do you think is your biggest competition this year?",
+        "textSv": "Vem tror du är din största konkurrent i år?"
+      },
+      {
+        "speaker": "you",
+        "text": "Honestly, I try not to think of it as a competition. Everyone here is incredibly talented.",
+        "textSv": "Ärligt talat försöker jag inte tänka på det som en tävling. Alla här är otroligt begåvade."
+      },
+      {
+        "speaker": "other",
+        "text": "But surely you've noticed some strong entries?",
+        "textSv": "Men du har säkert sett några starka bidrag?"
+      },
+      {
+        "speaker": "you",
+        "text": "Of course — the level this year is amazing. But I'm focused on delivering my best.",
+        "textSv": "Javisst — nivån i år är fantastisk. Men jag fokuserar på att leverera mitt bästa."
+      },
+      {
+        "speaker": "other",
+        "text": "Sweden is often among the favourites. Does that add pressure?",
+        "textSv": "Sverige är ofta bland favoriterna. Blir det extra press?"
+      },
+      {
+        "speaker": "you",
+        "text": "There's always pressure, but I use it as fuel. It pushes me to work harder.",
+        "textSv": "Det är alltid press, men jag använder den som bränsle. Den får mig att jobba hårdare."
+      }
+    ],
+    "section": "interview"
+  },
+  {
+    "id": "int_dialogue_4",
+    "type": "dialogue",
+    "scenario": "A red carpet interview at the opening ceremony.",
+    "scenarioSv": "En röda mattan-intervju vid öppningsceremonin.",
+    "lines": [
+      {
+        "speaker": "other",
+        "text": "You look stunning tonight! Who are you wearing?",
+        "textSv": "Du ser fantastisk ut i kväll! Vem har du på dig?"
+      },
+      {
+        "speaker": "you",
+        "text": "Thank you! I'm wearing a Swedish designer — it felt right to represent Sweden in every way.",
+        "textSv": "Tack! Jag har en svensk designer — det kändes rätt att representera Sverige på alla sätt."
+      },
+      {
+        "speaker": "other",
+        "text": "What are you most looking forward to this week?",
+        "textSv": "Vad ser du mest fram emot den här veckan?"
+      },
+      {
+        "speaker": "you",
+        "text": "Meeting the other artists and experiencing the whole Eurovision atmosphere.",
+        "textSv": "Att träffa de andra artisterna och uppleva hela Eurovision-stämningen."
+      },
+      {
+        "speaker": "other",
+        "text": "Any pre-show rituals?",
+        "textSv": "Några ritualer innan show?"
+      },
+      {
+        "speaker": "you",
+        "text": "I always do some vocal warm-ups and listen to my favourite playlist to calm my nerves.",
+        "textSv": "Jag värmer alltid upp rösten och lyssnar på min favoritspellista för att lugna nerverna."
+      }
+    ],
+    "section": "interview"
+  },
+  {
+    "id": "int_dialogue_5",
+    "type": "dialogue",
+    "scenario": "A backstage interview right after your Grand Final performance.",
+    "scenarioSv": "En intervju bakom scenen direkt efter ditt framträdande i finalen.",
+    "lines": [
+      {
+        "speaker": "other",
+        "text": "You just came off stage — how was it?",
+        "textSv": "Du kom precis från scenen — hur var det?"
+      },
+      {
+        "speaker": "you",
+        "text": "I'm still shaking! That was the most incredible three minutes of my life.",
+        "textSv": "Jag skakar fortfarande! Det var de tre mest fantastiska minuterna i mitt liv."
+      },
+      {
+        "speaker": "other",
+        "text": "There was a moment where you seemed really emotional. What happened?",
+        "textSv": "Det var en stund som såg väldigt känslosam ut. Vad hände?"
+      },
+      {
+        "speaker": "you",
+        "text": "I looked out at the audience and saw thousands of Swedish flags. It just hit me.",
+        "textSv": "Jag tittade ut i publiken och såg tusentals svenska flaggor. Det slog mig bara."
+      },
+      {
+        "speaker": "other",
+        "text": "Are you happy with how it went?",
+        "textSv": "Är du nöjd med hur det gick?"
+      },
+      {
+        "speaker": "you",
+        "text": "I gave everything I had. Whatever happens now, I'm at peace with it.",
+        "textSv": "Jag gav allt jag hade. Vad som än händer nu är jag i harmoni med det."
+      }
+    ],
+    "section": "interview"
+  },
+  {
+    "id": "int_dialogue_6",
+    "type": "dialogue",
+    "scenario": "A journalist asks a tough question about past controversies in your career.",
+    "scenarioSv": "En journalist ställer en tuff fråga om tidigare kontroverser i din karriär.",
+    "lines": [
+      {
+        "speaker": "other",
+        "text": "There were some negative headlines about you last year. How do you respond to that?",
+        "textSv": "Det var lite negativa rubriker om dig förra året. Hur svarar du på det?"
+      },
+      {
+        "speaker": "you",
+        "text": "I think everyone faces challenges. I've learned from it and grown as a person.",
+        "textSv": "Jag tror alla möter utmaningar. Jag har lärt mig och växt som människa."
+      },
+      {
+        "speaker": "other",
+        "text": "Do you think it affected your selection for Eurovision?",
+        "textSv": "Tror du att det påverkade valet av dig till Eurovision?"
+      },
+      {
+        "speaker": "you",
+        "text": "I'd like to think I was chosen based on my music and my performance.",
+        "textSv": "Jag vill hoppas att jag valdes för min musik och mitt framträdande."
+      },
+      {
+        "speaker": "other",
+        "text": "Fair enough. Let's talk about the song instead.",
+        "textSv": "Okej. Låt oss prata om låten i stället."
+      },
+      {
+        "speaker": "you",
+        "text": "I'd love that! The song is really what I'm here for.",
+        "textSv": "Gärna! Låten är verkligen det jag är här för."
+      }
+    ],
+    "section": "interview"
+  },
+  {
+    "id": "int_dialogue_7",
+    "type": "dialogue",
+    "scenario": "An international journalist interviews you about Sweden and Swedish music.",
+    "scenarioSv": "En internationell journalist intervjuar dig om Sverige och svensk musik.",
+    "lines": [
+      {
+        "speaker": "other",
+        "text": "Sweden has an amazing track record at Eurovision. Why do you think that is?",
+        "textSv": "Sverige har en fantastisk track record i Eurovision. Varför tror du det?"
+      },
+      {
+        "speaker": "you",
+        "text": "We have a strong pop tradition and a national selection that really pushes quality.",
+        "textSv": "Vi har en stark poptradition och en nationell uttagning som verkligen kräver kvalitet."
+      },
+      {
+        "speaker": "other",
+        "text": "What makes Swedish pop special?",
+        "textSv": "Vad gör svensk pop speciell?"
+      },
+      {
+        "speaker": "you",
+        "text": "I think it's the focus on melody and emotion. We love a strong hook.",
+        "textSv": "Jag tror det är fokus på melodi och känsla. Vi älskar en stark hook."
+      },
+      {
+        "speaker": "other",
+        "text": "Who are your musical heroes from Sweden?",
+        "textSv": "Vilka är dina musikaliska hjältar från Sverige?"
+      },
+      {
+        "speaker": "you",
+        "text": "Too many to list — Sweden has a long line of writers and artists who shaped pop.",
+        "textSv": "För många att räkna upp — Sverige har en lång rad låtskrivare och artister som format pop."
+      }
+    ],
+    "section": "interview"
+  },
+  {
+    "id": "int_dialogue_8",
+    "type": "dialogue",
+    "scenario": "A fan-run YouTube channel interviews you casually.",
+    "scenarioSv": "En fan-driven YouTube-kanal intervjuar dig på ett avslappnat sätt.",
+    "lines": [
+      {
+        "speaker": "other",
+        "text": "The fans are going crazy for you online! Have you seen the memes?",
+        "textSv": "Fansen går bananas online! Har du sett memserna?"
+      },
+      {
+        "speaker": "you",
+        "text": "Yes! I love it — some of them are so creative. My favourite was the one with the cat.",
+        "textSv": "Ja! Jag älskar det — vissa är så kreativa. Min favorit var den med katten."
+      },
+      {
+        "speaker": "other",
+        "text": "If you could do a duet with any Eurovision artist, past or present, who would it be?",
+        "textSv": "Om du fick göra en duett med vilken Eurovision-artist som helst, då eller nu, vem skulle det vara?"
+      },
+      {
+        "speaker": "you",
+        "text": "Someone from the Nordics — we share a lot of musical DNA, I think.",
+        "textSv": "Någon från Norden — vi delar en del musikalisk DNA, tycker jag."
+      },
+      {
+        "speaker": "other",
+        "text": "Last question — what's your guilty pleasure when you're off duty?",
+        "textSv": "Sista frågan — vad är din guilty pleasure när du är ledig?"
+      },
+      {
+        "speaker": "you",
+        "text": "Cheesy 2000s pop at full volume. No shame.",
+        "textSv": "Ostig pop från 00-talet på full volym. Utan skam."
+      }
+    ],
+    "section": "interview"
+  },
+  {
+    "id": "int_dialogue_9",
+    "type": "dialogue",
+    "scenario": "A press conference where you answer questions about your staging and choreography.",
+    "scenarioSv": "En presskonferens där du svarar på frågor om din scenografi och koreografi.",
+    "lines": [
+      {
+        "speaker": "other",
+        "text": "Can you walk us through the concept behind your staging?",
+        "textSv": "Kan du skissera konceptet bakom din scenografi?"
+      },
+      {
+        "speaker": "you",
+        "text": "The idea is to create an intimate space, even in a huge arena. It's just me, the light, and the music.",
+        "textSv": "Tanken är att skapa en intim känsla, även i en jättearena. Bara jag, ljuset och musiken."
+      },
+      {
+        "speaker": "other",
+        "text": "We noticed some very dramatic lighting. Was that planned from the start?",
+        "textSv": "Vi såg väldigt dramatiskt ljus. Planerat från början?"
+      },
+      {
+        "speaker": "you",
+        "text": "Yes, we worked with an amazing team from Stockholm. Every light cue matches the emotion of the lyrics.",
+        "textSv": "Ja, vi jobbade med ett grymt team från Stockholm. Varje ljuspunkt följer känslan i texten."
+      },
+      {
+        "speaker": "other",
+        "text": "Any pyrotechnics?",
+        "textSv": "Någon pyro?"
+      },
+      {
+        "speaker": "you",
+        "text": "No pyro — we wanted the focus to be on the voice and the story.",
+        "textSv": "Ingen pyro — vi ville att fokus skulle ligga på rösten och berättelsen."
+      }
+    ],
+    "section": "interview"
+  },
+  {
+    "id": "int_dialogue_10",
+    "type": "dialogue",
+    "scenario": "A morning show interview the day after the final results.",
+    "scenarioSv": "En morgonshow-intervju dagen efter finalresultaten.",
+    "lines": [
+      {
+        "speaker": "other",
+        "text": "Good morning! How did you sleep last night after all the excitement?",
+        "textSv": "God morgon! Hur sov du efter all spänning?"
+      },
+      {
+        "speaker": "you",
+        "text": "I barely slept at all! I was too overwhelmed to close my eyes.",
+        "textSv": "Jag sov nästan ingenting! Jag var för överväldigad för att somna."
+      },
+      {
+        "speaker": "other",
+        "text": "What's the first thing you did when you got back to your hotel?",
+        "textSv": "Vad var det första du gjorde när du kom tillbaka till hotellet?"
+      },
+      {
+        "speaker": "you",
+        "text": "I called my family in Sweden. They were watching the whole thing and crying.",
+        "textSv": "Jag ringde familj i Sverige. De tittade på hela och grät."
+      },
+      {
+        "speaker": "other",
+        "text": "What's next for you after Eurovision?",
+        "textSv": "Vad händer härnäst efter Eurovision?"
+      },
+      {
+        "speaker": "you",
+        "text": "I'm going on a European tour this summer, and I'm already working on new music.",
+        "textSv": "Jag ger mig ut på en Europaturné i sommar och jobbar redan med ny musik."
+      }
+    ],
+    "section": "interview"
+  },
+  {
+    "id": "int_choice_1",
+    "type": "choice",
+    "prompt": "A journalist asks: 'Do you think you deserve to win?' How do you respond?",
+    "promptSv": "En journalist frågar: 'Tycker du att du förtjänar att vinna?' Hur svarar du?",
+    "options": [
+      {
+        "text": "Yes, I'm clearly the best here.",
+        "correct": false,
+        "feedback": "Too arrogant. Confidence is good, but this comes across as dismissive of others.",
+        "feedbackSv": "För högmodigt. Självförtroende är bra, men så här låter det som att du inte respekterar andra."
+      },
+      {
+        "text": "I think every artist here deserves to be on that stage. I just hope my music connects with people.",
+        "correct": true,
+        "feedback": "Perfect — humble, diplomatic, and still confident in your own work.",
+        "feedbackSv": "Perfekt — ödmjuk, diplomatisk och fortfarande trygg i din egen musik."
+      },
+      {
+        "text": "I don't know. I'm not sure I'm good enough.",
+        "correct": false,
+        "feedback": "Too self-deprecating. You want to show confidence, not doubt.",
+        "feedbackSv": "För självkritisk. Visa självförtroende, inte tvivel."
+      }
+    ],
+    "section": "interview"
+  },
+  {
+    "id": "int_choice_2",
+    "type": "choice",
+    "prompt": "A reporter asks: 'What do you think about the voting system being unfair?' How do you respond?",
+    "promptSv": "En reporter frågar: 'Vad tycker du om att röstningssystemet är orättvist?' Hur svarar du?",
+    "options": [
+      {
+        "text": "The system is broken and needs to be completely changed.",
+        "correct": false,
+        "feedback": "Too blunt. Criticising the system publicly can create controversy.",
+        "feedbackSv": "För rakt på sak. Att offentligt kritisera systemet kan skapa kontroverser."
+      },
+      {
+        "text": "I think every system has room for improvement, but I trust the process and I'm just happy to be here.",
+        "correct": true,
+        "feedback": "Diplomatic and measured — acknowledges the question without causing drama.",
+        "feedbackSv": "Diplomatiskt och nyanserat — du tar frågan på allvar utan att skapa drama."
+      },
+      {
+        "text": "I don't care about voting, I only care about music.",
+        "correct": false,
+        "feedback": "Sounds dismissive and can come across as avoiding the question entirely.",
+        "feedbackSv": "Låter avfärdande och som att du inte vill svara på frågan."
+      }
+    ],
+    "section": "interview"
+  },
+  {
+    "id": "int_choice_3",
+    "type": "choice",
+    "prompt": "A journalist asks: 'Your song sounds very similar to another entry. Did you copy it?' How do you respond?",
+    "promptSv": "En journalist frågar: 'Din låt låter väldigt lik ett annat bidrag. Kopierade du det?' Hur svarar du?",
+    "options": [
+      {
+        "text": "That's ridiculous. Our songs are completely different.",
+        "correct": false,
+        "feedback": "Getting defensive can make you look guilty. Stay calm.",
+        "feedbackSv": "Att bli defensiv kan få dig att se skyldig ut. Håll dig lugn."
+      },
+      {
+        "text": "I can see why you might hear similarities — great minds think alike! But I assure you it's original.",
+        "correct": true,
+        "feedback": "Great answer — charming, light, and confident without being defensive.",
+        "feedbackSv": "Bra svar — charmigt, lätt och tryggt utan att bli defensiv."
+      },
+      {
+        "text": "No comment.",
+        "correct": false,
+        "feedback": "'No comment' makes it seem like you have something to hide.",
+        "feedbackSv": "'Ingen kommentar' kan låta som att du har något att dölja."
+      }
+    ],
+    "section": "interview"
+  },
+  {
+    "id": "int_choice_4",
+    "type": "choice",
+    "prompt": "An interviewer asks: 'Are you nervous about performing in front of 200 million viewers?'",
+    "promptSv": "En intervjuare frågar: 'Är du nervös inför att uppträda framför 200 miljoner tittare?'",
+    "options": [
+      {
+        "text": "Not at all, I've done this a million times.",
+        "correct": false,
+        "feedback": "Sounds overconfident and dismissive. A little vulnerability is relatable.",
+        "feedbackSv": "Låter överdrivet självsäker och avfärdande. Lite sårbarhet är lätt att relatera till."
+      },
+      {
+        "text": "Of course there are butterflies, but I turn that nervous energy into excitement on stage.",
+        "correct": true,
+        "feedback": "Honest and relatable — shows self-awareness and professionalism.",
+        "feedbackSv": "Ärligt och mänskligt — visar självinsikt och professionalitet."
+      },
+      {
+        "text": "I'm absolutely terrified, I might forget the lyrics.",
+        "correct": false,
+        "feedback": "Too negative. This doesn't inspire confidence in your audience.",
+        "feedbackSv": "För negativt. Det ger inte publiken förtroende."
+      }
+    ],
+    "section": "interview"
+  },
+  {
+    "id": "int_choice_5",
+    "type": "choice",
+    "prompt": "A journalist asks: 'Some people say Sweden always sends safe, manufactured pop. What do you say to that?'",
+    "promptSv": "En journalist frågar: 'Vissa säger att Sverige alltid skickar säker, tillverkad pop. Vad säger du om det?'",
+    "options": [
+      {
+        "text": "That's just jealousy from countries that don't have our songwriting talent.",
+        "correct": false,
+        "feedback": "Confrontational and rude. This will not go down well internationally.",
+        "feedbackSv": "Konfrontativt och oartigt. Det här kommer inte att tas väl internationellt."
+      },
+      {
+        "text": "I understand that perspective, but I think Sweden's strength is crafting songs that connect emotionally — and that takes real artistry.",
+        "correct": true,
+        "feedback": "Elegant response — acknowledges the criticism and reframes it positively.",
+        "feedbackSv": "Elegant svar — du erkänner kritiken och formulerar den till något positivt."
+      },
+      {
+        "text": "Yeah, maybe that's true. Swedish songs can be a bit formulaic.",
+        "correct": false,
+        "feedback": "Don't undermine your own country's music. Be proud and constructive.",
+        "feedbackSv": "Underkänna svensk musik i onödan. Var stolt och konstruktiv."
+      }
+    ],
+    "section": "interview"
+  },
+  {
+    "id": "int_choice_6",
+    "type": "choice",
+    "prompt": "A reporter asks: 'Your performance had a technical issue. Are you disappointed?'",
+    "promptSv": "En reporter frågar: 'Ditt framträdande hade ett tekniskt problem. Är du besviken?'",
+    "options": [
+      {
+        "text": "Yes, the production team really let me down.",
+        "correct": false,
+        "feedback": "Blaming others publicly is never a good look. It makes you seem unprofessional.",
+        "feedbackSv": "Att skylla på andra offentligt ser oproffsigt ut."
+      },
+      {
+        "text": "These things happen in live TV. I'm proud of how I handled it and kept going.",
+        "correct": true,
+        "feedback": "Professional and composed. Shows resilience and grace under pressure.",
+        "feedbackSv": "Proffsigt och samlat — visar motståndskraft och lugn under press."
+      },
+      {
+        "text": "I didn't even notice.",
+        "correct": false,
+        "feedback": "If the issue was visible to viewers, pretending it didn't happen seems dishonest.",
+        "feedbackSv": "Om tittarna så problemet, låt det inte vara som om det inte hände."
+      }
+    ],
+    "section": "interview"
+  },
+  {
+    "id": "int_choice_7",
+    "type": "choice",
+    "prompt": "An interviewer asks: 'Which country's entry is your favourite apart from your own?'",
+    "promptSv": "En intervjuare frågar: 'Vilket lands bidrag är din favorit förutom ditt eget?'",
+    "options": [
+      {
+        "text": "I don't like any of the other songs, to be honest.",
+        "correct": false,
+        "feedback": "Very rude and will create negative headlines. Never dismiss other artists.",
+        "feedbackSv": "Väldigt oartigt och ger negativa rubriker. Avfärda aldrig andra artister."
+      },
+      {
+        "text": "There are so many great entries this year — I've been enjoying them all during rehearsals!",
+        "correct": true,
+        "feedback": "Diplomatic and positive — avoids picking favourites while showing respect.",
+        "feedbackSv": "Diplomatiskt och positivt — du väljer inte favoriter men visar respekt."
+      },
+      {
+        "text": "Definitely [specific country], their song is way better than everyone else's.",
+        "correct": false,
+        "feedback": "Picking a clear favourite can offend other delegations and create drama.",
+        "feedbackSv": "Att välja en tydlig favorit kan såra andra delegationer och skapa drama."
+      }
+    ],
+    "section": "interview"
+  },
+  {
+    "id": "int_choice_8",
+    "type": "choice",
+    "prompt": "A journalist asks: 'Would you ever consider performing at Eurovision for a different country?'",
+    "promptSv": "En journalist frågar: 'Skulle du någonsin tänka dig att tävla i Eurovision för ett annat land?'",
+    "options": [
+      {
+        "text": "Sure, if they paid me enough.",
+        "correct": false,
+        "feedback": "Sounds mercenary. Eurovision isn't supposed to be about money.",
+        "feedbackSv": "Låter som att du bara bryr dig om pengar. Eurovision ska inte handla om det."
+      },
+      {
+        "text": "My heart belongs to Sweden, but I think Eurovision is about the music, not the flags.",
+        "correct": true,
+        "feedback": "Loyal to Sweden but open-minded — a classy answer.",
+        "feedbackSv": "Lojal mot Sverige men öppen — ett klassigt svar."
+      },
+      {
+        "text": "Never. I would only ever represent Sweden.",
+        "correct": false,
+        "feedback": "A bit too rigid. Many beloved Eurovision artists have represented different countries.",
+        "feedbackSv": "Lite för hårt. Många älskade artister har representerat fler länder."
+      }
+    ],
+    "section": "interview"
+  },
+  {
+    "id": "int_choice_9",
+    "type": "choice",
+    "prompt": "A journalist asks: 'You finished fifth. Are you disappointed with the result?'",
+    "promptSv": "En journalist frågar: 'Du slutade femma. Är du besviken på resultatet?'",
+    "options": [
+      {
+        "text": "Fifth place is terrible. I deserved much better.",
+        "correct": false,
+        "feedback": "Sore loser attitude. This will attract negative press.",
+        "feedbackSv": "Dålig förlorare attityd. Det här ger negativ press."
+      },
+      {
+        "text": "Top five out of forty countries is something I'm proud of. The whole journey has been unforgettable.",
+        "correct": true,
+        "feedback": "Gracious and positive. Reframes the result in a way that emphasises the achievement.",
+        "feedbackSv": "Graciös och positiv — du framhåller prestationen i stället."
+      },
+      {
+        "text": "I don't really care about the result.",
+        "correct": false,
+        "feedback": "Sounds dismissive and inauthentic. The audience knows you care.",
+        "feedbackSv": "Låter avfärdande och oärligt. Publiken vet att du bryr dig."
+      }
+    ],
+    "section": "interview"
+  },
+  {
+    "id": "int_choice_10",
+    "type": "choice",
+    "prompt": "An interviewer asks: 'There's a rumour you're releasing a new album. Can you confirm?'",
+    "promptSv": "En intervjuare frågar: 'Det finns ett rykte om att du släpper ett nytt album. Kan du bekräfta?'",
+    "options": [
+      {
+        "text": "No, that's completely false.",
+        "correct": false,
+        "feedback": "Even if it's false, shutting it down this hard closes the door. Be more playful.",
+        "feedbackSv": "Även om det är falskt kan ett hårt nej stänga dörren. Var lite lekfullare."
+      },
+      {
+        "text": "I can't say too much yet, but let's just say I've been very busy in the studio lately…",
+        "correct": true,
+        "feedback": "Perfect tease — builds excitement without confirming or denying.",
+        "feedbackSv": "Perfekt teaser — bygger förväntningar utan att bekräfta eller förneka."
+      },
+      {
+        "text": "Yes, it's coming out next week and it has twelve songs.",
+        "correct": false,
+        "feedback": "If your label hasn't announced it yet, leaking details in an interview could cause problems.",
+        "feedbackSv": "Om skivbolaget inte gått ut riskerar läckor i intervju att skapa problem."
+      }
+    ],
+    "section": "interview"
+  },
+  {
+    "id": "int_fun_1",
+    "type": "fun",
+    "prompt": "You're at a Eurovision press conference. Give your most dramatic answer to a simple question.",
+    "templates": [
+      "Reporter: 'What did you have for breakfast?' You: '___'",
+      "Reporter: 'How's the weather?' You: '___'",
+      "Reporter: 'Did you sleep well?' You: '___'"
+    ],
+    "section": "interview",
+    "promptSv": "Du är på en Eurovision presskonferens. Ge ditt mest dramatiska svar på en enkel fråga.",
+    "templatesSv": [
+      "Reporter: \"Vad åt du till frukost?\" Du: \"___\"",
+      "Reporter: \"Hur är vädret?\" Du: \"___\"",
+      "Reporter: \"Sov du gott?\" Du: \"___\""
+    ]
+  },
+  {
+    "id": "int_fun_2",
+    "type": "fun",
+    "prompt": "Pitch your Eurovision song to the press using only three English words.",
+    "templates": [
+      "My song is: ___, ___, ___.",
+      "In three words: ___, ___, ___.",
+      "If I had to sum it up: ___, ___, ___."
+    ],
+    "section": "interview",
+    "promptSv": "Pitcha din Eurovision-låt för pressen med bara tre engelska ord.",
+    "templatesSv": [
+      "Min låt är: ___, ___, ___.",
+      "Med tre ord: ___, ___, ___.",
+      "Om jag skulle sammanfatta: ___, ___, ___."
+    ]
+  },
+  {
+    "id": "int_fun_3",
+    "type": "fun",
+    "prompt": "Describe another country's performance in your own words — mood, staging, vibe.",
+    "templates": [
+      "The staging felt really ___.",
+      "It had this ___ energy, almost like ___.",
+      "You could tell they put a lot of work into ___."
+    ],
+    "section": "interview",
+    "promptSv": "Beskriv ett annat lands framträdande med egna ord — stämning, scen, känsla.",
+    "templatesSv": [
+      "Scenen kändes verkligen ___.",
+      "Den hade den här ___ energin, nästan som ___.",
+      "Man kunde se att de lagt mycket jobb på ___."
+    ]
+  },
+  {
+    "id": "int_fun_4",
+    "type": "fun",
+    "prompt": "Invent a ridiculous rumour about yourself and respond to it like a real press conference.",
+    "templates": [
+      "Reporter: 'Is it true you ___?' You: '___'",
+      "Reporter: 'Sources say you ___.' You: '___'",
+      "Reporter: 'There are photos of you ___.' You: '___'"
+    ],
+    "section": "interview",
+    "promptSv": "Hitta på ett löjligt rykte om dig själv och svara som på en riktig presskonferens.",
+    "templatesSv": [
+      "Reporter: \"Stämmer det att du ___?\" Du: \"___\"",
+      "Reporter: \"Källor säger att du ___.\" Du: \"___\"",
+      "Reporter: \"Det finns foton på dig som ___.\" Du: \"___\""
+    ]
+  },
+  {
+    "id": "int_fun_5",
+    "type": "fun",
+    "prompt": "Give a motivational speech to the other Eurovision artists in the greenroom — in English!",
+    "templates": [
+      "Ladies and gentlemen, tonight we ___.",
+      "No matter what happens, remember that ___.",
+      "We came from ___ different countries, but we all share ___."
+    ],
+    "section": "interview",
+    "promptSv": "Håll ett pep-talk till de andra Eurovision-artisterna i greenroom — på engelska!",
+    "templatesSv": [
+      "Mina damer och herrar, i kväll ___.",
+      "Oavsett vad som händer, kom ihåg att ___.",
+      "Vi kom från ___ olika länder, men vi delar alla ___."
+    ]
+  }
+]

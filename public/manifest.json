@@ -1,0 +1,17 @@
+{
+  "name": "Felingo",
+  "short_name": "Felingo",
+  "description": "Öva engelska inför Eurovision. Din tränare för scenen.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030308",
+  "theme_color": "#030308",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

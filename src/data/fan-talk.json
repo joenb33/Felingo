@@ -1,0 +1,1254 @@
+[
+  {
+    "id": "fan_phrase_1",
+    "type": "phrase",
+    "en": "Hi! Thanks so much for coming — it means a lot.",
+    "sv": "Hej! Tack så mycket för att ni kom — det betyder mycket.",
+    "section": "fan-talk",
+    "tags": [
+      "greeting",
+      "thanking"
+    ]
+  },
+  {
+    "id": "fan_phrase_2",
+    "type": "phrase",
+    "en": "It's so nice to meet you!",
+    "sv": "Så roligt att träffa dig!",
+    "section": "fan-talk",
+    "tags": [
+      "greeting"
+    ]
+  },
+  {
+    "id": "fan_phrase_3",
+    "type": "phrase",
+    "en": "Hey! How are you? Are you enjoying the week so far?",
+    "sv": "Hej! Hur är läget? Gillar du veckan hittills?",
+    "section": "fan-talk",
+    "tags": [
+      "greeting",
+      "small-talk"
+    ]
+  },
+  {
+    "id": "fan_phrase_4",
+    "type": "phrase",
+    "en": "Hello everyone! I can't believe you're all here!",
+    "sv": "Hej allihop! Jag kan inte tro att ni alla är här!",
+    "section": "fan-talk",
+    "tags": [
+      "greeting",
+      "crowd"
+    ]
+  },
+  {
+    "id": "fan_phrase_5",
+    "type": "phrase",
+    "en": "Welcome! Where are you from?",
+    "sv": "Välkommen! Var kommer du ifrån?",
+    "section": "fan-talk",
+    "tags": [
+      "greeting",
+      "small-talk"
+    ]
+  },
+  {
+    "id": "fan_phrase_6",
+    "type": "phrase",
+    "en": "Thank you, that really means the world to me.",
+    "sv": "Tack, det betyder verkligen allt för mig.",
+    "section": "fan-talk",
+    "tags": [
+      "thanking",
+      "emotional"
+    ]
+  },
+  {
+    "id": "fan_phrase_7",
+    "type": "phrase",
+    "en": "I honestly couldn't do this without fans like you.",
+    "sv": "Ärligt talat, jag skulle inte klara det utan fans som er.",
+    "section": "fan-talk",
+    "tags": [
+      "thanking",
+      "gratitude"
+    ]
+  },
+  {
+    "id": "fan_phrase_8",
+    "type": "phrase",
+    "en": "Your support keeps me going, honestly.",
+    "sv": "Ert stöd håller mig igång, ärligt talat.",
+    "section": "fan-talk",
+    "tags": [
+      "thanking",
+      "gratitude"
+    ]
+  },
+  {
+    "id": "fan_phrase_9",
+    "type": "phrase",
+    "en": "You guys are the best fans in the world!",
+    "sv": "Ni är bästa fansen i hela världen!",
+    "section": "fan-talk",
+    "tags": [
+      "thanking",
+      "compliment"
+    ]
+  },
+  {
+    "id": "fan_phrase_10",
+    "type": "phrase",
+    "en": "I'm so grateful for all the love you've shown me.",
+    "sv": "Jag är så tacksam för all kärlek ni visat mig.",
+    "section": "fan-talk",
+    "tags": [
+      "thanking",
+      "emotional"
+    ]
+  },
+  {
+    "id": "fan_phrase_11",
+    "type": "phrase",
+    "en": "I was so nervous on stage, but the energy from the crowd was incredible!",
+    "sv": "Jag var så nervös på scenen, men energin från publiken var otrolig!",
+    "section": "fan-talk",
+    "tags": [
+      "performance"
+    ]
+  },
+  {
+    "id": "fan_phrase_12",
+    "type": "phrase",
+    "en": "The rehearsals went really well — I felt so ready tonight.",
+    "sv": "Repetitionerna gick jättebra — jag kände mig så redo ikväll.",
+    "section": "fan-talk",
+    "tags": [
+      "performance"
+    ]
+  },
+  {
+    "id": "fan_phrase_13",
+    "type": "phrase",
+    "en": "Performing in front of that audience was a dream come true.",
+    "sv": "Att uppträda inför den publiken var en dröm som gick i uppfyllelse.",
+    "section": "fan-talk",
+    "tags": [
+      "performance",
+      "emotional"
+    ]
+  },
+  {
+    "id": "fan_phrase_14",
+    "type": "phrase",
+    "en": "I put my whole heart into that performance.",
+    "sv": "Jag lade hela mitt hjärta i det framträdandet.",
+    "section": "fan-talk",
+    "tags": [
+      "performance"
+    ]
+  },
+  {
+    "id": "fan_phrase_15",
+    "type": "phrase",
+    "en": "Feel free to follow me on socials — I'll share some behind-the-scenes bits.",
+    "sv": "Följ gärna mina sociala kanaler — jag delar lite bakom kulisserna.",
+    "section": "fan-talk",
+    "tags": [
+      "social-media"
+    ]
+  },
+  {
+    "id": "fan_phrase_16",
+    "type": "phrase",
+    "en": "I saw your post — that fan art was absolutely amazing!",
+    "sv": "Jag såg ditt inlägg — den fan-konsten var helt fantastisk!",
+    "section": "fan-talk",
+    "tags": [
+      "social-media",
+      "compliment"
+    ]
+  },
+  {
+    "id": "fan_phrase_17",
+    "type": "phrase",
+    "en": "Tag me if you post any photos from tonight!",
+    "sv": "Tagga mig om ni lägger upp bilder från ikväll!",
+    "section": "fan-talk",
+    "tags": [
+      "social-media"
+    ]
+  },
+  {
+    "id": "fan_phrase_18",
+    "type": "phrase",
+    "en": "I love reading all your comments — they make my day!",
+    "sv": "Jag älskar att läsa era kommentarer — de gör min dag!",
+    "section": "fan-talk",
+    "tags": [
+      "social-media",
+      "gratitude"
+    ]
+  },
+  {
+    "id": "fan_phrase_19",
+    "type": "phrase",
+    "en": "Of course! Let's take a selfie. Come closer!",
+    "sv": "Självklart! Vi tar en selfie. Kom närmare!",
+    "section": "fan-talk",
+    "tags": [
+      "selfie"
+    ]
+  },
+  {
+    "id": "fan_phrase_20",
+    "type": "phrase",
+    "en": "Want me to take it, or should you? I've got long arms!",
+    "sv": "Vill du att jag tar den, eller ska du? Jag har långa armar!",
+    "section": "fan-talk",
+    "tags": [
+      "selfie",
+      "witty"
+    ]
+  },
+  {
+    "id": "fan_phrase_21",
+    "type": "phrase",
+    "en": "Sure, I'd love to sign that! Do you have a pen?",
+    "sv": "Visst, jag signerar gärna! Har du en penna?",
+    "section": "fan-talk",
+    "tags": [
+      "autograph"
+    ]
+  },
+  {
+    "id": "fan_phrase_22",
+    "type": "phrase",
+    "en": "Who should I make it out to?",
+    "sv": "Till vem ska jag skriva det?",
+    "section": "fan-talk",
+    "tags": [
+      "autograph"
+    ]
+  },
+  {
+    "id": "fan_phrase_23",
+    "type": "phrase",
+    "en": "There you go! I hope you treasure it.",
+    "sv": "Varsågod! Jag hoppas du tar vara på den.",
+    "section": "fan-talk",
+    "tags": [
+      "autograph"
+    ]
+  },
+  {
+    "id": "fan_phrase_24",
+    "type": "phrase",
+    "en": "I love your outfit — you look amazing!",
+    "sv": "Jag älskar din outfit — du ser fantastisk ut!",
+    "section": "fan-talk",
+    "tags": [
+      "compliment"
+    ]
+  },
+  {
+    "id": "fan_phrase_25",
+    "type": "phrase",
+    "en": "Is that a flag from your country? I love it!",
+    "sv": "Är det en flagga från ditt land? Jag älskar det!",
+    "section": "fan-talk",
+    "tags": [
+      "compliment",
+      "small-talk"
+    ]
+  },
+  {
+    "id": "fan_phrase_26",
+    "type": "phrase",
+    "en": "You've been so supportive — I really appreciate it.",
+    "sv": "Du har varit så stöttande — jag uppskattar det verkligen.",
+    "section": "fan-talk",
+    "tags": [
+      "compliment",
+      "gratitude"
+    ]
+  },
+  {
+    "id": "fan_phrase_27",
+    "type": "phrase",
+    "en": "Thank you so much for voting for me — every vote counts!",
+    "sv": "Tack så mycket för att ni röstade på mig — varje röst räknas!",
+    "section": "fan-talk",
+    "tags": [
+      "voting",
+      "gratitude"
+    ]
+  },
+  {
+    "id": "fan_phrase_28",
+    "type": "phrase",
+    "en": "I can't believe how many votes we got — I'm speechless!",
+    "sv": "Jag kan inte tro hur många röster vi fick — jag är mållös!",
+    "section": "fan-talk",
+    "tags": [
+      "voting",
+      "emotional"
+    ]
+  },
+  {
+    "id": "fan_phrase_29",
+    "type": "phrase",
+    "en": "Even if we don't win, your votes mean everything to me.",
+    "sv": "Även om vi inte vinner, betyder era röster allt för mig.",
+    "section": "fan-talk",
+    "tags": [
+      "voting",
+      "gratitude"
+    ]
+  },
+  {
+    "id": "fan_phrase_30",
+    "type": "phrase",
+    "en": "Thank you! I'll do my best — keep your fingers crossed!",
+    "sv": "Tack! Jag ska göra mitt bästa — håll tummarna!",
+    "section": "fan-talk",
+    "tags": [
+      "good-luck-response"
+    ]
+  },
+  {
+    "id": "fan_phrase_31",
+    "type": "phrase",
+    "en": "That's so sweet of you to say — I really needed to hear that!",
+    "sv": "Så gulligt av dig att säga — jag behövde verkligen höra det!",
+    "section": "fan-talk",
+    "tags": [
+      "good-luck-response",
+      "emotional"
+    ]
+  },
+  {
+    "id": "fan_phrase_32",
+    "type": "phrase",
+    "en": "I appreciate it! It's going to be a wild night!",
+    "sv": "Jag uppskattar det! Det blir en vild kväll!",
+    "section": "fan-talk",
+    "tags": [
+      "good-luck-response"
+    ]
+  },
+  {
+    "id": "fan_phrase_33",
+    "type": "phrase",
+    "en": "Have you seen any other acts you liked?",
+    "sv": "Har du sett några andra akter du gillade?",
+    "section": "fan-talk",
+    "tags": [
+      "small-talk"
+    ]
+  },
+  {
+    "id": "fan_phrase_34",
+    "type": "phrase",
+    "en": "This is my first Eurovision — I still can't believe I'm here!",
+    "sv": "Det här är mitt första Eurovision — jag kan fortfarande inte tro att jag är här!",
+    "section": "fan-talk",
+    "tags": [
+      "small-talk"
+    ]
+  },
+  {
+    "id": "fan_phrase_35",
+    "type": "phrase",
+    "en": "How long have you been following Eurovision?",
+    "sv": "Hur länge har du följt Eurovision?",
+    "section": "fan-talk",
+    "tags": [
+      "small-talk"
+    ]
+  },
+  {
+    "id": "fan_phrase_36",
+    "type": "phrase",
+    "en": "I'll never forget this moment — thank you for being part of it.",
+    "sv": "Jag kommer aldrig glömma den här stunden — tack för att du är en del av den.",
+    "section": "fan-talk",
+    "tags": [
+      "emotional",
+      "gratitude"
+    ]
+  },
+  {
+    "id": "fan_phrase_37",
+    "type": "phrase",
+    "en": "I'm so happy to be here — Sweden always brings great energy to Eurovision.",
+    "sv": "Jag är så glad att vara här — Sverige brukar alltid bjuda på grym energi i Eurovision.",
+    "section": "fan-talk",
+    "tags": [
+      "sweden",
+      "eurovision"
+    ]
+  },
+  {
+    "id": "fan_phrase_38",
+    "type": "phrase",
+    "en": "People keep joking that Sweden's going to win — please don't jinx us!",
+    "sv": "Folk skämtar om att Sverige ska vinna — snälla, förskräck oss inte!",
+    "section": "fan-talk",
+    "tags": [
+      "humour",
+      "sweden"
+    ]
+  },
+  {
+    "id": "fan_phrase_39",
+    "type": "phrase",
+    "en": "Sweden and Eurovision — it's a long love story, and I'm here for it.",
+    "sv": "Sverige och Eurovision — en lång kärlekshistoria, och jag är här för den.",
+    "section": "fan-talk",
+    "tags": [
+      "sweden",
+      "eurovision"
+    ]
+  },
+  {
+    "id": "fan_phrase_40",
+    "type": "phrase",
+    "en": "I'm here to sing, connect with people, and maybe stress a tiny bit — in a good way.",
+    "sv": "Jag är här för att sjunga, möta människor och stressa lite lagom — på ett bra sätt.",
+    "section": "fan-talk",
+    "tags": [
+      "honest",
+      "relatable"
+    ]
+  },
+  {
+    "id": "fan_phrase_41",
+    "type": "phrase",
+    "en": "Could you take a photo of us with the crowd in the background?",
+    "sv": "Kan du ta en bild på oss med publiken i bakgrunden?",
+    "section": "fan-talk",
+    "tags": [
+      "photo",
+      "practical"
+    ]
+  },
+  {
+    "id": "fan_phrase_42",
+    "type": "phrase",
+    "en": "I'm so jet-lagged — what day is it? This week blurs together.",
+    "sv": "Jag är så jetlaggad — vilken dag är det? Veckan flyter ihop.",
+    "section": "fan-talk",
+    "tags": [
+      "small-talk",
+      "relatable"
+    ]
+  },
+  {
+    "id": "fan_phrase_43",
+    "type": "phrase",
+    "en": "Thank you for chanting — that energy means everything.",
+    "sv": "Tack för att ni skanderar — den energin betyder allt.",
+    "section": "fan-talk",
+    "tags": [
+      "thanking",
+      "crowd"
+    ]
+  },
+  {
+    "id": "fan_phrase_44",
+    "type": "phrase",
+    "en": "I'll be around for a bit — come say hi if you spot me!",
+    "sv": "Jag är kvar en stund — kom fram och säg hej om du ser mig!",
+    "section": "fan-talk",
+    "tags": [
+      "greeting",
+      "open"
+    ]
+  },
+  {
+    "id": "fan_phrase_45",
+    "type": "phrase",
+    "en": "Let's keep it kind — we're all here for the music.",
+    "sv": "Vi håller det schyst — vi är här för musiken, allihop.",
+    "section": "fan-talk",
+    "tags": [
+      "tone",
+      "friendly"
+    ]
+  },
+  {
+    "id": "fan_phrase_46",
+    "type": "phrase",
+    "en": "I might need a minute — big crowds can feel intense, in a good way.",
+    "sv": "Jag kan behöva en minut — stora folkmassor kan kännas intensiva, på ett bra sätt.",
+    "section": "fan-talk",
+    "tags": [
+      "honest",
+      "boundaries"
+    ]
+  },
+  {
+    "id": "fan_dialogue_1",
+    "type": "dialogue",
+    "scenario": "A fan meets you backstage after your performance and wants to tell you how much they loved it.",
+    "scenarioSv": "Ett fan träffar dig backstage efter ditt framträdande och vill berätta hur mycket de älskade det.",
+    "lines": [
+      {
+        "speaker": "other",
+        "text": "Oh my God — that was absolutely incredible!",
+        "textSv": "Åh herregud — det där var helt otroligt!"
+      },
+      {
+        "speaker": "you",
+        "text": "Thank you so much! I'm still shaking from the adrenaline!",
+        "textSv": "Tack så mycket! Jag skakar fortfarande av adrenalinet!"
+      },
+      {
+        "speaker": "other",
+        "text": "The high note at the end gave me chills. How do you do that?",
+        "textSv": "Den höga tonen i slutet gav mig kalla kårar. Hur gör du det?"
+      },
+      {
+        "speaker": "you",
+        "text": "Ha, lots of practice! Honestly, the crowd's energy carried me through it.",
+        "textSv": "Ha, mycket träning! Ärligt talat bar publiken mig genom det."
+      },
+      {
+        "speaker": "other",
+        "text": "You're going to win, I just know it!",
+        "textSv": "Du kommer vinna, jag vet bara!"
+      },
+      {
+        "speaker": "you",
+        "text": "That's so kind! Either way, tonight was already a dream come true.",
+        "textSv": "Så snällt du är! Hur det än går var den här kvällen redan en dröm som slog in."
+      }
+    ],
+    "section": "fan-talk"
+  },
+  {
+    "id": "fan_dialogue_2",
+    "type": "dialogue",
+    "scenario": "A group of fans asks you to sign their Swedish flags at a Eurovision village event.",
+    "scenarioSv": "En grupp fans ber dig signera deras svenska flaggor på ett Eurovision village-event.",
+    "lines": [
+      {
+        "speaker": "other",
+        "text": "Hey! Can you sign our flag, please?",
+        "textSv": "Hej! Kan du signera vår flagga, snälla?"
+      },
+      {
+        "speaker": "you",
+        "text": "Of course! I'd love to. Do you have a marker?",
+        "textSv": "Självklart! Gärna. Har du en penna?"
+      },
+      {
+        "speaker": "other",
+        "text": "Here! Can you write 'Go Sweden' on it?",
+        "textSv": "Här! Kan du skriva \"Go Sweden\" på den?"
+      },
+      {
+        "speaker": "you",
+        "text": "Ha, absolutely! 'Go Sweden' it is. There you go!",
+        "textSv": "Ha, absolut! \"Go Sweden\" blir det. Varsågod!"
+      },
+      {
+        "speaker": "other",
+        "text": "Thank you! We came all the way from Gothenburg just for you!",
+        "textSv": "Tack! Vi kom hela vägen från Göteborg bara för dig!"
+      },
+      {
+        "speaker": "you",
+        "text": "No way! That makes me so happy. Gothenburg fans are the best!",
+        "textSv": "Va? Det gör mig så glad. Göteborgsfans är bäst!"
+      }
+    ],
+    "section": "fan-talk"
+  },
+  {
+    "id": "fan_dialogue_3",
+    "type": "dialogue",
+    "scenario": "A fan approaches you and asks what your entry is really about.",
+    "scenarioSv": "Ett fan undrar vad ditt bidrag egentligen handlar om.",
+    "lines": [
+      {
+        "speaker": "other",
+        "text": "Hi! I love what you're doing. Can I ask — what's it really about?",
+        "textSv": "Hej! Jag gillar det du gör. Får jag fråga — vad handlar det egentligen om?"
+      },
+      {
+        "speaker": "you",
+        "text": "Hi! Of course. For me it's about finding your voice when everyone tells you to be quiet.",
+        "textSv": "Hej! Självklart. För mig handlar det om att hitta sin röst när alla säger åt dig att vara tyst."
+      },
+      {
+        "speaker": "other",
+        "text": "That's so powerful. Did you write it from personal experience?",
+        "textSv": "Så starkt. Skrev du utifrån egen erfarenhet?"
+      },
+      {
+        "speaker": "you",
+        "text": "Partly, yes. I think everyone can relate to feeling like they don't fit in.",
+        "textSv": "Delvis, ja. Jag tror alla kan känna igen sig i att man inte passar in."
+      },
+      {
+        "speaker": "other",
+        "text": "It really resonated with me. Thank you for sharing that.",
+        "textSv": "Det träffade mig verkligen. Tack för att du delar det."
+      },
+      {
+        "speaker": "you",
+        "text": "Thank you for listening — that's the whole point of music, to connect people.",
+        "textSv": "Tack för att du lyssnar — det är väl det musik är till för, att föra människor samman."
+      }
+    ],
+    "section": "fan-talk"
+  },
+  {
+    "id": "fan_dialogue_4",
+    "type": "dialogue",
+    "scenario": "Someone approaches you at the official Eurovision after-party and recognizes you.",
+    "scenarioSv": "Någon kommer fram till dig på den officiella Eurovision-efterfesten och känner igen dig.",
+    "lines": [
+      {
+        "speaker": "other",
+        "text": "Excuse me — are you the Swedish artist?",
+        "textSv": "Ursäkta — är du den svenska artisten?"
+      },
+      {
+        "speaker": "you",
+        "text": "Yes, that's me! Are you enjoying the party?",
+        "textSv": "Ja, det är jag! Gillar du festen?"
+      },
+      {
+        "speaker": "other",
+        "text": "I am now! I voted for you five times!",
+        "textSv": "Nu gör jag det! Jag röstade på dig fem gånger!"
+      },
+      {
+        "speaker": "you",
+        "text": "Five times? You're my hero! Where are you from?",
+        "textSv": "Fem gånger? Du är min hjälte! Var kommer du ifrån?"
+      },
+      {
+        "speaker": "other",
+        "text": "I'm from Greece! We all love you there.",
+        "textSv": "Jag kommer från Grekland! Vi älskar dig allihop där."
+      },
+      {
+        "speaker": "you",
+        "text": "Greece! I love your country's entry this year too. Shall we grab a drink and chat?",
+        "textSv": "Grekland! Jag gillar ert bidrag i år också. Ska vi ta en drink och prata?"
+      }
+    ],
+    "section": "fan-talk"
+  },
+  {
+    "id": "fan_dialogue_5",
+    "type": "dialogue",
+    "scenario": "A superfan runs into you at the hotel lobby. They know every single one of your songs.",
+    "scenarioSv": "Ett superfan springer på dig i hotellobbyns. De kan alla dina låtar.",
+    "lines": [
+      {
+        "speaker": "other",
+        "text": "I've watched your rehearsal clip about three hundred times — I counted!",
+        "textSv": "Jag har kollat din repetitionsklipp typ trehundra gånger — jag räknade!"
+      },
+      {
+        "speaker": "you",
+        "text": "Wait — three hundred? That's dedication!",
+        "textSv": "Vänta — trehundra? Det är dedikation!"
+      },
+      {
+        "speaker": "other",
+        "text": "Yes! And I know every lyric. Even the bonus tracks!",
+        "textSv": "Ja! Och jag kan alla texter. Till och med bonuslåtarna!"
+      },
+      {
+        "speaker": "you",
+        "text": "Okay, that's amazing. You might know the material better than I do!",
+        "textSv": "Okej, det är fantastiskt. Du kan materialet bättre än jag!"
+      },
+      {
+        "speaker": "other",
+        "text": "Can I show you my fan account? I make edits of your performances.",
+        "textSv": "Kan jag visa dig mitt fan-konto? Jag gör edits av dina framträdanden."
+      },
+      {
+        "speaker": "you",
+        "text": "I would love that! Send me the link — I'll share my favorite one.",
+        "textSv": "Det vill jag gärna! Skicka länken — jag delar min favorit."
+      }
+    ],
+    "section": "fan-talk"
+  },
+  {
+    "id": "fan_dialogue_6",
+    "type": "dialogue",
+    "scenario": "You meet fans from different countries at a press meet-and-greet.",
+    "scenarioSv": "Du träffar fans från olika länder på en press-meet-and-greet.",
+    "lines": [
+      {
+        "speaker": "other",
+        "text": "Hi! We're from Portugal, Spain, and the Netherlands!",
+        "textSv": "Hej! Vi kommer från Portugal, Spanien och Nederländerna!"
+      },
+      {
+        "speaker": "you",
+        "text": "Wow, a truly European group! How cool that you're all here together.",
+        "textSv": "Wow, en riktigt europeisk grupp! Så häftigt att ni är här tillsammans."
+      },
+      {
+        "speaker": "other",
+        "text": "We met in the Eurovision fan forum and decided to travel together.",
+        "textSv": "Vi träffades i Eurovision-forumet och bestämde oss för att resa ihop."
+      },
+      {
+        "speaker": "you",
+        "text": "That's one of the best things about Eurovision — it brings people together.",
+        "textSv": "Det är en av de bästa sakerna med Eurovision — det för samman människor."
+      },
+      {
+        "speaker": "other",
+        "text": "We made you a poster! Look!",
+        "textSv": "Vi har gjort en poster till dig! Kolla!"
+      },
+      {
+        "speaker": "you",
+        "text": "Oh my goodness, that's beautiful! Can I take a photo with you and the poster?",
+        "textSv": "Åh herregud, den är så fin! Får jag ta en bild med er och postern?"
+      }
+    ],
+    "section": "fan-talk"
+  },
+  {
+    "id": "fan_dialogue_7",
+    "type": "dialogue",
+    "scenario": "A young fan is very nervous to meet you and can barely speak.",
+    "scenarioSv": "Ett ungt fan är väldigt nervös att träffa dig och kan knappt prata.",
+    "lines": [
+      {
+        "speaker": "other",
+        "text": "I... um... hi. I'm... sorry, I'm just really nervous.",
+        "textSv": "Jag... öh... hej. Jag är... förlåt, jag är bara så nervös."
+      },
+      {
+        "speaker": "you",
+        "text": "Hey, no need to be nervous! What's your name?",
+        "textSv": "Hej, du behöver inte vara nervös! Vad heter du?"
+      },
+      {
+        "speaker": "other",
+        "text": "I'm Emma. You're my biggest inspiration.",
+        "textSv": "Jag heter Emma. Du är min största inspiration."
+      },
+      {
+        "speaker": "you",
+        "text": "Emma, that honestly makes me want to cry. Thank you so much.",
+        "textSv": "Emma, det är ärligt talat nästan så jag vill gråta. Tack så mycket."
+      },
+      {
+        "speaker": "other",
+        "text": "Can I... can I have a hug?",
+        "textSv": "Kan jag... kan jag få en kram?"
+      },
+      {
+        "speaker": "you",
+        "text": "Absolutely! Come here. And let's get a photo too, okay?",
+        "textSv": "Absolut! Kom här. Och vi tar en bild också, okej?"
+      }
+    ],
+    "section": "fan-talk"
+  },
+  {
+    "id": "fan_dialogue_8",
+    "type": "dialogue",
+    "scenario": "A fan asks you to record a video greeting for their friend who couldn't attend.",
+    "scenarioSv": "Ett fan ber dig spela in en videohälsning till sin kompis som inte kunde komma.",
+    "lines": [
+      {
+        "speaker": "other",
+        "text": "My best friend is your biggest fan, but she's sick and couldn't come. Could you record a short video for her?",
+        "textSv": "Min bästa vän är din största fan, men hon är sjuk och kunde inte komma. Kan du spela in en kort video till henne?"
+      },
+      {
+        "speaker": "you",
+        "text": "Oh no, of course! What's her name?",
+        "textSv": "Å nej, självklart! Vad heter hon?"
+      },
+      {
+        "speaker": "other",
+        "text": "Her name is Mia.",
+        "textSv": "Hon heter Mia."
+      },
+      {
+        "speaker": "you",
+        "text": "Okay, hold the phone up. Ready? — Hi Mia! Sending you a big hug from here — I heard you're not feeling well. Get better soon, and I hope we can meet next time!",
+        "textSv": "Okej, håll upp telefonen. Redo? — Hej Mia! Skickar en stor kram härifrån — jag hörde att du inte mår bra. Krya på dig, och jag hoppas vi kan ses nästa gång!"
+      },
+      {
+        "speaker": "other",
+        "text": "She's going to lose her mind! Thank you so much!",
+        "textSv": "Hon kommer bli galen! Tack så mycket!"
+      },
+      {
+        "speaker": "you",
+        "text": "Tell her I said hi and that she has the best friend ever for doing this.",
+        "textSv": "Säg att jag hälsar och att hon har världens bästa kompis som ordnar det här."
+      }
+    ],
+    "section": "fan-talk"
+  },
+  {
+    "id": "fan_dialogue_9",
+    "type": "dialogue",
+    "scenario": "A fan at a signing table gives you a handmade gift.",
+    "scenarioSv": "Ett fan vid ett signeringsbord ger dig en handgjord present.",
+    "lines": [
+      {
+        "speaker": "other",
+        "text": "I made this bracelet for you. It has the Swedish colors.",
+        "textSv": "Jag har gjort det här armbandet till dig. Det har svenska färgerna."
+      },
+      {
+        "speaker": "you",
+        "text": "Oh wow, you made this yourself? It's gorgeous!",
+        "textSv": "Åh wow, du har gjort det själv? Det är jättefint!"
+      },
+      {
+        "speaker": "other",
+        "text": "I worked on it for two weeks. I hope you like it.",
+        "textSv": "Jag har jobbat på det i två veckor. Jag hoppas du gillar det."
+      },
+      {
+        "speaker": "you",
+        "text": "Like it? I love it! I'm putting it on right now. Look!",
+        "textSv": "Gilla? Jag älskar det! Jag sätter på det nu. Kolla!"
+      },
+      {
+        "speaker": "other",
+        "text": "It looks perfect on you!",
+        "textSv": "Det sitter perfekt på dig!"
+      },
+      {
+        "speaker": "you",
+        "text": "I'm wearing this during the final. It's my good luck charm now!",
+        "textSv": "Jag har det här på under finalen. Det är min lyckobringare nu!"
+      }
+    ],
+    "section": "fan-talk"
+  },
+  {
+    "id": "fan_dialogue_10",
+    "type": "dialogue",
+    "scenario": "A fan asks you for advice because they want to become a singer too.",
+    "scenarioSv": "Ett fan frågar dig om råd för att de också vill bli sångare.",
+    "lines": [
+      {
+        "speaker": "other",
+        "text": "I want to be a singer too — do you have any advice?",
+        "textSv": "Jag vill också bli sångare — har du några råd?"
+      },
+      {
+        "speaker": "you",
+        "text": "That's awesome! The most important thing is to keep singing, even when no one's listening.",
+        "textSv": "Det är fantastiskt! Det viktigaste är att fortsätta sjunga även när ingen lyssnar."
+      },
+      {
+        "speaker": "other",
+        "text": "But what if people say I'm not good enough?",
+        "textSv": "Men vad om folk säger att jag inte är tillräckligt bra?"
+      },
+      {
+        "speaker": "you",
+        "text": "Trust me, people said that to me too. Just keep working on your craft and believe in yourself.",
+        "textSv": "Lita på mig, det har sagts mig med. Fortsätt öva och tro på dig själv."
+      },
+      {
+        "speaker": "other",
+        "text": "Did you ever feel like giving up?",
+        "textSv": "Har du någonsin velat ge upp?"
+      },
+      {
+        "speaker": "you",
+        "text": "Many times! But then I'd hear a song that reminded me why I started. Never give up on what makes you happy.",
+        "textSv": "Många gånger! Men så hör jag en låt som påminner mig om varför jag började. Ge aldrig upp det som gör dig glad."
+      }
+    ],
+    "section": "fan-talk"
+  },
+  {
+    "id": "fan_choice_1",
+    "type": "choice",
+    "prompt": "A fan says: 'Your song was terrible, honestly.' How do you respond?",
+    "promptSv": "Ett fan säger: 'Din låt var hemsk, ärligt talat.' Hur svarar du?",
+    "options": [
+      {
+        "text": "Well, you're terrible!",
+        "correct": false,
+        "feedback": "Getting defensive never looks good. Stay professional.",
+        "feedbackSv": "Att bli defensiv ser aldrig bra ut. Var professionell."
+      },
+      {
+        "text": "I'm sorry you feel that way! Music is subjective, right? I hope you find something you love.",
+        "correct": true,
+        "feedback": "Perfect — graceful, mature, and keeps the door open.",
+        "feedbackSv": "Perfekt — värdigt, moget och du lämnar dörren öppen."
+      },
+      {
+        "text": "Whatever.",
+        "correct": false,
+        "feedback": "Too dismissive. You can do better than that!",
+        "feedbackSv": "För avfärdande. Du kan bättre än så!"
+      }
+    ],
+    "section": "fan-talk"
+  },
+  {
+    "id": "fan_choice_2",
+    "type": "choice",
+    "prompt": "A fan asks: 'Can I get a selfie?' but you're running late for rehearsals. What do you say?",
+    "promptSv": "Ett fan frågar: 'Kan jag ta en selfie?' men du är sen till repetitionen. Vad säger du?",
+    "options": [
+      {
+        "text": "No, I don't have time.",
+        "correct": false,
+        "feedback": "A bit blunt. You can say no while still being warm.",
+        "feedbackSv": "Lite rakt på sak. Du kan säga nej och ändå vara varm."
+      },
+      {
+        "text": "I'd love to, but I'm running late for rehearsals! Can we do a super quick one?",
+        "correct": true,
+        "feedback": "Great balance — you respect your schedule but still make the fan feel valued.",
+        "feedbackSv": "Bra balans — du respekterar schemat men får fanet att känna sig uppskattat."
+      },
+      {
+        "text": "Sure, let's spend ten minutes taking photos!",
+        "correct": false,
+        "feedback": "Nice thought, but you'll miss your rehearsal! Boundaries matter.",
+        "feedbackSv": "Snäll tanke, men du missar repetitionen! Gränser är viktiga."
+      }
+    ],
+    "section": "fan-talk"
+  },
+  {
+    "id": "fan_choice_3",
+    "type": "choice",
+    "prompt": "A fan says: 'I voted for the other country, sorry!' What's the best response?",
+    "promptSv": "Ett fan säger: 'Jag röstade på det andra landet, förlåt!' Vad är bästa svaret?",
+    "options": [
+      {
+        "text": "Ha, no worries! Who did you vote for? I'm curious!",
+        "correct": true,
+        "feedback": "Friendly and confident — shows you don't take it personally.",
+        "feedbackSv": "Vänligt och tryggt — visar att du inte tar det personligt."
+      },
+      {
+        "text": "Why would you tell me that?",
+        "correct": false,
+        "feedback": "Too defensive. They're being honest — meet them with humor.",
+        "feedbackSv": "För defensivt. De är ärliga — möt dem med humor."
+      },
+      {
+        "text": "That hurts...",
+        "correct": false,
+        "feedback": "A bit dramatic. Keep it light!",
+        "feedbackSv": "Lite dramatiskt. Håll det lätt!"
+      }
+    ],
+    "section": "fan-talk"
+  },
+  {
+    "id": "fan_choice_4",
+    "type": "choice",
+    "prompt": "A fan starts crying when they meet you. What do you do?",
+    "promptSv": "Ett fan börjar gråta när de träffar dig. Vad gör du?",
+    "options": [
+      {
+        "text": "Please don't cry, it's okay!",
+        "correct": false,
+        "feedback": "Well-meaning but can feel dismissive of their emotions.",
+        "feedbackSv": "Väl menat men kan kännas som att du inte tar deras känslor på allvar."
+      },
+      {
+        "text": "Oh, come here! It's okay — I'm just a normal person, I promise. Can I give you a hug?",
+        "correct": true,
+        "feedback": "Warm and grounding — makes them feel safe while keeping things real.",
+        "feedbackSv": "Varmt och jordande — de känner sig trygga men ändå mötta i verkligheten."
+      },
+      {
+        "text": "Why are you crying? It's just me!",
+        "correct": false,
+        "feedback": "A bit awkward — try to acknowledge their emotions more gently.",
+        "feedbackSv": "Lite awkward — försök erkänna känslorna mjukare."
+      }
+    ],
+    "section": "fan-talk"
+  },
+  {
+    "id": "fan_choice_5",
+    "type": "choice",
+    "prompt": "A fan asks you a personal question you don't want to answer: 'Are you dating anyone?' What do you say?",
+    "promptSv": "Ett fan ställer en personlig fråga du inte vill svara på: 'Dejtar du någon?' Vad säger du?",
+    "options": [
+      {
+        "text": "That's none of your business.",
+        "correct": false,
+        "feedback": "Too harsh. You can set a boundary without being rude.",
+        "feedbackSv": "För hårt. Du kan sätta gränser utan att vara otrevlig."
+      },
+      {
+        "text": "Ha, I'm dating the stage right now! Eurovision is my only love this week.",
+        "correct": true,
+        "feedback": "Witty deflection — keeps the mood light without sharing private info.",
+        "feedbackSv": "Kvickt avledande — håller stämningen lätt utan att avslöja privat."
+      },
+      {
+        "text": "Yes, his name is... actually, never mind.",
+        "correct": false,
+        "feedback": "This half-answer just invites more questions. Deflect cleanly!",
+        "feedbackSv": "Halva svaret lockar bara fler frågor. Avleda tydligt!"
+      }
+    ],
+    "section": "fan-talk"
+  },
+  {
+    "id": "fan_choice_6",
+    "type": "choice",
+    "prompt": "A fan says: 'I came all the way from Australia just to see you!' How do you respond?",
+    "promptSv": "Ett fan säger: 'Jag kom hela vägen från Australien bara för att se dig!' Hur svarar du?",
+    "options": [
+      {
+        "text": "That's a long flight.",
+        "correct": false,
+        "feedback": "Technically true, but not exactly warm. Show more appreciation!",
+        "feedbackSv": "Tekniskt sant, men inte särskilt varmt. Visa mer uppskattning!"
+      },
+      {
+        "text": "Are you serious? That's absolutely insane — in the best way! Thank you so much!",
+        "correct": true,
+        "feedback": "Enthusiastic and genuine — the fan will feel their effort was worth it.",
+        "feedbackSv": "Entusiastiskt och äkta — fanet känner att resan var värd det."
+      },
+      {
+        "text": "Cool, I've always wanted to visit Australia.",
+        "correct": false,
+        "feedback": "Not bad, but it redirects the attention to yourself. Focus on them first.",
+        "feedbackSv": "Inte dumt, men du flyttar fokus till dig själv. Börja med dem."
+      }
+    ],
+    "section": "fan-talk"
+  },
+  {
+    "id": "fan_choice_7",
+    "type": "choice",
+    "prompt": "A fan asks: 'Do you think you'll win?' right before the grand final. What's the best tone?",
+    "promptSv": "Ett fan frågar: 'Tror du att du kommer vinna?' precis innan finalen. Vilken ton är bäst?",
+    "options": [
+      {
+        "text": "Obviously! Sweden always wins.",
+        "correct": false,
+        "feedback": "Confident is good, but this sounds arrogant.",
+        "feedbackSv": "Självsäkerhet är bra, men så här låter det arrogant."
+      },
+      {
+        "text": "I hope so! But honestly, just being here is already a win for me. I'll give it everything I've got.",
+        "correct": true,
+        "feedback": "Humble yet confident — the perfect balance for a public figure.",
+        "feedbackSv": "Ödmjuk men ändå trygg — bra balans för någon i offentligheten."
+      },
+      {
+        "text": "Probably not, but we'll see.",
+        "correct": false,
+        "feedback": "Too negative! Show some belief in yourself.",
+        "feedbackSv": "För negativt! Visa lite tro på dig själv."
+      }
+    ],
+    "section": "fan-talk"
+  },
+  {
+    "id": "fan_choice_8",
+    "type": "choice",
+    "prompt": "A fan hands you a gift but your security team says you can't accept gifts. What do you say to the fan?",
+    "promptSv": "Ett fan ger dig en present men säkerhetsteamet säger att du inte kan ta emot gåvor. Vad säger du till fanet?",
+    "options": [
+      {
+        "text": "Sorry, I can't take that. Rules are rules.",
+        "correct": false,
+        "feedback": "Too cold. Acknowledge their effort even if you can't accept it.",
+        "feedbackSv": "För kallt. Erkänn deras gest även om du inte kan ta emot gåvan."
+      },
+      {
+        "text": "That's so thoughtful of you! Unfortunately, I'm not allowed to accept gifts right now, but the gesture alone means so much. Thank you!",
+        "correct": true,
+        "feedback": "Graceful and warm — the fan still feels appreciated.",
+        "feedbackSv": "Värdigt och varmt — fanet känner sig ändå uppskattat."
+      },
+      {
+        "text": "Just hide it in my bag when no one's looking!",
+        "correct": false,
+        "feedback": "Funny, but not a good look if security catches you!",
+        "feedbackSv": "Roligt, men dålig idé om säkerheten ser dig!"
+      }
+    ],
+    "section": "fan-talk"
+  },
+  {
+    "id": "fan_choice_9",
+    "type": "choice",
+    "prompt": "A fan asks you to say something in their language (you don't speak it). What do you do?",
+    "promptSv": "Ett fan ber dig säga något på deras språk (som du inte kan). Vad gör du?",
+    "options": [
+      {
+        "text": "I don't know any words in your language, sorry.",
+        "correct": false,
+        "feedback": "Honest, but a missed opportunity to connect!",
+        "feedbackSv": "Ärligt, men du missar chansen att skapa kontakt!"
+      },
+      {
+        "text": "Oh, I don't speak it, but teach me something! How do you say 'thank you'?",
+        "correct": true,
+        "feedback": "Shows genuine curiosity and creates a fun interaction.",
+        "feedbackSv": "Visar nyfikenhet och blir en rolig interaktion."
+      },
+      {
+        "text": "Ignore the question and change the subject.",
+        "correct": false,
+        "feedback": "Ignoring fans is never a good look.",
+        "feedbackSv": "Att ignorera fans ser aldrig bra ut."
+      }
+    ],
+    "section": "fan-talk"
+  },
+  {
+    "id": "fan_choice_10",
+    "type": "choice",
+    "prompt": "A group of fans starts chanting your name in public and people are staring. How do you react?",
+    "promptSv": "En grupp fans börjar skanda ditt namn offentligt och folk stirrar. Hur reagerar du?",
+    "options": [
+      {
+        "text": "Shh, stop, people are looking!",
+        "correct": false,
+        "feedback": "You'll embarrass the fans. Let them have their moment.",
+        "feedbackSv": "Du skämmer ut fansen. Låt dem få sin stund."
+      },
+      {
+        "text": "Wave, smile, and join in for a second — then blow them a kiss and say 'You guys are amazing!'",
+        "correct": true,
+        "feedback": "Fun, confident, and makes everyone feel great — including the bystanders!",
+        "feedbackSv": "Roligt, tryggt och får alla att må bra — även åskådarna!"
+      },
+      {
+        "text": "Walk away quickly and pretend you don't notice.",
+        "correct": false,
+        "feedback": "Ignoring fans who are supporting you would feel hurtful to them.",
+        "feedbackSv": "Att ignorera fans som hejar på dig kan såra dem."
+      }
+    ],
+    "section": "fan-talk"
+  },
+  {
+    "id": "fan_fun_1",
+    "type": "fun",
+    "prompt": "Complete the sentence about meeting fans at Eurovision:",
+    "templates": [
+      "The best part of Eurovision is meeting fans from ___.",
+      "When a fan asked for my autograph, I felt ___.",
+      "I always tell my fans to never stop ___."
+    ],
+    "section": "fan-talk",
+    "promptSv": "Komplettera meningen om att träffa fans på Eurovision:",
+    "templatesSv": [
+      "Det bästa med Eurovision är att träffa fans från ___.",
+      "När ett fan bad om autograf kände jag mig ___.",
+      "Jag säger alltid till mina fans att de aldrig ska sluta ___."
+    ]
+  },
+  {
+    "id": "fan_fun_2",
+    "type": "fun",
+    "prompt": "Fill in the blanks to create your fan interaction moment:",
+    "templates": [
+      "A fan from ___ told me that my song made them feel ___.",
+      "I took a selfie with a fan who was wearing ___.",
+      "The funniest thing a fan ever said to me was ___."
+    ],
+    "section": "fan-talk",
+    "promptSv": "Fyll i luckorna för att skapa ditt fan-ögonblick:",
+    "templatesSv": [
+      "Ett fan från ___ berättade att min låt fick dem att känna sig ___.",
+      "Jag tog en selfie med ett fan som hade på sig ___.",
+      "Det roligaste ett fan någonsin sagt till mig var ___."
+    ]
+  },
+  {
+    "id": "fan_fun_3",
+    "type": "fun",
+    "prompt": "Create your own fan thank-you message:",
+    "templates": [
+      "Dear fans, without your ___, I would never have ___.",
+      "To everyone who voted: you are ___ and I will always ___.",
+      "Tonight was ___ because of all of ___."
+    ],
+    "section": "fan-talk",
+    "promptSv": "Skriv ditt eget tack till fansen:",
+    "templatesSv": [
+      "Kära fans, utan er ___ hade jag aldrig kunnat ___.",
+      "Till alla som röstade: ni är ___ och jag kommer alltid att ___.",
+      "I kväll var ___ tack vare alla ___."
+    ]
+  },
+  {
+    "id": "fan_fun_4",
+    "type": "fun",
+    "prompt": "Imagine a funny fan encounter at Eurovision:",
+    "templates": [
+      "A fan recognized me at ___ and accidentally ___.",
+      "Someone asked me to sign their ___, which was definitely a first!",
+      "I tried to take a selfie with a fan but ___ happened instead."
+    ],
+    "section": "fan-talk",
+    "promptSv": "Tänk dig ett roligt fan-möte på Eurovision:",
+    "templatesSv": [
+      "Ett fan kände igen mig vid ___ och råkade ___.",
+      "Någon bad mig signera sin ___, vilket verkligen var en första gång!",
+      "Jag försökte ta en selfie med ett fan men ___ hände i stället."
+    ]
+  },
+  {
+    "id": "fan_fun_5",
+    "type": "fun",
+    "prompt": "Describe your dream Eurovision fan moment:",
+    "templates": [
+      "If I could meet any fan in the world, I'd want them to be from ___ because ___.",
+      "My dream fan moment would be ___ on stage while the crowd ___.",
+      "The perfect Eurovision night ends with fans ___ and me feeling ___."
+    ],
+    "section": "fan-talk",
+    "promptSv": "Beskriv din dröm Eurovision-fan-stund:",
+    "templatesSv": [
+      "Om jag fick träffa ett fan var som helst i världen skulle jag vilja att de kom från ___ eftersom ___.",
+      "Min dröm-stund skulle vara ___ på scen medan publiken ___.",
+      "Den perfekta Eurovision-kvällen slutar med att fans ___ och jag känner ___."
+    ]
+  },
+  {
+    "id": "fan_fun_6",
+    "type": "fun",
+    "prompt": "Over-the-top Swedish pride (keep it playful, not mean!)",
+    "templates": [
+      "Sweden's basically going to ___ — I don't make the rules.",
+      "The trophy might as well stay in ___ until we're done.",
+      "I'm not saying we're going to win, but ___."
+    ],
+    "section": "fan-talk",
+    "promptSv": "Överdriven svensk stolthet (lekfullt, inte elakt!)",
+    "templatesSv": [
+      "Sverige kommer i princip att ___ — jag bestämmer inte reglerna.",
+      "Pokalen kan lika gärna stanna i ___ tills vi är klara.",
+      "Jag säger inte att vi vinner, men ___."
+    ]
+  }
+]

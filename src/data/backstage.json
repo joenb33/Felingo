@@ -1,0 +1,989 @@
+[
+  {
+    "id": "back_phrase_1",
+    "type": "phrase",
+    "en": "Can we do a sound check?",
+    "sv": "Kan vi göra ett soundcheck?",
+    "section": "backstage",
+    "tags": [
+      "sound",
+      "rehearsal"
+    ]
+  },
+  {
+    "id": "back_phrase_2",
+    "type": "phrase",
+    "en": "The monitors are too loud.",
+    "sv": "Monitorerna är för höga.",
+    "section": "backstage",
+    "tags": [
+      "sound",
+      "monitors"
+    ]
+  },
+  {
+    "id": "back_phrase_3",
+    "type": "phrase",
+    "en": "I need more vocals in my in-ear.",
+    "sv": "Jag behöver mer sång i min in-ear.",
+    "section": "backstage",
+    "tags": [
+      "sound",
+      "in-ear"
+    ]
+  },
+  {
+    "id": "back_phrase_4",
+    "type": "phrase",
+    "en": "Can you turn down the reverb?",
+    "sv": "Kan du sänka reverben?",
+    "section": "backstage",
+    "tags": [
+      "sound",
+      "effects"
+    ]
+  },
+  {
+    "id": "back_phrase_5",
+    "type": "phrase",
+    "en": "When is the full dress rehearsal?",
+    "sv": "När är generalrepetitionen / full dress rehearsal?",
+    "section": "backstage",
+    "tags": [
+      "schedule",
+      "rehearsal"
+    ]
+  },
+  {
+    "id": "back_phrase_6",
+    "type": "phrase",
+    "en": "Where is the green room?",
+    "sv": "Var är green room?",
+    "section": "backstage",
+    "tags": [
+      "green room",
+      "directions"
+    ]
+  },
+  {
+    "id": "back_phrase_7",
+    "type": "phrase",
+    "en": "I have a costume change after the second verse.",
+    "sv": "Jag har ett kostymebyte efter andra versen.",
+    "section": "backstage",
+    "tags": [
+      "costume",
+      "stage directions"
+    ]
+  },
+  {
+    "id": "back_phrase_8",
+    "type": "phrase",
+    "en": "The spotlight needs to follow me downstage.",
+    "sv": "Strålkastaren måste följa mig längre fram på scenen.",
+    "section": "backstage",
+    "tags": [
+      "lighting",
+      "stage directions"
+    ]
+  },
+  {
+    "id": "back_phrase_9",
+    "type": "phrase",
+    "en": "Can we adjust the fog machine timing?",
+    "sv": "Kan vi justera timingen på rökmaskinerna?",
+    "section": "backstage",
+    "tags": [
+      "effects",
+      "stage directions"
+    ]
+  },
+  {
+    "id": "back_phrase_10",
+    "type": "phrase",
+    "en": "I enter from stage left.",
+    "sv": "Jag kommer in från vänster sida av scenen.",
+    "section": "backstage",
+    "tags": [
+      "stage directions"
+    ]
+  },
+  {
+    "id": "back_phrase_11",
+    "type": "phrase",
+    "en": "What time is our camera rehearsal?",
+    "sv": "Vilken tid är vår kamerarepetition?",
+    "section": "backstage",
+    "tags": [
+      "schedule",
+      "rehearsal"
+    ]
+  },
+  {
+    "id": "back_phrase_12",
+    "type": "phrase",
+    "en": "My microphone pack is uncomfortable.",
+    "sv": "Mitt mikrofonpaket sitter obekvämt.",
+    "section": "backstage",
+    "tags": [
+      "sound",
+      "costume"
+    ]
+  },
+  {
+    "id": "back_phrase_13",
+    "type": "phrase",
+    "en": "The backing track is in the wrong key.",
+    "sv": "Bakgrundsspåret är i fel tonart.",
+    "section": "backstage",
+    "tags": [
+      "sound",
+      "rehearsal"
+    ]
+  },
+  {
+    "id": "back_phrase_14",
+    "type": "phrase",
+    "en": "I need touch-up makeup before the show.",
+    "sv": "Jag behöver fixas till med sminket innan showen.",
+    "section": "backstage",
+    "tags": [
+      "makeup"
+    ]
+  },
+  {
+    "id": "back_phrase_15",
+    "type": "phrase",
+    "en": "Where do I stand for my mark?",
+    "sv": "Var ska jag stå på min markering?",
+    "section": "backstage",
+    "tags": [
+      "stage directions"
+    ]
+  },
+  {
+    "id": "back_phrase_16",
+    "type": "phrase",
+    "en": "The LED screen behind me is showing the wrong visuals.",
+    "sv": "LED-skärmen bakom mig visar fel grafik.",
+    "section": "backstage",
+    "tags": [
+      "lighting",
+      "technical"
+    ]
+  },
+  {
+    "id": "back_phrase_17",
+    "type": "phrase",
+    "en": "Can we run the intro one more time?",
+    "sv": "Kan vi köra introt en gång till?",
+    "section": "backstage",
+    "tags": [
+      "rehearsal"
+    ]
+  },
+  {
+    "id": "back_phrase_18",
+    "type": "phrase",
+    "en": "My costume zipper is stuck.",
+    "sv": "Dragkedjan på min kostym har fastnat.",
+    "section": "backstage",
+    "tags": [
+      "costume"
+    ]
+  },
+  {
+    "id": "back_phrase_19",
+    "type": "phrase",
+    "en": "Who is the floor manager today?",
+    "sv": "Vem är scenansvarig idag?",
+    "section": "backstage",
+    "tags": [
+      "crew"
+    ]
+  },
+  {
+    "id": "back_phrase_20",
+    "type": "phrase",
+    "en": "We need a longer transition between numbers.",
+    "sv": "Vi behöver en längre övergång mellan numren.",
+    "section": "backstage",
+    "tags": [
+      "schedule",
+      "stage directions"
+    ]
+  },
+  {
+    "id": "back_phrase_21",
+    "type": "phrase",
+    "en": "Can I get a bottle of water on stage?",
+    "sv": "Kan jag få en flaska vatten på scenen?",
+    "section": "backstage",
+    "tags": [
+      "green room",
+      "stage directions"
+    ]
+  },
+  {
+    "id": "back_phrase_22",
+    "type": "phrase",
+    "en": "The pyrotechnics cue was late.",
+    "sv": "Pyroteknik-cuen kom för sent.",
+    "section": "backstage",
+    "tags": [
+      "effects",
+      "technical"
+    ]
+  },
+  {
+    "id": "back_phrase_23",
+    "type": "phrase",
+    "en": "I need to warm up my voice. Is there a quiet room?",
+    "sv": "Jag behöver värma upp rösten. Finns det ett tyst rum?",
+    "section": "backstage",
+    "tags": [
+      "green room",
+      "rehearsal"
+    ]
+  },
+  {
+    "id": "back_phrase_24",
+    "type": "phrase",
+    "en": "Please check the wireless frequency for my mic.",
+    "sv": "Kan du kolla den trådlösa frekvensen för min mikrofon?",
+    "section": "backstage",
+    "tags": [
+      "sound",
+      "technical"
+    ]
+  },
+  {
+    "id": "back_phrase_25",
+    "type": "phrase",
+    "en": "We go live in ten minutes.",
+    "sv": "Vi sänder om tio minuter.",
+    "section": "backstage",
+    "tags": [
+      "schedule"
+    ]
+  },
+  {
+    "id": "back_phrase_26",
+    "type": "phrase",
+    "en": "The stage is slippery — can someone check it?",
+    "sv": "Scenen är hal — kan någon kolla på det?",
+    "section": "backstage",
+    "tags": [
+      "stage directions",
+      "safety"
+    ]
+  },
+  {
+    "id": "back_phrase_27",
+    "type": "phrase",
+    "en": "My dancer's mic is feeding back.",
+    "sv": "Min dansares mikrofon ger rundgång.",
+    "section": "backstage",
+    "tags": [
+      "sound",
+      "technical"
+    ]
+  },
+  {
+    "id": "back_phrase_28",
+    "type": "phrase",
+    "en": "Can we lower the house lights during the quieter section?",
+    "sv": "Kan vi sänka salens ljus under den lugnare delen?",
+    "section": "backstage",
+    "tags": [
+      "lighting"
+    ]
+  },
+  {
+    "id": "back_phrase_29",
+    "type": "phrase",
+    "en": "Could we run that cue once more from the top?",
+    "sv": "Kan vi köra den cuelinjen en gång till från början?",
+    "section": "backstage",
+    "tags": [
+      "rehearsal",
+      "cue"
+    ]
+  },
+  {
+    "id": "back_phrase_30",
+    "type": "phrase",
+    "en": "I'm getting a bit of feedback — can you notch out the problem frequency?",
+    "sv": "Jag får lite rundgång — kan du filtrera bort den jobbiga frekvensen?",
+    "section": "backstage",
+    "tags": [
+      "sound",
+      "technical"
+    ]
+  },
+  {
+    "id": "back_phrase_31",
+    "type": "phrase",
+    "en": "Where does the delegation bus leave from?",
+    "sv": "Var går delegationsbussen ifrån?",
+    "section": "backstage",
+    "tags": [
+      "logistics",
+      "travel"
+    ]
+  },
+  {
+    "id": "back_phrase_32",
+    "type": "phrase",
+    "en": "I need five minutes of quiet before we go live — is there a side room?",
+    "sv": "Jag behöver fem minuter tystnad innan vi går live — finns det ett sidorum?",
+    "section": "backstage",
+    "tags": [
+      "green room",
+      "focus"
+    ]
+  },
+  {
+    "id": "back_phrase_33",
+    "type": "phrase",
+    "en": "Can someone double-check the battery on my pack?",
+    "sv": "Kan någon dubbelkolla batteriet i mitt pack?",
+    "section": "backstage",
+    "tags": [
+      "sound",
+      "technical"
+    ]
+  },
+  {
+    "id": "back_phrase_34",
+    "type": "phrase",
+    "en": "What's the exact call time for the delegation photo?",
+    "sv": "Vilken är exakt tid för delegationsbilden?",
+    "section": "backstage",
+    "tags": [
+      "schedule",
+      "press"
+    ]
+  },
+  {
+    "id": "back_dialogue_1",
+    "type": "dialogue",
+    "scenario": "Talking to the stage manager about your entrance cue",
+    "scenarioSv": "Prata med scenansvarig om din entré-cue",
+    "lines": [
+      {
+        "speaker": "other",
+        "text": "You'll get your cue when the LED wall turns blue.",
+        "textSv": "Du får din cue när LED-väggen blir blå."
+      },
+      {
+        "speaker": "you",
+        "text": "Got it. And I walk to centre stage?",
+        "textSv": "Uppfattat. Och jag går till mitten av scenen?"
+      },
+      {
+        "speaker": "other",
+        "text": "Yes. Hit your mark on the X and wait for the music.",
+        "textSv": "Ja. Ställ dig på din mark på X och vänta på musiken."
+      },
+      {
+        "speaker": "you",
+        "text": "What if I miss the cue?",
+        "textSv": "Vad om jag missar cueen?"
+      },
+      {
+        "speaker": "other",
+        "text": "I'll give you a countdown in your earpiece. Just listen for my voice.",
+        "textSv": "Jag ger dig en nedräkning i öronen. Lyssna bara efter min röst."
+      },
+      {
+        "speaker": "you",
+        "text": "Thank you, that helps a lot.",
+        "textSv": "Tack, det hjälper mycket."
+      }
+    ],
+    "section": "backstage"
+  },
+  {
+    "id": "back_dialogue_2",
+    "type": "dialogue",
+    "scenario": "Asking the sound engineer to adjust your in-ear mix",
+    "scenarioSv": "Be ljudteknikern justera din in-ear-mix",
+    "lines": [
+      {
+        "speaker": "you",
+        "text": "Hi, can we adjust my in-ear mix?",
+        "textSv": "Hej, kan vi justera min in-ear-mix?"
+      },
+      {
+        "speaker": "other",
+        "text": "Sure. What do you need?",
+        "textSv": "Klart. Vad behöver du?"
+      },
+      {
+        "speaker": "you",
+        "text": "More of my own vocals and less backing track, please.",
+        "textSv": "Mer av min egen röst och mindre playback, snälla."
+      },
+      {
+        "speaker": "other",
+        "text": "Let me push your vocal channel up. How about the click track?",
+        "textSv": "Jag drar upp din vokal. Hur vill du ha klicket?"
+      },
+      {
+        "speaker": "you",
+        "text": "Keep the click, but a little softer.",
+        "textSv": "Behåll klicket, men lite lägre."
+      },
+      {
+        "speaker": "other",
+        "text": "Done. Let's test it during the next run-through.",
+        "textSv": "Klart. Vi testar vid nästa genomspel."
+      }
+    ],
+    "section": "backstage"
+  },
+  {
+    "id": "back_dialogue_3",
+    "type": "dialogue",
+    "scenario": "Discussing a quick costume change with the wardrobe team",
+    "scenarioSv": "Diskutera ett snabbt kostymebyte med klädteamet",
+    "lines": [
+      {
+        "speaker": "other",
+        "text": "Your quick change is after the second chorus. You have 20 seconds.",
+        "textSv": "Din snabba ombytning är efter andra refrängen. Du har 20 sekunder."
+      },
+      {
+        "speaker": "you",
+        "text": "That's very tight. Can we use Velcro instead of buttons?",
+        "textSv": "Det är väldigt tight. Kan vi använda kardborre i stället för knappar?"
+      },
+      {
+        "speaker": "other",
+        "text": "We already switched to snaps. Two helpers will be waiting stage right.",
+        "textSv": "Vi har redan bytt till tryckknappar. Två hjälpare står stage right."
+      },
+      {
+        "speaker": "you",
+        "text": "Will there be a screen so the camera doesn't see me?",
+        "textSv": "Finns det en skärm så kameran inte ser mig?"
+      },
+      {
+        "speaker": "other",
+        "text": "Yes, we have a privacy curtain set up.",
+        "textSv": "Ja, vi har en integritetsskärm uppsatt."
+      },
+      {
+        "speaker": "you",
+        "text": "Perfect. Let's practice it once more before the show.",
+        "textSv": "Perfekt. Öva en gång till innan show."
+      }
+    ],
+    "section": "backstage"
+  },
+  {
+    "id": "back_dialogue_4",
+    "type": "dialogue",
+    "scenario": "Working with the translator before a press conference",
+    "scenarioSv": "Jobba med tolken innan en presskonferens",
+    "lines": [
+      {
+        "speaker": "you",
+        "text": "I'm nervous about the press conference. Can you help me with some phrases?",
+        "textSv": "Jag är nervös inför presskonferensen. Kan du hjälpa mig med några fraser?"
+      },
+      {
+        "speaker": "other",
+        "text": "Of course. What topics do you expect?",
+        "textSv": "Självklart. Vilka ämnen förväntar du dig?"
+      },
+      {
+        "speaker": "you",
+        "text": "They'll probably ask about the song's meaning and my stage concept.",
+        "textSv": "De kommer sannolikt fråga om låtens betydelse och min scenidé."
+      },
+      {
+        "speaker": "other",
+        "text": "I'll sit next to you. If you get stuck, just look at me and I'll help translate.",
+        "textSv": "Jag sitter bredvid dig. Om du fastnar, titta på mig så hjälper jag översätta."
+      },
+      {
+        "speaker": "you",
+        "text": "Can I answer partly in Swedish if it's too difficult?",
+        "textSv": "Kan jag svara delvis på svenska om det är för svårt?"
+      },
+      {
+        "speaker": "other",
+        "text": "Absolutely. I'll translate the Swedish parts for the room.",
+        "textSv": "Absolut. Jag översätter svenska delen för alla i rummet."
+      }
+    ],
+    "section": "backstage"
+  },
+  {
+    "id": "back_dialogue_5",
+    "type": "dialogue",
+    "scenario": "Coordinating with the lighting director",
+    "scenarioSv": "Koordinera med ljussättaren",
+    "lines": [
+      {
+        "speaker": "other",
+        "text": "We have you in a warm amber for the first verse. Then a colour wash for the chorus.",
+        "textSv": "Vi har varmt bärnstensljus för första versen. Sedan en färgwash för refrängen."
+      },
+      {
+        "speaker": "you",
+        "text": "Can the spotlight be less intense? It was blinding during rehearsal.",
+        "textSv": "Kan spotlighten vara mindre intensiv? Den bländade vid repetitionen."
+      },
+      {
+        "speaker": "other",
+        "text": "I'll lower it by 20 percent. Also, during the bridge, we go to blackout for two beats.",
+        "textSv": "Jag sänker den 20 procent. Under bridge har vi blackout två takter."
+      },
+      {
+        "speaker": "you",
+        "text": "Will I be able to see my mark in the dark?",
+        "textSv": "Ser jag min mark i mörkret?"
+      },
+      {
+        "speaker": "other",
+        "text": "We'll put glow tape on the floor for you.",
+        "textSv": "Vi lägger självlysande tejp på golvet till dig."
+      },
+      {
+        "speaker": "you",
+        "text": "Great, that sounds good.",
+        "textSv": "Toppen, det låter bra."
+      }
+    ],
+    "section": "backstage"
+  },
+  {
+    "id": "back_dialogue_6",
+    "type": "dialogue",
+    "scenario": "Checking the schedule with the delegation coordinator",
+    "scenarioSv": "Kolla schemat med delegationskoordinatorn",
+    "lines": [
+      {
+        "speaker": "you",
+        "text": "What does my schedule look like tomorrow?",
+        "textSv": "Hur ser mitt schema ut imorgon?"
+      },
+      {
+        "speaker": "other",
+        "text": "You have a camera rehearsal at 10, press meet-and-greet at 13, and a full dress rehearsal at 17.",
+        "textSv": "Du har kamera-rep kl 10, press meet-and-greet kl 13 och full genomklädsel kl 17."
+      },
+      {
+        "speaker": "you",
+        "text": "When is makeup and wardrobe?",
+        "textSv": "När är smink och kläder?"
+      },
+      {
+        "speaker": "other",
+        "text": "Hair and makeup at 8:30 in the green room. Wardrobe right after.",
+        "textSv": "Hår och smink kl 8:30 i green room. Kläder direkt efter."
+      },
+      {
+        "speaker": "you",
+        "text": "Is there time for vocal warm-up?",
+        "textSv": "Finns tid för röstuppvärmning?"
+      },
+      {
+        "speaker": "other",
+        "text": "Yes, we've reserved a room from 9:15 to 9:45.",
+        "textSv": "Ja, vi har bokat ett rum 9:15–9:45."
+      }
+    ],
+    "section": "backstage"
+  },
+  {
+    "id": "back_dialogue_7",
+    "type": "dialogue",
+    "scenario": "Reporting a technical problem to a crew member",
+    "scenarioSv": "Rapportera ett tekniskt problem till en i teamet",
+    "lines": [
+      {
+        "speaker": "you",
+        "text": "Excuse me, my in-ear keeps cutting out on the left side.",
+        "textSv": "Ursäkta, min in-ear tappar bort på vänster sida."
+      },
+      {
+        "speaker": "other",
+        "text": "Is it dropping completely or just crackling?",
+        "textSv": "Försvinner den helt eller bara sprakar?"
+      },
+      {
+        "speaker": "you",
+        "text": "It drops out for a second, then comes back.",
+        "textSv": "Den tappar en sekund, sedan kommer den tillbaka."
+      },
+      {
+        "speaker": "other",
+        "text": "Could be an interference issue. Let me switch you to a backup frequency.",
+        "textSv": "Kan vara störningar. Jag byter dig till en reservfrekvens."
+      },
+      {
+        "speaker": "you",
+        "text": "Should I keep the same earpiece or get a new one?",
+        "textSv": "Ska jag behålla samma öron eller få nya?"
+      },
+      {
+        "speaker": "other",
+        "text": "Keep the earpiece, I'll just change the transmitter. Give me five minutes.",
+        "textSv": "Behåll öronen — jag byter bara sändaren. Ge mig fem minuter."
+      }
+    ],
+    "section": "backstage"
+  },
+  {
+    "id": "back_dialogue_8",
+    "type": "dialogue",
+    "scenario": "Meeting a crew member in the green room before the show",
+    "scenarioSv": "Träffa en i teamet i green room innan showen",
+    "lines": [
+      {
+        "speaker": "other",
+        "text": "How are you feeling? Ready for tonight?",
+        "textSv": "Hur känns det? Redo för i kväll?"
+      },
+      {
+        "speaker": "you",
+        "text": "A bit nervous, but excited. Is everything on track?",
+        "textSv": "Lite nervös, men förväntansfull. Är allt på track?"
+      },
+      {
+        "speaker": "other",
+        "text": "Everything looks good. We fixed that lighting cue from yesterday.",
+        "textSv": "Allt ser bra ut. Vi fixade ljuspunkten från igår."
+      },
+      {
+        "speaker": "you",
+        "text": "And the confetti cannons?",
+        "textSv": "Och konfettikanonerna?"
+      },
+      {
+        "speaker": "other",
+        "text": "Loaded and timed to the final note. You'll hear a countdown on comms.",
+        "textSv": "Laddade och timade till sista tonen. Du får nedräkning på kom."
+      },
+      {
+        "speaker": "you",
+        "text": "Amazing. Let's do this!",
+        "textSv": "Makalöst. Kör vi!"
+      }
+    ],
+    "section": "backstage"
+  },
+  {
+    "id": "back_choice_1",
+    "type": "choice",
+    "prompt": "Your microphone suddenly stops working during rehearsal. What do you say to the sound engineer?",
+    "promptSv": "Din mikrofon slutar plötsligt fungera under repetitionen. Vad säger du till ljudteknikern?",
+    "options": [
+      {
+        "text": "My mic just cut out — can you check the signal?",
+        "correct": true,
+        "feedback": "Clear and specific. This helps the engineer diagnose the problem fast.",
+        "feedbackSv": "Tydligt och konkret. Det hjälper teknikern att hitta felet snabbt."
+      },
+      {
+        "text": "The music sounds weird.",
+        "correct": false,
+        "feedback": "Too vague. Be specific about what went wrong — was it the mic, the mix, or something else?",
+        "feedbackSv": "För vagt. Var specifik — var det micken, mixen eller något annat?"
+      },
+      {
+        "text": "Fix it now!",
+        "correct": false,
+        "feedback": "Too aggressive. Always stay polite with the crew — they're here to help you.",
+        "feedbackSv": "För aggressivt. Var alltid artig mot crew — de finns där för att hjälpa dig."
+      }
+    ],
+    "section": "backstage"
+  },
+  {
+    "id": "back_choice_2",
+    "type": "choice",
+    "prompt": "The stage manager tells you to stand on your mark. What does 'mark' mean?",
+    "promptSv": "Scenansvarig säger att du ska stå på din mark. Vad betyder 'mark'?",
+    "options": [
+      {
+        "text": "A specific spot on stage marked with tape where I should stand.",
+        "correct": true,
+        "feedback": "Exactly! Marks are usually taped positions (often an X) on the stage floor.",
+        "feedbackSv": "Precis! Markeringar är ofta tejp (ofta ett X) på scengolvet."
+      },
+      {
+        "text": "A grade or score for my performance.",
+        "correct": false,
+        "feedback": "In school, yes. But in stage production, 'mark' means a marked position on the floor.",
+        "feedbackSv": "I skolan, ja. Men på scen betyder 'mark' en markerad plats på golvet."
+      },
+      {
+        "text": "The edge of the stage.",
+        "correct": false,
+        "feedback": "The edge of the stage is usually called the 'lip' or 'downstage edge'.",
+        "feedbackSv": "Kanten av scenen kallas ofta 'lip' eller 'downstage edge'."
+      }
+    ],
+    "section": "backstage"
+  },
+  {
+    "id": "back_choice_3",
+    "type": "choice",
+    "prompt": "You want more of your own voice in your in-ear monitors. How do you ask?",
+    "promptSv": "Du vill höra mer av din egen röst i in-ear-monitorerna. Hur ber du om det?",
+    "options": [
+      {
+        "text": "Can you turn up my vocal channel in the in-ear mix?",
+        "correct": true,
+        "feedback": "Perfect! 'Vocal channel' and 'in-ear mix' are the right technical terms.",
+        "feedbackSv": "Perfekt! 'Vocal channel' och 'in-ear mix' är rätt facktermer."
+      },
+      {
+        "text": "Make everything louder.",
+        "correct": false,
+        "feedback": "This would raise ALL channels, not just your voice. Be specific about what you need changed.",
+        "feedbackSv": "Det höjer ALLA kanaler, inte bara din röst. Säg vad du vill ändra."
+      },
+      {
+        "text": "I can't hear anything.",
+        "correct": false,
+        "feedback": "This suggests a total failure, not a mix adjustment. Describe exactly what's missing.",
+        "feedbackSv": "Det låter som total blackout, inte en mixjustering. Beskriv vad som saknas."
+      }
+    ],
+    "section": "backstage"
+  },
+  {
+    "id": "back_choice_4",
+    "type": "choice",
+    "prompt": "Someone says 'We're going to do a full run-through.' What does that mean?",
+    "promptSv": "Någon säger 'We're going to do a full run-through.' Vad betyder det?",
+    "options": [
+      {
+        "text": "We'll perform the entire act from start to finish without stopping.",
+        "correct": true,
+        "feedback": "Correct! A run-through is a complete practice performance.",
+        "feedbackSv": "Rätt! En run-through är ett genomspel från start till mål."
+      },
+      {
+        "text": "We'll run around the stage for exercise.",
+        "correct": false,
+        "feedback": "No — a 'run-through' is a performance term, not a physical activity.",
+        "feedbackSv": "Nej — 'run-through' är en spelterm, inte fysisk träning."
+      },
+      {
+        "text": "We'll quickly review the setlist.",
+        "correct": false,
+        "feedback": "That would be a briefing. A run-through means actually performing the whole thing.",
+        "feedbackSv": "Det vore en genomgång av listan. Run-through är att köra hela numret."
+      }
+    ],
+    "section": "backstage"
+  },
+  {
+    "id": "back_choice_5",
+    "type": "choice",
+    "prompt": "The crew tells you: 'Stand by, you're on in 30 seconds.' What should you do?",
+    "promptSv": "Teamet säger: 'Stand by, you're on in 30 seconds.' Vad bör du göra?",
+    "options": [
+      {
+        "text": "Get ready at the entrance point and wait for my cue.",
+        "correct": true,
+        "feedback": "'Stand by' means be prepared and ready. You should be in position and focused.",
+        "feedbackSv": "'Stand by' betyder var beredd och fokuserad — i position och redo."
+      },
+      {
+        "text": "Start walking onto the stage immediately.",
+        "correct": false,
+        "feedback": "'Stand by' means wait and be ready — don't go yet! Wait for the actual 'go' cue.",
+        "feedbackSv": "'Stand by' betyder vänta — gå inte än! Invänta riktiga 'go'."
+      },
+      {
+        "text": "Sit down and relax for 30 seconds.",
+        "correct": false,
+        "feedback": "30 seconds is not time to relax — you need to be alert and in position.",
+        "feedbackSv": "30 sekunder är inte tid att slappna av — du ska vara alert och på plats."
+      }
+    ],
+    "section": "backstage"
+  },
+  {
+    "id": "back_choice_6",
+    "type": "choice",
+    "prompt": "You notice the stage floor is wet and slippery before your performance. What do you say?",
+    "promptSv": "Du märker att scengolvet är vått och halt innan ditt framträdande. Vad säger du?",
+    "options": [
+      {
+        "text": "The stage floor is slippery — can someone mop it or check the surface before I go on?",
+        "correct": true,
+        "feedback": "Safety first! This is clear and gives the crew a specific action to take.",
+        "feedbackSv": "Säkerhet först! Tydligt och ger crew en konkret åtgärd."
+      },
+      {
+        "text": "I'll just be careful when I walk.",
+        "correct": false,
+        "feedback": "Don't risk injury. Always report safety hazards to the crew.",
+        "feedbackSv": "Riskera inte skada. Rapportera alltid risker till teamet."
+      },
+      {
+        "text": "It's fine, I'll wear different shoes.",
+        "correct": false,
+        "feedback": "Changing shoes last-minute may not solve the problem. Report it so the crew can fix the stage.",
+        "feedbackSv": "Att byta skor i sista sekund löser inte allt. Rapportera så de kan åtgärda."
+      }
+    ],
+    "section": "backstage"
+  },
+  {
+    "id": "back_choice_7",
+    "type": "choice",
+    "prompt": "A crew member says 'Check one-two' into your mic. Why?",
+    "promptSv": "En i teamet säger 'Check one-two' i din mikrofon. Varför?",
+    "options": [
+      {
+        "text": "They're testing the microphone level and checking the sound signal.",
+        "correct": true,
+        "feedback": "Exactly! 'Check one-two' is the standard phrase used to test mic levels.",
+        "feedbackSv": "Precis! 'Check one-two' är standardfras för att testa mikrofonnivån."
+      },
+      {
+        "text": "They're counting how many microphones are available.",
+        "correct": false,
+        "feedback": "It's not an inventory count — it's a sound level test.",
+        "feedbackSv": "Det är inte inventering — det är en ljudtest."
+      },
+      {
+        "text": "They're calling for two people to come to the stage.",
+        "correct": false,
+        "feedback": "No — 'check one-two' is a standard sound check phrase.",
+        "feedbackSv": "Nej — 'check one-two' är en vanlig soundcheck-fras."
+      }
+    ],
+    "section": "backstage"
+  },
+  {
+    "id": "back_choice_8",
+    "type": "choice",
+    "prompt": "You're told: 'Go to upstage right.' Where do you go?",
+    "promptSv": "Du får höra: 'Go to upstage right.' Vart går du?",
+    "options": [
+      {
+        "text": "Towards the back of the stage, on the right side (from the performer's perspective).",
+        "correct": true,
+        "feedback": "Correct! 'Upstage' means towards the back. Stage right is YOUR right when facing the audience.",
+        "feedbackSv": "Rätt! 'Upstage' är bakåt mot scen. Scenhöger är DIN höger mot publiken."
+      },
+      {
+        "text": "To the front of the stage, on the right.",
+        "correct": false,
+        "feedback": "The front is 'downstage'. 'Upstage' means the back of the stage.",
+        "feedbackSv": "Framåt är 'downstage'. 'Upstage' är bort från publiken."
+      },
+      {
+        "text": "Up to a higher platform on the stage.",
+        "correct": false,
+        "feedback": "'Upstage' doesn't mean physically higher — it means further from the audience.",
+        "feedbackSv": "'Upstage' betyder inte högre fysiskt — det är längre bort från publiken."
+      }
+    ],
+    "section": "backstage"
+  },
+  {
+    "id": "back_fun_1",
+    "type": "fun",
+    "prompt": "Create your dream Eurovision rider request",
+    "templates": [
+      "In my dressing room, I absolutely need ___.",
+      "My pre-show ritual always includes ___.",
+      "The green room must have ___ or I can't perform.",
+      "Before every show, my team knows to bring me ___."
+    ],
+    "section": "backstage",
+    "promptSv": "Skapa din dröm-Eurovision-rider:",
+    "templatesSv": [
+      "I mitt omklädningsrum måste jag absolut ha ___.",
+      "Min ritual före show innehåller alltid ___.",
+      "Green room måste ha ___ annars kan jag inte uppträda.",
+      "Före varje show vet mitt team att de ska ta med ___."
+    ]
+  },
+  {
+    "id": "back_fun_2",
+    "type": "fun",
+    "prompt": "Describe the wildest stage effect for your performance",
+    "templates": [
+      "During the final chorus, the stage should ___.",
+      "When I hit the high note, I want ___ to happen.",
+      "My backup dancers will ___ while I sing.",
+      "The audience will gasp when they see ___."
+    ],
+    "section": "backstage",
+    "promptSv": "Beskriv den vildaste scen-effekten för ditt nummer:",
+    "templatesSv": [
+      "Under sista refrängen ska scenen ___.",
+      "När jag tar höga tonen vill jag att ___ ska hända.",
+      "Mina bakgrundsdansare ska ___ medan jag sjunger.",
+      "Publiken kommer att häpna när de ser ___."
+    ]
+  },
+  {
+    "id": "back_fun_3",
+    "type": "fun",
+    "prompt": "Write a funny compliment for a crew member",
+    "templates": [
+      "Dear sound engineer, you make my voice sound like ___.",
+      "Our lighting director is so talented, the lights ___.",
+      "The costume team deserves an award because ___.",
+      "Without our stage manager, the show would ___."
+    ],
+    "section": "backstage",
+    "promptSv": "Skriv en rolig komplimang till någon i teamet:",
+    "templatesSv": [
+      "Kära ljudtekniker, du får min röst att låta som ___.",
+      "Vår ljusdesigner är så bra att ljusen ___.",
+      "Kostymteamet förtjänar ett pris för att ___.",
+      "Utan vår scenansvarige skulle showen ___."
+    ]
+  },
+  {
+    "id": "back_fun_4",
+    "type": "fun",
+    "prompt": "Invent a backstage superstition",
+    "templates": [
+      "Before every Eurovision show, you must always ___.",
+      "It's bad luck to ___ in the green room.",
+      "For good luck, every artist should ___ before going on stage.",
+      "Never ___ on the day of the final — everyone knows that."
+    ],
+    "section": "backstage",
+    "promptSv": "Uppfinn en backstage-övertro:",
+    "templatesSv": [
+      "Före varje Eurovision-show måste du alltid ___.",
+      "Det ger otur att ___ i green room.",
+      "För tur ska alla artister ___ innan de går på scen.",
+      "Aldrig ___ på finaldagen — alla vet det."
+    ]
+  },
+  {
+    "id": "back_fun_5",
+    "type": "fun",
+    "prompt": "Silly pep talk for the Swedish delegation (keep it light!)",
+    "templates": [
+      "Team, we're basically going to ___ — no pressure!",
+      "If we don't win, I'll still ___ — but we're totally winning.",
+      "Remember: hydrate, breathe, and ___ like we own the arena."
+    ],
+    "section": "backstage",
+    "promptSv": "Tokigt pep-talk till den svenska delegationen (lätt först!):",
+    "templatesSv": [
+      "Gang, vi kommer i princip att ___ — ingen press!",
+      "Om vi inte vinner är jag ändå ___ — men vi vinner ju.",
+      "Kom ihåg: drick vatten, andas och ___ som om vi ägde arenan."
+    ]
+  }
+]

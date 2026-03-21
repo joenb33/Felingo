@@ -1,0 +1,134 @@
+{
+  "fan_fun_1": {
+    "promptSv": "Komplettera meningen om att träffa fans på Eurovision:",
+    "templatesSv": [
+      "Det bästa med Eurovision är att träffa fans från ___.",
+      "När ett fan bad om autograf kände jag mig ___.",
+      "Jag säger alltid till mina fans att de aldrig ska sluta ___."
+    ]
+  },
+  "fan_fun_2": {
+    "promptSv": "Fyll i luckorna för att skapa ditt fan-ögonblick:",
+    "templatesSv": [
+      "Ett fan från ___ berättade att min låt fick dem att känna sig ___.",
+      "Jag tog en selfie med ett fan som hade på sig ___.",
+      "Det roligaste ett fan någonsin sagt till mig var ___."
+    ]
+  },
+  "fan_fun_3": {
+    "promptSv": "Skriv ditt eget tack till fansen:",
+    "templatesSv": [
+      "Kära fans, utan er ___ hade jag aldrig kunnat ___.",
+      "Till alla som röstade: ni är ___ och jag kommer alltid att ___.",
+      "I kväll var ___ tack vare alla ___."
+    ]
+  },
+  "fan_fun_4": {
+    "promptSv": "Tänk dig ett roligt fan-möte på Eurovision:",
+    "templatesSv": [
+      "Ett fan kände igen mig vid ___ och råkade ___.",
+      "Någon bad mig signera sin ___, vilket verkligen var en första gång!",
+      "Jag försökte ta en selfie med ett fan men ___ hände i stället."
+    ]
+  },
+  "fan_fun_5": {
+    "promptSv": "Beskriv din dröm Eurovision-fan-stund:",
+    "templatesSv": [
+      "Om jag fick träffa ett fan var som helst i världen skulle jag vilja att de kom från ___ eftersom ___.",
+      "Min dröm-stund skulle vara ___ på scen medan publiken ___.",
+      "Den perfekta Eurovision-kvällen slutar med att fans ___ och jag känner ___."
+    ]
+  },
+  "fan_fun_6": {
+    "promptSv": "Överdriven svensk stolthet (lekfullt, inte elakt!)",
+    "templatesSv": [
+      "Sverige kommer i princip att ___ — jag bestämmer inte reglerna.",
+      "Pokalen kan lika gärna stanna i ___ tills vi är klara.",
+      "Jag säger inte att vi vinner, men ___."
+    ]
+  },
+  "int_fun_1": {
+    "promptSv": "Du är på en Eurovision presskonferens. Ge ditt mest dramatiska svar på en enkel fråga.",
+    "templatesSv": [
+      "Reporter: \"Vad åt du till frukost?\" Du: \"___\"",
+      "Reporter: \"Hur är vädret?\" Du: \"___\"",
+      "Reporter: \"Sov du gott?\" Du: \"___\""
+    ]
+  },
+  "int_fun_2": {
+    "promptSv": "Pitcha din Eurovision-låt för pressen med bara tre engelska ord.",
+    "templatesSv": [
+      "Min låt är: ___, ___, ___.",
+      "Med tre ord: ___, ___, ___.",
+      "Om jag skulle sammanfatta: ___, ___, ___."
+    ]
+  },
+  "int_fun_3": {
+    "promptSv": "Beskriv ett annat lands framträdande med egna ord — stämning, scen, känsla.",
+    "templatesSv": [
+      "Scenen kändes verkligen ___.",
+      "Den hade den här ___ energin, nästan som ___.",
+      "Man kunde se att de lagt mycket jobb på ___."
+    ]
+  },
+  "int_fun_4": {
+    "promptSv": "Hitta på ett löjligt rykte om dig själv och svara som på en riktig presskonferens.",
+    "templatesSv": [
+      "Reporter: \"Stämmer det att du ___?\" Du: \"___\"",
+      "Reporter: \"Källor säger att du ___.\" Du: \"___\"",
+      "Reporter: \"Det finns foton på dig som ___.\" Du: \"___\""
+    ]
+  },
+  "int_fun_5": {
+    "promptSv": "Håll ett pep-talk till de andra Eurovision-artisterna i greenroom — på engelska!",
+    "templatesSv": [
+      "Mina damer och herrar, i kväll ___.",
+      "Oavsett vad som händer, kom ihåg att ___.",
+      "Vi kom från ___ olika länder, men vi delar alla ___."
+    ]
+  },
+  "back_fun_1": {
+    "promptSv": "Skapa din dröm-Eurovision-rider:",
+    "templatesSv": [
+      "I mitt omklädningsrum måste jag absolut ha ___.",
+      "Min ritual före show innehåller alltid ___.",
+      "Green room måste ha ___ annars kan jag inte uppträda.",
+      "Före varje show vet mitt team att de ska ta med ___."
+    ]
+  },
+  "back_fun_2": {
+    "promptSv": "Beskriv den vildaste scen-effekten för ditt nummer:",
+    "templatesSv": [
+      "Under sista refrängen ska scenen ___.",
+      "När jag tar höga tonen vill jag att ___ ska hända.",
+      "Mina bakgrundsdansare ska ___ medan jag sjunger.",
+      "Publiken kommer att häpna när de ser ___."
+    ]
+  },
+  "back_fun_3": {
+    "promptSv": "Skriv en rolig komplimang till någon i teamet:",
+    "templatesSv": [
+      "Kära ljudtekniker, du får min röst att låta som ___.",
+      "Vår ljusdesigner är så bra att ljusen ___.",
+      "Kostymteamet förtjänar ett pris för att ___.",
+      "Utan vår scenansvarige skulle showen ___."
+    ]
+  },
+  "back_fun_4": {
+    "promptSv": "Uppfinn en backstage-övertro:",
+    "templatesSv": [
+      "Före varje Eurovision-show måste du alltid ___.",
+      "Det ger otur att ___ i green room.",
+      "För tur ska alla artister ___ innan de går på scen.",
+      "Aldrig ___ på finaldagen — alla vet det."
+    ]
+  },
+  "back_fun_5": {
+    "promptSv": "Tokigt pep-talk till den svenska delegationen (lätt först!):",
+    "templatesSv": [
+      "Gang, vi kommer i princip att ___ — ingen press!",
+      "Om vi inte vinner är jag ändå ___ — men vi vinner ju.",
+      "Kom ihåg: drick vatten, andas och ___ som om vi ägde arenan."
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "int_choice_1",
+    "fb": [
+      "Too arrogant. Confidence is good, but this comes across as dismissive of others.",
+      "Perfect — humble, diplomatic, and still confident in your own work.",
+      "Too self-deprecating. You want to show confidence, not doubt."
+    ]
+  },
+  {
+    "id": "int_choice_2",
+    "fb": [
+      "Too blunt. Criticising the system publicly can create controversy.",
+      "Diplomatic and measured — acknowledges the question without causing drama.",
+      "Sounds dismissive and can come across as avoiding the question entirely."
+    ]
+  },
+  {
+    "id": "int_choice_3",
+    "fb": [
+      "Getting defensive can make you look guilty. Stay calm.",
+      "Great answer — charming, light, and confident without being defensive.",
+      "'No comment' makes it seem like you have something to hide."
+    ]
+  },
+  {
+    "id": "int_choice_4",
+    "fb": [
+      "Sounds overconfident and dismissive. A little vulnerability is relatable.",
+      "Honest and relatable — shows self-awareness and professionalism.",
+      "Too negative. This doesn't inspire confidence in your audience."
+    ]
+  },
+  {
+    "id": "int_choice_5",
+    "fb": [
+      "Confrontational and rude. This will not go down well internationally.",
+      "Elegant response — acknowledges the criticism and reframes it positively.",
+      "Don't undermine your own country's music. Be proud and constructive."
+    ]
+  },
+  {
+    "id": "int_choice_6",
+    "fb": [
+      "Blaming others publicly is never a good look. It makes you seem unprofessional.",
+      "Professional and composed. Shows resilience and grace under pressure.",
+      "If the issue was visible to viewers, pretending it didn't happen seems dishonest."
+    ]
+  },
+  {
+    "id": "int_choice_7",
+    "fb": [
+      "Very rude and will create negative headlines. Never dismiss other artists.",
+      "Diplomatic and positive — avoids picking favourites while showing respect.",
+      "Picking a clear favourite can offend other delegations and create drama."
+    ]
+  },
+  {
+    "id": "int_choice_8",
+    "fb": [
+      "Sounds mercenary. Eurovision isn't supposed to be about money.",
+      "Loyal to Sweden but open-minded — a classy answer.",
+      "A bit too rigid. Many beloved Eurovision artists have represented different countries."
+    ]
+  },
+  {
+    "id": "int_choice_9",
+    "fb": [
+      "Sore loser attitude. This will attract negative press.",
+      "Gracious and positive. Reframes the result in a way that emphasises the achievement.",
+      "Sounds dismissive and inauthentic. The audience knows you care."
+    ]
+  },
+  {
+    "id": "int_choice_10",
+    "fb": [
+      "Even if it's false, shutting it down this hard closes the door. Be more playful.",
+      "Perfect tease — builds excitement without confirming or denying.",
+      "If your label hasn't announced it yet, leaking details in an interview could cause problems."
+    ]
+  }
+]

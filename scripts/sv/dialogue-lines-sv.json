@@ -1,0 +1,266 @@
+{
+  "int_dialogue_1": [
+    "Grattis till att du gick vidare! Hur känns det just nu?",
+    "Jag är i sjunde himlen! Jag kan inte fatta att vi är i finalen!",
+    "Publiken verkade älska ditt framträdande. Kände du den energin på scenen?",
+    "Absolut — publiken var otrolig. Jag kunde känna varje jubel.",
+    "Vad kan vi vänta oss av dig i finalen?",
+    "Vi har några överraskningar på lut. Jag vill bara ge mitt livs bästa framträdande."
+  ],
+  "int_dialogue_2": [
+    "Din låt har verkligen berört många. Kan du berätta om inspirationen?",
+    "Den föddes ur en period i mitt liv när jag kände mig vilse, men musiken bar mig tillbaka.",
+    "Så den är självbiografisk?",
+    "Delvis. Känslorna är på riktigt, men jag har vävt in berättelser från människor omkring mig också.",
+    "Så refrängen handlar verkligen om hopp, eller hur?",
+    "Precis. Oavsett hur mörkt det blir finns det alltid en väg framåt."
+  ],
+  "int_dialogue_3": [
+    "Vem tror du är din största konkurrent i år?",
+    "Ärligt talat försöker jag inte tänka på det som en tävling. Alla här är otroligt begåvade.",
+    "Men du har säkert sett några starka bidrag?",
+    "Javisst — nivån i år är fantastisk. Men jag fokuserar på att leverera mitt bästa.",
+    "Sverige är ofta bland favoriterna. Blir det extra press?",
+    "Det är alltid press, men jag använder den som bränsle. Den får mig att jobba hårdare."
+  ],
+  "int_dialogue_4": [
+    "Du ser fantastisk ut i kväll! Vem har du på dig?",
+    "Tack! Jag har en svensk designer — det kändes rätt att representera Sverige på alla sätt.",
+    "Vad ser du mest fram emot den här veckan?",
+    "Att träffa de andra artisterna och uppleva hela Eurovision-stämningen.",
+    "Några ritualer innan show?",
+    "Jag värmer alltid upp rösten och lyssnar på min favoritspellista för att lugna nerverna."
+  ],
+  "int_dialogue_5": [
+    "Du kom precis från scenen — hur var det?",
+    "Jag skakar fortfarande! Det var de tre mest fantastiska minuterna i mitt liv.",
+    "Det var en stund som såg väldigt känslosam ut. Vad hände?",
+    "Jag tittade ut i publiken och såg tusentals svenska flaggor. Det slog mig bara.",
+    "Är du nöjd med hur det gick?",
+    "Jag gav allt jag hade. Vad som än händer nu är jag i harmoni med det."
+  ],
+  "int_dialogue_6": [
+    "Det var lite negativa rubriker om dig förra året. Hur svarar du på det?",
+    "Jag tror alla möter utmaningar. Jag har lärt mig och växt som människa.",
+    "Tror du att det påverkade valet av dig till Eurovision?",
+    "Jag vill hoppas att jag valdes för min musik och mitt framträdande.",
+    "Okej. Låt oss prata om låten i stället.",
+    "Gärna! Låten är verkligen det jag är här för."
+  ],
+  "int_dialogue_7": [
+    "Sverige har en fantastisk track record i Eurovision. Varför tror du det?",
+    "Vi har en stark poptradition och en nationell uttagning som verkligen kräver kvalitet.",
+    "Vad gör svensk pop speciell?",
+    "Jag tror det är fokus på melodi och känsla. Vi älskar en stark hook.",
+    "Vilka är dina musikaliska hjältar från Sverige?",
+    "För många att räkna upp — Sverige har en lång rad låtskrivare och artister som format pop."
+  ],
+  "int_dialogue_8": [
+    "Fansen går bananas online! Har du sett memserna?",
+    "Ja! Jag älskar det — vissa är så kreativa. Min favorit var den med katten.",
+    "Om du fick göra en duett med vilken Eurovision-artist som helst, då eller nu, vem skulle det vara?",
+    "Någon från Norden — vi delar en del musikalisk DNA, tycker jag.",
+    "Sista frågan — vad är din guilty pleasure när du är ledig?",
+    "Ostig pop från 00-talet på full volym. Utan skam."
+  ],
+  "int_dialogue_9": [
+    "Kan du skissera konceptet bakom din scenografi?",
+    "Tanken är att skapa en intim känsla, även i en jättearena. Bara jag, ljuset och musiken.",
+    "Vi såg väldigt dramatiskt ljus. Planerat från början?",
+    "Ja, vi jobbade med ett grymt team från Stockholm. Varje ljuspunkt följer känslan i texten.",
+    "Någon pyro?",
+    "Ingen pyro — vi ville att fokus skulle ligga på rösten och berättelsen."
+  ],
+  "int_dialogue_10": [
+    "God morgon! Hur sov du efter all spänning?",
+    "Jag sov nästan ingenting! Jag var för överväldigad för att somna.",
+    "Vad var det första du gjorde när du kom tillbaka till hotellet?",
+    "Jag ringde familj i Sverige. De tittade på hela och grät.",
+    "Vad händer härnäst efter Eurovision?",
+    "Jag ger mig ut på en Europaturné i sommar och jobbar redan med ny musik."
+  ],
+  "fan_dialogue_1": [
+    "Åh herregud — det där var helt otroligt!",
+    "Tack så mycket! Jag skakar fortfarande av adrenalinet!",
+    "Den höga tonen i slutet gav mig kalla kårar. Hur gör du det?",
+    "Ha, mycket träning! Ärligt talat bar publiken mig genom det.",
+    "Du kommer vinna, jag vet bara!",
+    "Så snällt du är! Hur det än går var den här kvällen redan en dröm som slog in."
+  ],
+  "fan_dialogue_2": [
+    "Hej! Kan du signera vår flagga, snälla?",
+    "Självklart! Gärna. Har du en penna?",
+    "Här! Kan du skriva \"Go Sweden\" på den?",
+    "Ha, absolut! \"Go Sweden\" blir det. Varsågod!",
+    "Tack! Vi kom hela vägen från Göteborg bara för dig!",
+    "Va? Det gör mig så glad. Göteborgsfans är bäst!"
+  ],
+  "fan_dialogue_3": [
+    "Hej! Jag gillar det du gör. Får jag fråga — vad handlar det egentligen om?",
+    "Hej! Självklart. För mig handlar det om att hitta sin röst när alla säger åt dig att vara tyst.",
+    "Så starkt. Skrev du utifrån egen erfarenhet?",
+    "Delvis, ja. Jag tror alla kan känna igen sig i att man inte passar in.",
+    "Det träffade mig verkligen. Tack för att du delar det.",
+    "Tack för att du lyssnar — det är väl det musik är till för, att föra människor samman."
+  ],
+  "fan_dialogue_4": [
+    "Ursäkta — är du den svenska artisten?",
+    "Ja, det är jag! Gillar du festen?",
+    "Nu gör jag det! Jag röstade på dig fem gånger!",
+    "Fem gånger? Du är min hjälte! Var kommer du ifrån?",
+    "Jag kommer från Grekland! Vi älskar dig allihop där.",
+    "Grekland! Jag gillar ert bidrag i år också. Ska vi ta en drink och prata?"
+  ],
+  "fan_dialogue_5": [
+    "Jag har kollat din repetitionsklipp typ trehundra gånger — jag räknade!",
+    "Vänta — trehundra? Det är dedikation!",
+    "Ja! Och jag kan alla texter. Till och med bonuslåtarna!",
+    "Okej, det är fantastiskt. Du kan materialet bättre än jag!",
+    "Kan jag visa dig mitt fan-konto? Jag gör edits av dina framträdanden.",
+    "Det vill jag gärna! Skicka länken — jag delar min favorit."
+  ],
+  "fan_dialogue_6": [
+    "Hej! Vi kommer från Portugal, Spanien och Nederländerna!",
+    "Wow, en riktigt europeisk grupp! Så häftigt att ni är här tillsammans.",
+    "Vi träffades i Eurovision-forumet och bestämde oss för att resa ihop.",
+    "Det är en av de bästa sakerna med Eurovision — det för samman människor.",
+    "Vi har gjort en poster till dig! Kolla!",
+    "Åh herregud, den är så fin! Får jag ta en bild med er och postern?"
+  ],
+  "fan_dialogue_7": [
+    "Jag... öh... hej. Jag är... förlåt, jag är bara så nervös.",
+    "Hej, du behöver inte vara nervös! Vad heter du?",
+    "Jag heter Emma. Du är min största inspiration.",
+    "Emma, det är ärligt talat nästan så jag vill gråta. Tack så mycket.",
+    "Kan jag... kan jag få en kram?",
+    "Absolut! Kom här. Och vi tar en bild också, okej?"
+  ],
+  "fan_dialogue_8": [
+    "Min bästa vän är din största fan, men hon är sjuk och kunde inte komma. Kan du spela in en kort video till henne?",
+    "Å nej, självklart! Vad heter hon?",
+    "Hon heter Mia.",
+    "Okej, håll upp telefonen. Redo? — Hej Mia! Skickar en stor kram härifrån — jag hörde att du inte mår bra. Krya på dig, och jag hoppas vi kan ses nästa gång!",
+    "Hon kommer bli galen! Tack så mycket!",
+    "Säg att jag hälsar och att hon har världens bästa kompis som ordnar det här."
+  ],
+  "fan_dialogue_9": [
+    "Jag har gjort det här armbandet till dig. Det har svenska färgerna.",
+    "Åh wow, du har gjort det själv? Det är jättefint!",
+    "Jag har jobbat på det i två veckor. Jag hoppas du gillar det.",
+    "Gilla? Jag älskar det! Jag sätter på det nu. Kolla!",
+    "Det sitter perfekt på dig!",
+    "Jag har det här på under finalen. Det är min lyckobringare nu!"
+  ],
+  "fan_dialogue_10": [
+    "Jag vill också bli sångare — har du några råd?",
+    "Det är fantastiskt! Det viktigaste är att fortsätta sjunga även när ingen lyssnar.",
+    "Men vad om folk säger att jag inte är tillräckligt bra?",
+    "Lita på mig, det har sagts mig med. Fortsätt öva och tro på dig själv.",
+    "Har du någonsin velat ge upp?",
+    "Många gånger! Men så hör jag en låt som påminner mig om varför jag började. Ge aldrig upp det som gör dig glad."
+  ],
+  "back_dialogue_1": [
+    "Du får din cue när LED-väggen blir blå.",
+    "Uppfattat. Och jag går till mitten av scenen?",
+    "Ja. Ställ dig på din mark på X och vänta på musiken.",
+    "Vad om jag missar cueen?",
+    "Jag ger dig en nedräkning i öronen. Lyssna bara efter min röst.",
+    "Tack, det hjälper mycket."
+  ],
+  "back_dialogue_2": [
+    "Hej, kan vi justera min in-ear-mix?",
+    "Klart. Vad behöver du?",
+    "Mer av min egen röst och mindre playback, snälla.",
+    "Jag drar upp din vokal. Hur vill du ha klicket?",
+    "Behåll klicket, men lite lägre.",
+    "Klart. Vi testar vid nästa genomspel."
+  ],
+  "back_dialogue_3": [
+    "Din snabba ombytning är efter andra refrängen. Du har 20 sekunder.",
+    "Det är väldigt tight. Kan vi använda kardborre i stället för knappar?",
+    "Vi har redan bytt till tryckknappar. Två hjälpare står stage right.",
+    "Finns det en skärm så kameran inte ser mig?",
+    "Ja, vi har en integritetsskärm uppsatt.",
+    "Perfekt. Öva en gång till innan show."
+  ],
+  "back_dialogue_4": [
+    "Jag är nervös inför presskonferensen. Kan du hjälpa mig med några fraser?",
+    "Självklart. Vilka ämnen förväntar du dig?",
+    "De kommer sannolikt fråga om låtens betydelse och min scenidé.",
+    "Jag sitter bredvid dig. Om du fastnar, titta på mig så hjälper jag översätta.",
+    "Kan jag svara delvis på svenska om det är för svårt?",
+    "Absolut. Jag översätter svenska delen för alla i rummet."
+  ],
+  "back_dialogue_5": [
+    "Vi har varmt bärnstensljus för första versen. Sedan en färgwash för refrängen.",
+    "Kan spotlighten vara mindre intensiv? Den bländade vid repetitionen.",
+    "Jag sänker den 20 procent. Under bridge har vi blackout två takter.",
+    "Ser jag min mark i mörkret?",
+    "Vi lägger självlysande tejp på golvet till dig.",
+    "Toppen, det låter bra."
+  ],
+  "back_dialogue_6": [
+    "Hur ser mitt schema ut imorgon?",
+    "Du har kamera-rep kl 10, press meet-and-greet kl 13 och full genomklädsel kl 17.",
+    "När är smink och kläder?",
+    "Hår och smink kl 8:30 i green room. Kläder direkt efter.",
+    "Finns tid för röstuppvärmning?",
+    "Ja, vi har bokat ett rum 9:15–9:45."
+  ],
+  "back_dialogue_7": [
+    "Ursäkta, min in-ear tappar bort på vänster sida.",
+    "Försvinner den helt eller bara sprakar?",
+    "Den tappar en sekund, sedan kommer den tillbaka.",
+    "Kan vara störningar. Jag byter dig till en reservfrekvens.",
+    "Ska jag behålla samma öron eller få nya?",
+    "Behåll öronen — jag byter bara sändaren. Ge mig fem minuter."
+  ],
+  "back_dialogue_8": [
+    "Hur känns det? Redo för i kväll?",
+    "Lite nervös, men förväntansfull. Är allt på track?",
+    "Allt ser bra ut. Vi fixade ljuspunkten från igår.",
+    "Och konfettikanonerna?",
+    "Laddade och timade till sista tonen. Du får nedräkning på kom.",
+    "Makalöst. Kör vi!"
+  ],
+  "panic_dialogue_1": [
+    "Ursäkta, jag är vilse. Jag måste till huvudscenen.",
+    "Har du din artistbricka?",
+    "Ja, här är den.",
+    "Okej, gå ner i den här korridoren, sväng vänster och följ skyltarna till Hall A.",
+    "Vänster och sedan Hall A. Tusen tack!",
+    "Varsågod. Lycka till i kväll!"
+  ],
+  "panic_dialogue_2": [
+    "Jag mår inte bra. Jag är yr.",
+    "Sitt här. Behöver du vatten?",
+    "Ja, snälla. Och jag tror jag behöver en läkare.",
+    "Jag radionerar läkaren på plats. Är du allergisk mot något?",
+    "Inga allergier. Jag har bara inte ätit idag.",
+    "Okej, stanna här. Hjälp är på väg."
+  ],
+  "panic_dialogue_3": [
+    "Kan du utveckla de geopolitiska undertonerna i din låts berättelse?",
+    "Förlåt, kan du säga det med enklare ord?",
+    "Handlar din låt om politik?",
+    "Åh! Nej, det är en kärlekslåt. Den handlar om att sakna någon.",
+    "Tack för tydligheten!",
+    "Tack för att du frågade igen på ett enklare sätt."
+  ],
+  "panic_dialogue_4": [
+    "Förlåt, jag kan inte släppa in dig utan bricka.",
+    "Jag förstår, men jag är den svenska artisten. Jag tappade bort min bricka.",
+    "Kan du kontakta min delegation för att bekräfta?",
+    "Ja, låt mig ringa dem. Kan jag låna din telefon? Jag tappade min också.",
+    "Visst. Vad är numret?",
+    "Tack så mycket. Numret står på det här papperet."
+  ],
+  "panic_dialogue_5": [
+    "Ursäkta, jag fick höra att green room är här, men det här ser ut som ett lager.",
+    "Green rooms är på andra våningen. Det här är källaren.",
+    "Å nej. Hur kommer jag till andra våningen?",
+    "Ta hissen i slutet av korridoren. Tryck 2.",
+    "Hiss, tryck 2. Jag har det. Tack!",
+    "Var så god, den här arenan är förvirrande. Händer hela tiden."
+  ]
+}

@@ -1,0 +1,687 @@
+[
+  {
+    "id": "panic_phrase_1",
+    "type": "phrase",
+    "en": "Can you repeat that?",
+    "sv": "Kan du upprepa det?",
+    "section": "panic",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "panic_phrase_2",
+    "type": "phrase",
+    "en": "Please speak slower.",
+    "sv": "Kan du prata långsammare?",
+    "section": "panic",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "panic_phrase_3",
+    "type": "phrase",
+    "en": "I don't understand.",
+    "sv": "Jag förstår inte.",
+    "section": "panic",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "panic_phrase_4",
+    "type": "phrase",
+    "en": "Can someone translate?",
+    "sv": "Kan någon översätta?",
+    "section": "panic",
+    "tags": [
+      "communication",
+      "translation"
+    ]
+  },
+  {
+    "id": "panic_phrase_5",
+    "type": "phrase",
+    "en": "I need help.",
+    "sv": "Jag behöver hjälp.",
+    "section": "panic",
+    "tags": [
+      "emergency"
+    ]
+  },
+  {
+    "id": "panic_phrase_6",
+    "type": "phrase",
+    "en": "Where is the bathroom?",
+    "sv": "Var är toaletten?",
+    "section": "panic",
+    "tags": [
+      "directions"
+    ]
+  },
+  {
+    "id": "panic_phrase_7",
+    "type": "phrase",
+    "en": "Where is the exit?",
+    "sv": "Var är utgången?",
+    "section": "panic",
+    "tags": [
+      "directions",
+      "emergency"
+    ]
+  },
+  {
+    "id": "panic_phrase_8",
+    "type": "phrase",
+    "en": "I'm lost. Can you help me find my way?",
+    "sv": "Jag har gått vilse. Kan du hjälpa mig hitta rätt?",
+    "section": "panic",
+    "tags": [
+      "directions"
+    ]
+  },
+  {
+    "id": "panic_phrase_9",
+    "type": "phrase",
+    "en": "I don't feel well.",
+    "sv": "Jag mår inte bra.",
+    "section": "panic",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "id": "panic_phrase_10",
+    "type": "phrase",
+    "en": "I need a doctor.",
+    "sv": "Jag behöver en läkare.",
+    "section": "panic",
+    "tags": [
+      "medical",
+      "emergency"
+    ]
+  },
+  {
+    "id": "panic_phrase_11",
+    "type": "phrase",
+    "en": "I'm having a panic attack. Please stay with me.",
+    "sv": "Jag har en panikattack. Kan du stanna hos mig?",
+    "section": "panic",
+    "tags": [
+      "medical",
+      "emergency"
+    ]
+  },
+  {
+    "id": "panic_phrase_12",
+    "type": "phrase",
+    "en": "I'm allergic to ___.",
+    "sv": "Jag är allergisk mot ___.",
+    "section": "panic",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "id": "panic_phrase_13",
+    "type": "phrase",
+    "en": "I'm sorry, I didn't mean that.",
+    "sv": "Förlåt, jag menade inte det.",
+    "section": "panic",
+    "tags": [
+      "apology"
+    ]
+  },
+  {
+    "id": "panic_phrase_14",
+    "type": "phrase",
+    "en": "Sorry — English isn't my first language.",
+    "sv": "Ursäkta — engelska är inte mitt modersmål.",
+    "section": "panic",
+    "tags": [
+      "communication",
+      "apology"
+    ]
+  },
+  {
+    "id": "panic_phrase_15",
+    "type": "phrase",
+    "en": "Can you show me on a map?",
+    "sv": "Kan du visa mig på en karta?",
+    "section": "panic",
+    "tags": [
+      "directions"
+    ]
+  },
+  {
+    "id": "panic_phrase_16",
+    "type": "phrase",
+    "en": "I've lost my phone.",
+    "sv": "Jag har tappat bort min telefon.",
+    "section": "panic",
+    "tags": [
+      "emergency"
+    ]
+  },
+  {
+    "id": "panic_phrase_17",
+    "type": "phrase",
+    "en": "I've lost my badge. I can't get backstage.",
+    "sv": "Jag har tappat bort mitt pass. Jag kan inte komma backstage.",
+    "section": "panic",
+    "tags": [
+      "emergency",
+      "backstage"
+    ]
+  },
+  {
+    "id": "panic_phrase_18",
+    "type": "phrase",
+    "en": "What did you say? I didn't catch that.",
+    "sv": "Vad sa du? Jag hörde inte.",
+    "section": "panic",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "panic_phrase_19",
+    "type": "phrase",
+    "en": "Can you write it down for me?",
+    "sv": "Kan du skriva ner det åt mig?",
+    "section": "panic",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "panic_phrase_20",
+    "type": "phrase",
+    "en": "I need to call my delegation.",
+    "sv": "Jag behöver ringa min delegation.",
+    "section": "panic",
+    "tags": [
+      "emergency",
+      "communication"
+    ]
+  },
+  {
+    "id": "panic_phrase_21",
+    "type": "phrase",
+    "en": "Where is the Swedish delegation room?",
+    "sv": "Var är det svenska delegationsrummet?",
+    "section": "panic",
+    "tags": [
+      "directions"
+    ]
+  },
+  {
+    "id": "panic_phrase_22",
+    "type": "phrase",
+    "en": "I'm supposed to be on stage right now!",
+    "sv": "Jag ska vara på scenen just nu!",
+    "section": "panic",
+    "tags": [
+      "emergency",
+      "schedule"
+    ]
+  },
+  {
+    "id": "panic_phrase_23",
+    "type": "phrase",
+    "en": "Do you speak Swedish?",
+    "sv": "Pratar du svenska?",
+    "section": "panic",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "panic_phrase_24",
+    "type": "phrase",
+    "en": "I need water, please.",
+    "sv": "Jag behöver vatten, tack.",
+    "section": "panic",
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "id": "panic_phrase_25",
+    "type": "phrase",
+    "en": "Please help me find my team.",
+    "sv": "Kan du hjälpa mig hitta mitt team?",
+    "section": "panic",
+    "tags": [
+      "emergency",
+      "directions"
+    ]
+  },
+  {
+    "id": "panic_phrase_26",
+    "type": "phrase",
+    "en": "I'm from Sweden. I'm with the Swedish delegation.",
+    "sv": "Jag är från Sverige. Jag är med den svenska delegationen.",
+    "section": "panic",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "panic_phrase_27",
+    "type": "phrase",
+    "en": "Can you say that in simpler words?",
+    "sv": "Kan du säga det med enklare ord?",
+    "section": "panic",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "panic_phrase_28",
+    "type": "phrase",
+    "en": "I think there's been a misunderstanding.",
+    "sv": "Jag tror det har blivit ett missförstånd.",
+    "section": "panic",
+    "tags": [
+      "communication",
+      "apology"
+    ]
+  },
+  {
+    "id": "panic_phrase_29",
+    "type": "phrase",
+    "en": "I'm feeling a bit overwhelmed — can we pause for a second?",
+    "sv": "Jag känner mig lite överväldigad — kan vi pausa en sekund?",
+    "section": "panic",
+    "tags": [
+      "honest",
+      "pace"
+    ]
+  },
+  {
+    "id": "panic_phrase_30",
+    "type": "phrase",
+    "en": "I need a quiet place for five minutes — is that possible?",
+    "sv": "Jag behöver ett tyst ställe i fem minuter — går det?",
+    "section": "panic",
+    "tags": [
+      "grounding",
+      "pace"
+    ]
+  },
+  {
+    "id": "panic_phrase_31",
+    "type": "phrase",
+    "en": "Could you point me to the nearest crew help desk?",
+    "sv": "Kan du peka ut närmaste hjälpdisk för crew?",
+    "section": "panic",
+    "tags": [
+      "directions",
+      "crew"
+    ]
+  },
+  {
+    "id": "panic_phrase_32",
+    "type": "phrase",
+    "en": "I'm not sure I understood the instructions — can you repeat them slowly?",
+    "sv": "Jag är inte säker på att jag förstod instruktionerna — kan du upprepa långsamt?",
+    "section": "panic",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "panic_phrase_33",
+    "type": "phrase",
+    "en": "My throat is dry — is there water nearby?",
+    "sv": "Jag har torr hals — finns det vatten i närheten?",
+    "section": "panic",
+    "tags": [
+      "medical",
+      "practical"
+    ]
+  },
+  {
+    "id": "panic_phrase_34",
+    "type": "phrase",
+    "en": "I need my tour manager — can someone call them for me?",
+    "sv": "Jag behöver min tour manager — kan någon ringa dem åt mig?",
+    "section": "panic",
+    "tags": [
+      "emergency",
+      "team"
+    ]
+  },
+  {
+    "id": "panic_dialogue_1",
+    "type": "dialogue",
+    "scenario": "You're lost in the venue and need to find the stage",
+    "scenarioSv": "Du har gått vilse i arenan och behöver hitta scenen",
+    "lines": [
+      {
+        "speaker": "you",
+        "text": "Excuse me, I'm lost. I need to get to the main stage.",
+        "textSv": "Ursäkta, jag är vilse. Jag måste till huvudscenen."
+      },
+      {
+        "speaker": "other",
+        "text": "Do you have your artist badge?",
+        "textSv": "Har du din artistbricka?"
+      },
+      {
+        "speaker": "you",
+        "text": "Yes, here it is.",
+        "textSv": "Ja, här är den."
+      },
+      {
+        "speaker": "other",
+        "text": "Okay, go down this corridor, turn left, and follow the signs to Hall A.",
+        "textSv": "Okej, gå ner i den här korridoren, sväng vänster och följ skyltarna till Hall A."
+      },
+      {
+        "speaker": "you",
+        "text": "Left and then Hall A. Thank you so much!",
+        "textSv": "Vänster och sedan Hall A. Tusen tack!"
+      },
+      {
+        "speaker": "other",
+        "text": "You're welcome. Good luck tonight!",
+        "textSv": "Varsågod. Lycka till i kväll!"
+      }
+    ],
+    "section": "panic"
+  },
+  {
+    "id": "panic_dialogue_2",
+    "type": "dialogue",
+    "scenario": "You feel dizzy and need medical help",
+    "scenarioSv": "Du känner dig yr och behöver medicinsk hjälp",
+    "lines": [
+      {
+        "speaker": "you",
+        "text": "I don't feel well. I'm dizzy.",
+        "textSv": "Jag mår inte bra. Jag är yr."
+      },
+      {
+        "speaker": "other",
+        "text": "Sit down here. Do you need water?",
+        "textSv": "Sitt här. Behöver du vatten?"
+      },
+      {
+        "speaker": "you",
+        "text": "Yes, please. And I think I need a medic.",
+        "textSv": "Ja, snälla. Och jag tror jag behöver en läkare."
+      },
+      {
+        "speaker": "other",
+        "text": "I'll radio for the on-site doctor. Are you allergic to anything?",
+        "textSv": "Jag radionerar läkaren på plats. Är du allergisk mot något?"
+      },
+      {
+        "speaker": "you",
+        "text": "No allergies. I just haven't eaten today.",
+        "textSv": "Inga allergier. Jag har bara inte ätit idag."
+      },
+      {
+        "speaker": "other",
+        "text": "Okay, stay here. Help is on the way.",
+        "textSv": "Okej, stanna här. Hjälp är på väg."
+      }
+    ],
+    "section": "panic"
+  },
+  {
+    "id": "panic_dialogue_3",
+    "type": "dialogue",
+    "scenario": "A journalist asks a question you don't understand",
+    "scenarioSv": "En journalist ställer en fråga du inte förstår",
+    "lines": [
+      {
+        "speaker": "other",
+        "text": "Can you elaborate on the geopolitical undertones in your song's narrative?",
+        "textSv": "Kan du utveckla de geopolitiska undertonerna i din låts berättelse?"
+      },
+      {
+        "speaker": "you",
+        "text": "I'm sorry, can you say that in simpler words?",
+        "textSv": "Förlåt, kan du säga det med enklare ord?"
+      },
+      {
+        "speaker": "other",
+        "text": "Is your song about politics?",
+        "textSv": "Handlar din låt om politik?"
+      },
+      {
+        "speaker": "you",
+        "text": "Oh! No, it's a love song. It's about missing someone.",
+        "textSv": "Åh! Nej, det är en kärlekslåt. Den handlar om att sakna någon."
+      },
+      {
+        "speaker": "other",
+        "text": "Thank you for clarifying!",
+        "textSv": "Tack för tydligheten!"
+      },
+      {
+        "speaker": "you",
+        "text": "Thank you for asking again in a simpler way.",
+        "textSv": "Tack för att du frågade igen på ett enklare sätt."
+      }
+    ],
+    "section": "panic"
+  },
+  {
+    "id": "panic_dialogue_4",
+    "type": "dialogue",
+    "scenario": "Your accreditation badge is missing and security won't let you in",
+    "scenarioSv": "Ditt ackrediteringskort saknas och vakten släpper inte in dig",
+    "lines": [
+      {
+        "speaker": "other",
+        "text": "I'm sorry, I can't let you in without a badge.",
+        "textSv": "Förlåt, jag kan inte släppa in dig utan bricka."
+      },
+      {
+        "speaker": "you",
+        "text": "I understand, but I'm the Swedish artist. I lost my badge.",
+        "textSv": "Jag förstår, men jag är den svenska artisten. Jag tappade bort min bricka."
+      },
+      {
+        "speaker": "other",
+        "text": "Can you contact your delegation to confirm?",
+        "textSv": "Kan du kontakta min delegation för att bekräfta?"
+      },
+      {
+        "speaker": "you",
+        "text": "Yes, let me call them. Can I use your phone? I lost mine too.",
+        "textSv": "Ja, låt mig ringa dem. Kan jag låna din telefon? Jag tappade min också."
+      },
+      {
+        "speaker": "other",
+        "text": "Sure. What's the number?",
+        "textSv": "Visst. Vad är numret?"
+      },
+      {
+        "speaker": "you",
+        "text": "Thank you so much. The number is on this paper.",
+        "textSv": "Tack så mycket. Numret står på det här papperet."
+      }
+    ],
+    "section": "panic"
+  },
+  {
+    "id": "panic_dialogue_5",
+    "type": "dialogue",
+    "scenario": "Someone gives you wrong directions and you end up in the wrong place",
+    "scenarioSv": "Någon ger dig fel vägbeskrivning och du hamnar på fel ställe",
+    "lines": [
+      {
+        "speaker": "you",
+        "text": "Excuse me, I was told the green room is here, but this looks like a storage area.",
+        "textSv": "Ursäkta, jag fick höra att green room är här, men det här ser ut som ett lager."
+      },
+      {
+        "speaker": "other",
+        "text": "The green rooms are on the second floor. This is the basement.",
+        "textSv": "Green rooms är på andra våningen. Det här är källaren."
+      },
+      {
+        "speaker": "you",
+        "text": "Oh no. How do I get to the second floor?",
+        "textSv": "Å nej. Hur kommer jag till andra våningen?"
+      },
+      {
+        "speaker": "other",
+        "text": "Take the elevator at the end of this hall. Press 2.",
+        "textSv": "Ta hissen i slutet av korridoren. Tryck 2."
+      },
+      {
+        "speaker": "you",
+        "text": "Elevator, press 2. Got it. Thank you!",
+        "textSv": "Hiss, tryck 2. Jag har det. Tack!"
+      },
+      {
+        "speaker": "other",
+        "text": "No worries, this venue is confusing. Happens all the time.",
+        "textSv": "Var så god, den här arenan är förvirrande. Händer hela tiden."
+      }
+    ],
+    "section": "panic"
+  },
+  {
+    "id": "panic_choice_1",
+    "type": "choice",
+    "prompt": "Someone is speaking too fast and you can't follow. What do you say?",
+    "promptSv": "Någon pratar för snabbt och du hänger inte med. Vad säger du?",
+    "options": [
+      {
+        "text": "Sorry, could you speak a bit slower, please?",
+        "correct": true,
+        "feedback": "Polite and clear. Most people are happy to slow down when asked nicely.",
+        "feedbackSv": "Artigt och tydligt. De flesta saktar gärna ner om du ber snällt."
+      },
+      {
+        "text": "I understand.",
+        "correct": false,
+        "feedback": "Don't pretend to understand — you might miss important information. It's always okay to ask.",
+        "feedbackSv": "Låtsas inte förstå — du kan missa viktigt. Det är okej att fråga."
+      },
+      {
+        "text": "You talk too fast!",
+        "correct": false,
+        "feedback": "This sounds rude. Add 'please' and 'could you' to soften the request.",
+        "feedbackSv": "Låter otrevligt. Lägg till 'please' och 'could you'."
+      }
+    ],
+    "section": "panic"
+  },
+  {
+    "id": "panic_choice_2",
+    "type": "choice",
+    "prompt": "You feel sick right before going on stage. What do you tell the stage manager?",
+    "promptSv": "Du mår dåligt precis innan du ska gå på scen. Vad säger du till scenansvarig?",
+    "options": [
+      {
+        "text": "I don't feel well. I'm dizzy. Can I see a medic before I go on?",
+        "correct": true,
+        "feedback": "Good — you clearly state the problem and ask for help. Health comes first.",
+        "feedbackSv": "Bra — du beskriver problemet och ber om hjälp. Hälsa går först."
+      },
+      {
+        "text": "I'm fine, I'll push through.",
+        "correct": false,
+        "feedback": "Don't risk your health. Always tell someone if you feel unwell.",
+        "feedbackSv": "Riskera inte hälsan. Säg alltid till om du mår dåligt."
+      },
+      {
+        "text": "I can't do this!",
+        "correct": false,
+        "feedback": "Too vague and panicked. Try to describe what's wrong so people can help you.",
+        "feedbackSv": "För vagt och panik. Beskriv vad som är fel så kan de hjälpa dig."
+      }
+    ],
+    "section": "panic"
+  },
+  {
+    "id": "panic_choice_3",
+    "type": "choice",
+    "prompt": "You accidentally said something wrong in an interview. What's the best way to correct yourself?",
+    "promptSv": "Du sa av misstag något fel i en intervju. Vad är bästa sättet att rätta dig?",
+    "options": [
+      {
+        "text": "Sorry, that came out wrong. What I meant to say is…",
+        "correct": true,
+        "feedback": "Natural and polite. Everyone makes mistakes — correcting yourself shows confidence.",
+        "feedbackSv": "Naturligt och artigt. Alla gör fel — att rätta dig visar trygghet."
+      },
+      {
+        "text": "Never mind.",
+        "correct": false,
+        "feedback": "This leaves the wrong statement uncorrected. Always clarify what you actually meant.",
+        "feedbackSv": "Det felaktiga står kvar. Förklara alltid vad du egentligen menade."
+      },
+      {
+        "text": "That's not what I meant! You misunderstood me!",
+        "correct": false,
+        "feedback": "Blaming the listener sounds defensive. Take responsibility and calmly correct yourself.",
+        "feedbackSv": "Att skylla på andra låter defensivt. Ta ansvar och rätta lugnt."
+      }
+    ],
+    "section": "panic"
+  },
+  {
+    "id": "panic_choice_4",
+    "type": "choice",
+    "prompt": "You need to find your delegation urgently but you're in an unfamiliar part of the venue. What do you do?",
+    "promptSv": "Du behöver hitta din delegation akut men du är i en okänd del av arenan. Vad gör du?",
+    "options": [
+      {
+        "text": "Find a crew member with a radio and say: 'I need to reach the Swedish delegation. Can you radio them?'",
+        "correct": true,
+        "feedback": "Smart thinking! Crew members with radios can quickly contact anyone in the venue.",
+        "feedbackSv": "Smart! Crew med radio kan nå folk i hela arenan snabbt."
+      },
+      {
+        "text": "Wander around until I find them.",
+        "correct": false,
+        "feedback": "That wastes time. Ask someone with communication equipment for help.",
+        "feedbackSv": "Det slösar tid. Be någon med kommunikation om hjälp."
+      },
+      {
+        "text": "Wait here and hope someone finds me.",
+        "correct": false,
+        "feedback": "Be proactive. Look for security or crew and ask for help.",
+        "feedbackSv": "Var aktiv. Sök vakt eller crew och be om hjälp."
+      }
+    ],
+    "section": "panic"
+  },
+  {
+    "id": "panic_choice_5",
+    "type": "choice",
+    "prompt": "A security guard says something you don't understand and blocks your path. What do you say?",
+    "promptSv": "En vakt säger något du inte förstår och blockerar din väg. Vad säger du?",
+    "options": [
+      {
+        "text": "I'm sorry, I don't understand. I'm the Swedish artist. Here is my badge.",
+        "correct": true,
+        "feedback": "Calm, clear, and you provide proof of who you are. This resolves most situations.",
+        "feedbackSv": "Lugnt, tydligt och du visar legitimation. Löser de flesta situationer."
+      },
+      {
+        "text": "Let me through!",
+        "correct": false,
+        "feedback": "Confrontation with security never helps. Stay calm and explain who you are.",
+        "feedbackSv": "Konfrontation med vakter hjälper aldrig. Förklara vem du är."
+      },
+      {
+        "text": "I don't speak your language.",
+        "correct": false,
+        "feedback": "This shuts down communication. Try basic English and show your badge instead.",
+        "feedbackSv": "Det stänger kommunikationen. Prova enkel engelska och visa brickan."
+      }
+    ],
+    "section": "panic"
+  }
+]

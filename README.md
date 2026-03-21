@@ -67,7 +67,7 @@ npm run format:check
 
 Typical flow: **build on GitHub, upload `dist/`** — no manual FTP on every release.
 
-1. **VPS / Linux with SSH** (recommended): [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml) runs `npm run build` and **rsync** over SSH to your web root. Add secrets under **Settings → Secrets and variables → Actions** (listed in the workflow file). Optional **`DEPLOY_SSH_PORT`**: Inleed webbhotell often uses **2020** (default is 22). For `SSH_KNOWN_HOSTS`, use the same port, e.g. `ssh-keyscan -p 2020 -H ns5.inleed.net`. On the server: install `rsync`, point the vhost **document root** at `DEPLOY_PATH`. By default the workflow is **manual** (Actions → _Deploy_ → _Run workflow_); after secrets work, uncomment the `workflow_run` block in the YAML to deploy automatically whenever **CI** passes on `main`.
+1. **VPS / Linux with SSH** (recommended): [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml) runs `npm run build` and uploads `dist/` with **tar over SSH** (works on Inleed and other hosts that lack server-side `rsync`). Add secrets under **Settings → Secrets and variables → Actions** (listed in the workflow file). Optional **`DEPLOY_SSH_PORT`**: Inleed webbhotell often uses **2020** (default is 22). For `SSH_KNOWN_HOSTS`, use the same port, e.g. `ssh-keyscan -p 2020 -H ns14.inleed.net`. Point the vhost **document root** at `DEPLOY_PATH`. By default the workflow is **manual** (Actions → _Deploy_ → _Run workflow_); after secrets work, uncomment the `workflow_run` block in the YAML to deploy automatically whenever **CI** passes on `main`.
 
 2. **FTP/SFTP-only hosting:** use an action such as [FTP-Deploy-Action](https://github.com/SamKirkland/FTP-Deploy-Action) with the same build step, then upload `dist/`.
 

@@ -1,4 +1,4 @@
-# Deploy static site (Vite `dist/`) to your own server over SSH + rsync.
+# Deploy static site (Vite `dist/`) over SSH using tar (works on hosts without rsync, e.g. Inleed shared).
 #
 # Default: manual only (Actions → Deploy → Run workflow) so the repo stays green
 # until you add the secrets below.
@@ -15,9 +15,9 @@
 #   DEPLOY_PATH       — web root with trailing slash, e.g. /home/user/domains/felingo.se/public_html/
 #   DEPLOY_SSH_PORT   — optional; default 22. Inleed shared hosting usually 2020 (omit or set 2020)
 #
-# Server needs `rsync`. Point your vhost document root at DEPLOY_PATH.
+# Server only needs `tar` + `ssh` (no rsync required on the host). Point vhost document root at DEPLOY_PATH.
 #
-# MP3s in public/audio/ are gitignored — rsync them once from your machine, or generate on the server with ElevenLabs (.env).
+# MP3s in public/audio/ are gitignored — copy them up once (scp/tar), or generate on the server with ElevenLabs (.env).
 
 name: Deploy
 
@@ -34,7 +34,7 @@ concurrency:
 
 jobs:
   deploy:
-    name: Build and rsync to server
+    name: Build and deploy to server
     runs-on: ubuntu-latest
     # Uncomment when `workflow_run` is enabled (required for correct filtering):
     # if: |
@@ -67,12 +67,16 @@ jobs:
           echo "${{ secrets.SSH_KNOWN_HOSTS }}" >> ~/.ssh/known_hosts
           chmod 644 ~/.ssh/known_hosts
 
-      - name: Rsync dist/ to server
+      - name: Upload dist/ via tar over SSH
         env:
           DEPLOY_USER: ${{ secrets.DEPLOY_USER }}
           DEPLOY_HOST: ${{ secrets.DEPLOY_HOST }}
           DEPLOY_PATH: ${{ secrets.DEPLOY_PATH }}
           DEPLOY_SSH_PORT: ${{ secrets.DEPLOY_SSH_PORT }}
         run: |
+          set -euo pipefail
           PORT="${DEPLOY_SSH_PORT:-22}"
-          rsync -avz --delete -e "ssh -p ${PORT}" dist/ "${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_PATH}"
+          REMOTE="${DEPLOY_USER}@${DEPLOY_HOST}"
+          # Many shared hosts (e.g. Inleed) have no rsync for non-interactive SSH — tar + ssh works instead.
+          ssh -p "${PORT}" "${REMOTE}" "mkdir -p '${DEPLOY_PATH}' && cd '${DEPLOY_PATH}' && find . -mindepth 1 -maxdepth 1 -exec rm -rf {} +"
+          tar czf - -C dist . | ssh -p "${PORT}" "${REMOTE}" "tar xzf - -C '${DEPLOY_PATH}'"

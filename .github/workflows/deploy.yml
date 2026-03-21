@@ -9,10 +9,11 @@
 #
 # Secrets (Settings → Secrets and variables → Actions):
 #   SSH_PRIVATE_KEY   — PEM private key; add matching .pub to server ~/.ssh/authorized_keys
-#   SSH_KNOWN_HOSTS   — output of: ssh-keyscan -H your.server.example
-#   DEPLOY_USER       — SSH user (e.g. deploy)
-#   DEPLOY_HOST       — hostname or IP
-#   DEPLOY_PATH       — web root with trailing slash, e.g. /var/www/felingo/
+#   SSH_KNOWN_HOSTS   — ssh-keyscan (see below; Inleed webbhotell often needs -p 2020)
+#   DEPLOY_USER       — SSH user (DirectAdmin username on Inleed shared hosting)
+#   DEPLOY_HOST       — hostname, e.g. ns5.inleed.net or prime3.inleed.net (from Inleed)
+#   DEPLOY_PATH       — web root with trailing slash, e.g. /home/user/domains/felingo.se/public_html/
+#   DEPLOY_SSH_PORT   — optional; default 22. Inleed shared hosting usually 2020 (omit or set 2020)
 #
 # Server needs `rsync`. Point your vhost document root at DEPLOY_PATH.
 #
@@ -71,4 +72,7 @@ jobs:
           DEPLOY_USER: ${{ secrets.DEPLOY_USER }}
           DEPLOY_HOST: ${{ secrets.DEPLOY_HOST }}
           DEPLOY_PATH: ${{ secrets.DEPLOY_PATH }}
-        run: rsync -avz --delete -e ssh dist/ "${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_PATH}"
+          DEPLOY_SSH_PORT: ${{ secrets.DEPLOY_SSH_PORT }}
+        run: |
+          PORT="${DEPLOY_SSH_PORT:-22}"
+          rsync -avz --delete -e "ssh -p ${PORT}" dist/ "${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_PATH}"

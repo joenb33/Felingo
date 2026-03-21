@@ -1,3 +1,4 @@
+import { useEffect } from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { SpeechProvider } from "@/context/SpeechContext";
 import { Header } from "@/components/layout/Header";
@@ -8,8 +9,13 @@ import { PanicPage } from "@/pages/PanicPage";
 import { FavoritesPage } from "@/pages/FavoritesPage";
 import { DisclaimerPage } from "@/pages/DisclaimerPage";
 import { Footer } from "@/components/layout/Footer";
+import { recordVisit } from "@/lib/recordVisit";
 
 export function App() {
+  useEffect(() => {
+    recordVisit();
+  }, []);
+
   return (
     <ErrorBoundary>
       <SpeechProvider>

@@ -17,6 +17,10 @@
 #
 # Server only needs `tar` + `ssh` (no rsync required on the host). Point vhost document root at DEPLOY_PATH.
 #
+# Visit counter (public/visit.php → dist/visit.php): create a writable directory NEXT TO the site root
+# (sibling of public_html), named felingo_visitor_stats — deploy wipes DEPLOY_PATH only, so stats persist.
+# Example: if DEPLOY_PATH is .../felingo.se/public_html/ then mkdir .../felingo.se/felingo_visitor_stats && chmod 750
+#
 # MP3s in public/audio/ are gitignored — copy them up once (scp/tar), or generate on the server with ElevenLabs (.env).
 
 name: Deploy

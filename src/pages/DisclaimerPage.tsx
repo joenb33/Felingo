@@ -68,6 +68,13 @@ export function DisclaimerPage() {
           </h2>
           <p>{ui.disclaimer.eurovisionBody}</p>
         </section>
+
+        <section>
+          <h2 className="mb-3 text-[17px] font-semibold text-white">
+            {ui.disclaimer.visitsHeading}
+          </h2>
+          <p>{ui.disclaimer.visitsBody}</p>
+        </section>
       </div>
     </main>
   );

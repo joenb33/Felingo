@@ -88,6 +88,9 @@ export const ui = {
     eurovisionHeading: "Varumärken och oberoende",
     eurovisionBody:
       "Eurovision Song Contest och relaterade namn och varumärken tillhör sina respektive rättsinnehavare. Felingo är ett oberoende övningsverktyg och är inte anslutet till, sponsrat eller godkänt av European Broadcasting Union (EBU), SVT eller andra officiella Eurovision-organisationer.",
+    visitsHeading: "Besöksstatistik",
+    visitsBody:
+      "Antalet sidladdningar mäts med ett enkelt anrop till servern (utan cookies i din webbläsare) för att se hur webbplatsen sprids. Uppgifterna används inte för marknadsföring eller profilering.",
   },
   error: {
     title: "Något gick fel",

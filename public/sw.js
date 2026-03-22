@@ -1,4 +1,4 @@
-const CACHE_NAME = "felingo-v2";
+const CACHE_NAME = "felingo-v3";
 const STATIC_ASSETS = ["/", "/favicon.svg", "/manifest.json"];
 
 self.addEventListener("install", (event) => {
@@ -34,6 +34,12 @@ self.addEventListener("fetch", (event) => {
         caches.match("/index.html").then((r) => r || caches.match("/")),
       ),
     );
+    return;
+  }
+
+  const url = new URL(event.request.url);
+  if (url.pathname.startsWith("/audio/")) {
+    event.respondWith(fetch(event.request));
     return;
   }
 

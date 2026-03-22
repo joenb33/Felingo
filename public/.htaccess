@@ -1,8 +1,14 @@
 # SPA fallback (Apache + mod_rewrite): real files (assets, mp3, php, …) unchanged.
+#
+# If an MP3 is missing, do NOT serve index.html here — that returns 200 + HTML and
+# breaks <audio> and the service worker cache. Return 404 so the app can fall back to Web Speech.
 <IfModule mod_rewrite.c>
   RewriteEngine On
   RewriteBase /
   RewriteRule ^index\.html$ - [L]
+  RewriteCond %{REQUEST_URI} ^/audio/ [NC]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteRule ^ - [R=404,L]
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteCond %{REQUEST_FILENAME} !-d
   RewriteRule . /index.html [L]

@@ -106,14 +106,11 @@ export function SpeechProvider({ children }: { children: ReactNode }) {
       const text = textForTtsPlayback(raw);
       if (!text) return;
       stop();
-      setSpeakingText(text);
 
       if (!canUseAudio) {
         speakWithWebSpeech(text);
         return;
       }
-
-      setIsSpeaking(true);
 
       const hash = sha256HexShortSync(text);
       const url = resolveAudioUrl(hash);
@@ -127,7 +124,12 @@ export function SpeechProvider({ children }: { children: ReactNode }) {
         speakWithWebSpeech(text);
       };
 
-      audio.onplay = () => setIsSpeaking(true);
+      // Call play() before any React setState so mobile Safari keeps the user-gesture chain.
+      // speakingText / isSpeaking update only once playback actually starts.
+      audio.onplay = () => {
+        setIsSpeaking(true);
+        setSpeakingText(text);
+      };
       audio.onended = () => {
         setIsSpeaking(false);
         setSpeakingText(null);
